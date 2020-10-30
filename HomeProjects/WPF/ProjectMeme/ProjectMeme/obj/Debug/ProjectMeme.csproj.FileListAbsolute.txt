@@ -1,0 +1,29 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\bin\Debug\ProjectMeme.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\bin\Debug\ProjectMeme.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\bin\Debug\ProjectMeme.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.pdb
+C:\Users\12001144\Desktop\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.csprojAssemblyReference.cache
+C:\Users\12001144\Desktop\ProjectMeme\ProjectMeme\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\Desktop\ProjectMeme\ProjectMeme\obj\Debug\App.g.cs
+C:\Users\12001144\Desktop\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme_MarkupCompile.cache
+C:\Users\12001144\Desktop\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme_MarkupCompile.lref
+C:\Users\12001144\Desktop\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.exe
+C:\Users\12001144\Desktop\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\ProjectMeme\ProjectMeme\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\ProjectMeme\ProjectMeme\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\ProjectMeme\ProjectMeme\obj\Debug\ProjectMeme.pdb

@@ -1,0 +1,39 @@
+C:\Users\jarne\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\jarne\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\jarne\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\jarne\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\jarne\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\jarne\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\jarne\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\jarne\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\jarne\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\jarne\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jarne\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\jarne\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\jarne\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
