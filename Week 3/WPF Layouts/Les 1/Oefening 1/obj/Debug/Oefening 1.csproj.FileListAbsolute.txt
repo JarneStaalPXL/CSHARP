@@ -1,0 +1,30 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\bin\Debug\Oefening 1.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\bin\Debug\Oefening 1.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\bin\Debug\Oefening 1.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening 1.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening 1_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening 1_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening 1.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening_1.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening 1.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening 1.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening 1.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Oefening 1\Oefening 1\obj\Debug\Oefening 1.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\bin\Debug\Oefening 1.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\bin\Debug\Oefening 1.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\bin\Debug\Oefening 1.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening 1.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening 1_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening 1_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening 1.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening_1.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening 1.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening 1.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening 1.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 1\Oefening 1\obj\Debug\Oefening 1.pdb

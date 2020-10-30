@@ -1,0 +1,15 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\bin\Debug\WpfLayouts2.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\bin\Debug\WpfLayouts2.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\bin\Debug\WpfLayouts2.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\WpfLayouts2\WpfLayouts2\obj\Debug\WpfLayouts2.pdb

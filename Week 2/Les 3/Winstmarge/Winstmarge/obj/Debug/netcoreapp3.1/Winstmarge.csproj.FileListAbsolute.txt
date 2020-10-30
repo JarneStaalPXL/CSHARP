@@ -1,0 +1,26 @@
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.exe
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.deps.json
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.runtimeconfig.json
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.runtimeconfig.dev.json
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.dll
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.pdb
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.csprojAssemblyReference.cache
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.AssemblyInfoInputs.cache
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.AssemblyInfo.cs
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.csproj.CoreCompileInputs.cache
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.dll
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.pdb
+C:\Users\12001144\Desktop\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.genruntimeconfig.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\bin\Debug\netcoreapp3.1\Winstmarge.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\Winstmarge\Winstmarge\obj\Debug\netcoreapp3.1\Winstmarge.genruntimeconfig.cache

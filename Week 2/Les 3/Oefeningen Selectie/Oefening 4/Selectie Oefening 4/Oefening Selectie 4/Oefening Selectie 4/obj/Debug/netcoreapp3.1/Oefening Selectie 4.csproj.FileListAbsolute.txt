@@ -1,0 +1,13 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\bin\Debug\netcoreapp3.1\Oefening Selectie 4.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\bin\Debug\netcoreapp3.1\Oefening Selectie 4.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\bin\Debug\netcoreapp3.1\Oefening Selectie 4.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\bin\Debug\netcoreapp3.1\Oefening Selectie 4.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\bin\Debug\netcoreapp3.1\Oefening Selectie 4.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\bin\Debug\netcoreapp3.1\Oefening Selectie 4.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\obj\Debug\netcoreapp3.1\Oefening Selectie 4.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\obj\Debug\netcoreapp3.1\Oefening Selectie 4.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\obj\Debug\netcoreapp3.1\Oefening Selectie 4.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\obj\Debug\netcoreapp3.1\Oefening Selectie 4.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\obj\Debug\netcoreapp3.1\Oefening Selectie 4.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\obj\Debug\netcoreapp3.1\Oefening Selectie 4.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 3\Oefeningen Selectie\Oefening 4\Selectie Oefening 4\Oefening Selectie 4\Oefening Selectie 4\obj\Debug\netcoreapp3.1\Oefening Selectie 4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\bin\Debug\netcoreapp3.1\GegevensPrint.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\bin\Debug\netcoreapp3.1\GegevensPrint.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\bin\Debug\netcoreapp3.1\GegevensPrint.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\bin\Debug\netcoreapp3.1\GegevensPrint.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\bin\Debug\netcoreapp3.1\GegevensPrint.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\bin\Debug\netcoreapp3.1\GegevensPrint.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\obj\Debug\netcoreapp3.1\GegevensPrint.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\obj\Debug\netcoreapp3.1\GegevensPrint.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\obj\Debug\netcoreapp3.1\GegevensPrint.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\obj\Debug\netcoreapp3.1\GegevensPrint.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\obj\Debug\netcoreapp3.1\GegevensPrint.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\obj\Debug\netcoreapp3.1\GegevensPrint.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\GegevensPrint\GegevensPrint\obj\Debug\netcoreapp3.1\GegevensPrint.genruntimeconfig.cache

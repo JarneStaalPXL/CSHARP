@@ -1,0 +1,46 @@
+﻿<Window x:Class="Oefening_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="211*"/>
+                <ColumnDefinition Width="329*"/>
+                <ColumnDefinition Width="94*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Button Grid.Row="0" Margin="0,45"
+                    >Ik ben 160 breed en 50 hoog</Button>
+
+            <Button Grid.Row="1">Een leutig tekstje</Button>
+
+            <Button Grid.Row="2" Margin="55,45">50 op 50</Button>
+
+            <Button Grid.Row="0" 
+                    Grid.Column="1"
+                    Margin="10,10,10.2,0"
+                    >10 Margin is best</Button>
+
+            <Button Grid.Row="1" 
+                    Grid.Column="2"
+                    Margin="9.8,10,8,10"
+                    >Ik ben een anarchist en heb geen heigth of width</Button>
+
+            <Button Grid.Row="2" Grid.Column="3" Margin="10">Another one</Button>
+            <TextBlock Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Margin="211,0,6,0"><Run Text="Dit zijn allemaal arbitraire tekstjes om het scherm te vullen."/><LineBreak/><Run Text="Hierdoor is het scherm niet zo leeg en moet je oefenen op "/><LineBreak/><Run Text="layouts te herkennen en te implemeneren.&#x9;"/></TextBlock>
+
+        </Grid>
+    </Grid>
+</Window>

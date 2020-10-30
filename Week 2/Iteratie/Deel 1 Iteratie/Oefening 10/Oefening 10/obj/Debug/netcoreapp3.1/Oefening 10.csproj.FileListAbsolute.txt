@@ -1,0 +1,26 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.genruntimeconfig.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\bin\Debug\netcoreapp3.1\Oefening 10.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Iteratie\Deel 1 Iteratie\Oefening 10\Oefening 10\obj\Debug\netcoreapp3.1\Oefening 10.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\12001144\Desktop\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.exe
+C:\Users\12001144\Desktop\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.deps.json
+C:\Users\12001144\Desktop\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.runtimeconfig.json
+C:\Users\12001144\Desktop\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.runtimeconfig.dev.json
+C:\Users\12001144\Desktop\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.dll
+C:\Users\12001144\Desktop\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.pdb
+C:\Users\12001144\Desktop\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.csprojAssemblyReference.cache
+C:\Users\12001144\Desktop\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.AssemblyInfoInputs.cache
+C:\Users\12001144\Desktop\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.AssemblyInfo.cs
+C:\Users\12001144\Desktop\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.csproj.CoreCompileInputs.cache
+C:\Users\12001144\Desktop\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.dll
+C:\Users\12001144\Desktop\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.pdb
+C:\Users\12001144\Desktop\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.genruntimeconfig.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\bin\Debug\netcoreapp3.1\TestInfo.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\Week 2\Les 3\TestInfo\TestInfo\obj\Debug\netcoreapp3.1\TestInfo.genruntimeconfig.cache

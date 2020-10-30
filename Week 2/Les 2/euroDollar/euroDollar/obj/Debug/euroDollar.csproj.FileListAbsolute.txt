@@ -1,0 +1,30 @@
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.csprojAssemblyReference.cache
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\App.g.cs
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar_MarkupCompile.cache
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar_MarkupCompile.lref
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\bin\Debug\euroDollar.exe.config
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\bin\Debug\euroDollar.exe
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\bin\Debug\euroDollar.pdb
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\MainWindow.baml
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.g.resources
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.Properties.Resources.resources
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.csproj.GenerateResource.cache
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.csproj.CoreCompileInputs.cache
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.exe
+C:\Users\12001144\Desktop\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\bin\Debug\euroDollar.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\bin\Debug\euroDollar.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\bin\Debug\euroDollar.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 2\euroDollar\euroDollar\obj\Debug\euroDollar.pdb

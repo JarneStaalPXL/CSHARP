@@ -1,0 +1,15 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\bin\Debug\Oefening 2.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\bin\Debug\Oefening 2.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\bin\Debug\Oefening 2.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening 2.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening 2_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening 2_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening 2.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening_2.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening 2.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening 2.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening 2.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\Week 3\WPF Layouts\Les 2\Oefeningen\Oefening 2\Oefening 2\obj\Debug\Oefening 2.pdb
