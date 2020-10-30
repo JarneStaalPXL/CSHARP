@@ -12,7 +12,6 @@
         <TextBox Background="White" TextAlignment="Center" HorizontalAlignment="Left" Height="33" Margin="169,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" TextChanged="TextBox_TextChanged_1"/>
         <Label Content="First, Last Name" HorizontalAlignment="Left" Background="White" Margin="46,115,0,0" VerticalAlignment="Top" Height="33" Width="101"/>
         <Label Content="Adress" HorizontalAlignment="Left"  Background="White" Margin="46,166,0,0" VerticalAlignment="Top" Height="33" Width="101"/>
-        <Label Background="White" Content="" HorizontalAlignment="Left" Margin="430,115,0,0" VerticalAlignment="Top" Height="239" Width="284"/>
-
+        <TextBlock Foreground="Black" Background="White" HorizontalAlignment="Left" Margin="389,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="239" Width="363" MouseDown="Output" />
     </Grid>
 </Window>
