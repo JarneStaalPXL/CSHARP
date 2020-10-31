@@ -8,10 +8,10 @@
         Title="Register" Background="Black" Height="450" Width="800">
     <Grid>
         <Button FontSize="40" FontFamily="Poppins" Content="Create" HorizontalAlignment="Left" Margin="169,301,0,0" VerticalAlignment="Top" Width="166" Height="53" Click="Button_Click"/>
-        <TextBox Background="white" TextAlignment="Center" HorizontalAlignment="Left" Height="33" Margin="169,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" TextChanged="TextBox_TextChanged"/>
-        <TextBox Background="White" TextAlignment="Center" HorizontalAlignment="Left" Height="33" Margin="169,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" TextChanged="TextBox_TextChanged_1"/>
+        <TextBox x:Name="inputname" FontWeight="Bold" Background="white" TextAlignment="Center" HorizontalAlignment="Left" Height="33" Margin="169,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="inputadress" FontWeight="Bold" Background="White" TextAlignment="Center" HorizontalAlignment="Left" Height="33" Margin="169,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" TextChanged="TextBox_TextChanged_1"/>
         <Label Content="First, Last Name" HorizontalAlignment="Left" Background="White" Margin="46,115,0,0" VerticalAlignment="Top" Height="33" Width="101"/>
         <Label Content="Adress" HorizontalAlignment="Left"  Background="White" Margin="46,166,0,0" VerticalAlignment="Top" Height="33" Width="101"/>
-        <TextBlock Foreground="Black" Background="White" HorizontalAlignment="Left" Margin="389,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="239" Width="363" MouseDown="Output" />
+        <Label x:Name="InfoLabel" Foreground="black" Background="White" FontSize="20" Content="" HorizontalAlignment="Left" Margin="416,115,0,0" VerticalAlignment="Top" Height="239" Width="307" MouseDown="Output1"/>
     </Grid>
 </Window>
