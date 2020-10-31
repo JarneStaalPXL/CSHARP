@@ -1,12 +1,65 @@
-﻿<Window x:Class="Test.MainWindow"
+﻿<Window x:Class="test.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Test"
+        xmlns:local="clr-namespace:test"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Register Users" Background="Black" Height="450" Width="800">
     <Grid>
-
+        
+        <TextBox x:Name="MainTextBox" 
+                 Width="229" 
+                 HorizontalAlignment="Left" 
+                 Margin="179,115,0,261"
+                 FontWeight="Bold"
+                 HorizontalContentAlignment="Center"
+                 FontSize="20"
+                />
+                 
+        <Label FontSize="19" 
+               Content="First, Last Name" 
+               HorizontalContentAlignment="Center" 
+               HorizontalAlignment="Left" 
+               Background="Transparent"
+               Foreground="White"
+               FontWeight="Bold"
+               Margin="10,124,0,0" 
+               VerticalAlignment="Top" 
+               Height="44" 
+               Width="153"/>
+        <Label Content="Adress" 
+               HorizontalContentAlignment="Center" 
+               HorizontalAlignment="Left"  
+               Background="Transparent"
+               Foreground="White"
+               FontWeight="Bold"
+               Margin="56,184,0,0" 
+               VerticalAlignment="Top" 
+               Height="44" 
+               Width="123" 
+               FontSize="25"/>
+        <Button Margin="179,249,385.6,63" 
+                x:Name="NameInputButton" 
+                Content="Add User" 
+                FontFamily="Calibri"
+                Click="NameInputButton_Click"
+                FontSize="45"/>
+        <Label 
+            Content=""
+            x:Name="InfoLabel" 
+            Margin="499,115,49.6,63"
+            FontSize="20"
+            Background="White"
+            Foreground="Black"
+            FontWeight="Bold"/>
+        <TextBox 
+            x:Name="adrestextbox" 
+            FontSize="20"
+            Width="229" 
+            HorizontalContentAlignment="Center"
+            HorizontalAlignment="Left" 
+            FontWeight="Bold"
+            Margin="179,184,0,192"/>
     </Grid>
 </Window>
