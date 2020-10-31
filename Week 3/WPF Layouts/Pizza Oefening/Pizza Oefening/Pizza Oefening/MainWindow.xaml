@@ -1,0 +1,83 @@
+﻿<Window x:Class="Pizza_Oefening.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pizza_Oefening"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="723.3" Width="1098.8">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="506*" />
+            <ColumnDefinition Width="182*" />
+            <ColumnDefinition Width="405*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" 
+                   Grid.Column="0"
+                   FontSize="20"
+                   Margin="10,10,7.6,9.6"> 
+                   Pizza's bij Bruno
+        </TextBlock>
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="20,0.4,15.6,0.2">
+            <TextBlock FontSize="20" Margin="5">Naam</TextBlock>
+            <TextBox Margin="5"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="20,69.4,15.6,0" Grid.RowSpan="2">
+            <TextBlock FontSize="20" Margin="5">Telefoonnummer</TextBlock>
+            <TextBox Margin="5"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Grid.Column="0" Margin="20,0,15.6,69.2" Grid.RowSpan="2">
+            <TextBlock FontSize="20" Margin="5">E-mail</TextBlock>
+            <TextBox Margin="5"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Grid.Column="0" Margin="20,0.4,15.6,0.2">
+            <TextBlock FontSize="20" Margin="5">Adres</TextBlock>
+            <TextBox Margin="5"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Grid.Column="0" Margin="20,69.4,15.6,68.16" Grid.RowSpan="3">
+            <TextBlock FontSize="20" Margin="5">Woonplaats</TextBlock>
+            <TextBox Margin="5"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="6" Grid.Column="0" Margin="20,0.2,15.6,207.16" Grid.RowSpan="2">
+            <TextBlock FontSize="20" Margin="5">Postcode</TextBlock>
+            <TextBox Margin="5"></TextBox>
+        </StackPanel>
+
+
+
+        <TextBlock 
+                   Grid.Column="1"
+                   Margin="11.4,10,1,69.2" 
+                   FontSize="18" Grid.RowSpan="2">
+                   Pizza's:
+        </TextBlock>
+        
+        <StackPanel HorizontalAlignment="Left" Orientation="Vertical" Grid.Row="1" Grid.Column="2" Margin="0,0.4,0,55" Grid.RowSpan="2" Width="30" >
+            <TextBox Width="20"  Margin="5" Height="18" HorizontalContentAlignment="Center">0</TextBox>
+
+            <TextBox Width="20"  Margin="5" Height="18" HorizontalContentAlignment="Center">0</TextBox>
+            <TextBox Width="20" Margin="5" Height="18" HorizontalContentAlignment="Center">0</TextBox>
+            <StackPanel/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Grid.Row="2" Grid.Column="2" Margin="0,13.8,-0.2,55.6" Grid.RowSpan="2" >
+            <TextBox   Margin="5" Width="20" Height="18" HorizontalContentAlignment="Center" >0</TextBox>
+            <TextBox   Margin="5" Width="20" Height="18" HorizontalContentAlignment="Center" >0</TextBox>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Grid.Row="3" Grid.Column="3">
+            <TextBox   Margin="5" Width="20" Height="18" HorizontalContentAlignment="Center">0</TextBox>
+            <TextBox   Margin="5" Width="20" Height="18" HorizontalContentAlignment="Center">0</TextBox>
+        </StackPanel>
+
+    </Grid>
+</Window>
+    
