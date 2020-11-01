@@ -45,10 +45,10 @@ namespace test
 
 
             DateTime date2 = DateTime.Now;
-            InfoLabel.Content = $"------------------USER INFO------------------ \n{date2.ToString(System.Globalization.CultureInfo.InvariantCulture)} \n"
-                 + $"Shipment \n {shipment}\n "
+            InfoLabel.Content = $"------------------SHIPMENT INFO------------------ {date2.ToString(System.Globalization.CultureInfo.InvariantCulture)} \n"
+                 + $" Shipment \n {shipment}\n "
                  + $"Delivery Company \n {delcomp} \n"
-                 + $"License Plate \n {license} \n";
+                 + $" License Plate \n {license} \n";
 
             string filePath = Directory.GetCurrentDirectory(); //@"C:\Users\jarne\source\repos\Arraytest\";
             string dbPath = System.IO.Path.Combine(filePath, "Database");
@@ -57,7 +57,7 @@ namespace test
 
             StreamWriter writer = new StreamWriter(inputFile, true);
             DateTime date1 = DateTime.Now;
-            writer.WriteLine($"------------------USER INFO------------------ \n{date1.ToString(System.Globalization.CultureInfo.InvariantCulture)} \n");
+            writer.WriteLine($"------------------SHIPMENT INFO------------------ \n{date1.ToString(System.Globalization.CultureInfo.InvariantCulture)} \n");
             for (int j = 0; j < 1; j++)
             {
                 writer.WriteLine($"Shipment Number \n  {shipment}\n");
@@ -70,8 +70,7 @@ namespace test
             int teller = 1;
             teller++;
 
-            Process explorer = new Process();
-            Process.Start("IExplore.exe", "https://www.scania.com/");
+            
 
             if (teller ==10)
             {
@@ -79,6 +78,12 @@ namespace test
                 Process notepad = new Process();
                 Process.Start("notepad", @"C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Database\SubmittedUserInfo.txt");
             }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Process explorer = new Process();
+            Process.Start("chrome.exe", "https://www.scania.com/be/nl/home.html");
         }
     }
 }

@@ -34,6 +34,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Scania.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="FontAwesome.Sharp, Version=5.15.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\FontAwesome.Sharp.5.15.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
@@ -122,6 +125,21 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="dzdzdz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\LOGO.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="LOGO.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="input-onlinepngtools.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Scania.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
