@@ -124,7 +124,7 @@
         <Rectangle Fill="#FFD40026" HorizontalAlignment="Left" Height="644" Stroke="Black" VerticalAlignment="Top" Width="157" Grid.RowSpan="3"/>
 
 
-        <Button Margin="-89,-78,371,185" Grid.ColumnSpan="2" Grid.RowSpan="2" Click="Button_Click" BorderBrush="Black">
+        <Button Margin="-89,-78,371,185" Grid.ColumnSpan="2" Grid.RowSpan="2" Click="Button_Click" BorderBrush="#FF1C1C1C">
             <Button.Template>
                 <ControlTemplate>
                     <Image Source="LOGO.png"/>

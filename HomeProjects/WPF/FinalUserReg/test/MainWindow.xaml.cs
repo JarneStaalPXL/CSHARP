@@ -51,8 +51,8 @@ namespace test
                  + $" License Plate \n {license} \n";
 
             string filePath = Directory.GetCurrentDirectory(); //@"C:\Users\jarne\source\repos\Arraytest\";
-            string dbPath = System.IO.Path.Combine(filePath, "Database");
-            string inputFile = System.IO.Path.Combine(dbPath, "SubmittedUserInfo.txt");
+            string dbPath = System.IO.Path.Combine(filePath, "DATABASE");
+            string inputFile = System.IO.Path.Combine(dbPath, "SHIPMENTS.txt");
             System.IO.Directory.CreateDirectory(dbPath);
 
             StreamWriter writer = new StreamWriter(inputFile, true);
@@ -76,7 +76,7 @@ namespace test
             {
                 MessageBox.Show("If Werkt");
                 Process notepad = new Process();
-                Process.Start("notepad", @"C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Database\SubmittedUserInfo.txt");
+                Process.Start("notepad", $@"C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Database\SHIPMENTS.txt");
             }
         }
 
