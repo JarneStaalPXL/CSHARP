@@ -37,3 +37,16 @@ C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arraytest\Arraytest\ob
 C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.dll
 C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.pdb
 C:\Users\jarne\OneDrive - PXL\PXL C#\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.genruntimeconfig.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\bin\Debug\netcoreapp3.1\Arraytest.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\bin\Debug\netcoreapp3.1\Arraytest.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\bin\Debug\netcoreapp3.1\Arraytest.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\bin\Debug\netcoreapp3.1\Arraytest.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\bin\Debug\netcoreapp3.1\Arraytest.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\bin\Debug\netcoreapp3.1\Arraytest.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Arraytest\Arraytest\obj\Debug\netcoreapp3.1\Arraytest.genruntimeconfig.cache

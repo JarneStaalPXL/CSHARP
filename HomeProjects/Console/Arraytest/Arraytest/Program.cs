@@ -63,7 +63,6 @@ namespace ConsoleApp1
 
             Process myProcess = new Process();
             Process.Start("notepad", @"C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Arraytest\Arraytest\bin\Debug\netcoreapp3.1\Database\SubmittedUserInfo.txt");
-            Console.ReadKey();
         }
     }
 }
