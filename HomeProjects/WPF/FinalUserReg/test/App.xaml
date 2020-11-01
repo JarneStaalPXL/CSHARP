@@ -4,6 +4,10 @@
              xmlns:local="clr-namespace:test"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="CustomFont">
+            <Setter Property="TextElement.FontFamily"
+                    Value="/Fonts/#RESEGRG"></Setter>
+        </Style>
+        
     </Application.Resources>
 </Application>

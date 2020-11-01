@@ -30,3 +30,4 @@ C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\o
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.pdb
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\FontAwesome.Sharp.dll
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\App.baml

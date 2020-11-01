@@ -67,16 +67,18 @@ namespace test
             }
             writer.Close();
 
-            int teller = 0;
+            int teller = 1;
             teller++;
 
+            Process explorer = new Process();
+            Process.Start("IExplore.exe", "https://www.scania.com/");
 
             if (teller ==10)
             {
                 MessageBox.Show("If Werkt");
-                Process myProcess = new Process();
+                Process notepad = new Process();
                 Process.Start("notepad", @"C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Database\SubmittedUserInfo.txt");
-            }   
+            }
         }
     }
 }

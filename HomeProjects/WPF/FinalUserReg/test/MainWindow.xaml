@@ -4,9 +4,10 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:test"
-        WindowState="Normal"  ResizeMode="CanMinimize" Height="672.825" Width="1200"
+        WindowState="Normal"  ResizeMode="CanMinimize" Height="672.825" Width="1300"
         mc:Ignorable="d"
-        Title="Register Users" Background="#04133e" >
+        
+        Title="Register Users" Background="#FF1A1A1A" >
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="127*" />
@@ -15,9 +16,9 @@
             <ColumnDefinition Width="168*" />
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="107*"/>
-            <RowDefinition Height="115*"/>
-            <RowDefinition Height="99*"/>
+            <RowDefinition Height="180*"/>
+            <RowDefinition Height="265*"/>
+            <RowDefinition Height="199*"/>
         </Grid.RowDefinitions>
 
 
@@ -26,63 +27,77 @@
 
 
 
-        <StackPanel Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" Width="376">
+        <StackPanel Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" Width="376" Margin="26,0">
             <Label 
                FontSize="23" 
+                Margin="0,-3,0,7"
                Content="SHIPMENT NR" 
                HorizontalContentAlignment="Center" 
                HorizontalAlignment="Left" 
                Background="Transparent"
                Foreground="White"
                VerticalAlignment="Top" 
-               Height="68" 
+               Height="33" 
                Width="366"
-               FontFamily="Calibri" FontWeight="Bold"/>
+               Style="{StaticResource CustomFont}" FontWeight="Bold"/>
         </StackPanel>
-        <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Margin="188,0" Width="0"/>
+        <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Margin="214,0" Width="0"/>
         <StackPanel Grid.Row="2" Grid.Column="2" >
             <Button x:Name="NameInputButton" 
                 Content="ADD" 
-                FontFamily="Calibri"
+                Style="{StaticResource CustomFont}" 
+                FontWeight="Bold"
                 Click="NameInputButton_Click"
-                FontSize="45" FontWeight="Bold" Height="97"
-                Background="Gray"    >
+                FontSize="45" 
+                Height="97"
+                BorderThickness="10"
+                Background="#FF1A1A1A" 
+                Margin="0,0,-204,0" BorderBrush="#FFD40026" Foreground="White">
             </Button>
         </StackPanel>
-        <StackPanel Grid.Column="2" Margin="0,175,0,0" Grid.RowSpan="2">
+        <StackPanel Grid.Column="2" Grid.Row="1">
             <Label
                 x:Name="InfoLabel" 
             FontSize="20"
             Background="White"
             Foreground="Black"
             FontWeight="Bold" 
-            Height="230" Margin="0,0,-190,0"></Label>
+            Height="230" Margin="0,0,-206,0"></Label>
         </StackPanel>
         <StackPanel/>
         <StackPanel Grid.Column="2" Grid.Row="2" Margin="0,10,0,0"/>
-        <StackPanel HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" Margin="134,34,144,10" Width="98"  >
+        <StackPanel HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" Margin="160,34,170,10" Width="98"  >
             <TextBox 
                  x:Name="Shipment" 
+                BorderThickness="2"
                  Width="286" 
                  Height="28"
-                 HorizontalAlignment="Left" 
+                Style="{StaticResource CustomFont}" FontWeight="Bold"
+                 HorizontalAlignment="Center" 
                  HorizontalContentAlignment="Center"
-                 FontSize="20" Margin="-94,0"/>
+                 FontSize="20" Margin="-94,0,-100,7" Background="#FF1A1A1A" BorderBrush="#FFD40026"/>
             <Label Content="DELIVERY COMPANY" 
+                   Margin="-180,-3,-180,3"
                HorizontalContentAlignment="Center" 
-               HorizontalAlignment="Left"  
+               HorizontalAlignment="Center"  
                Background="Transparent"
                Foreground="White"
                VerticalAlignment="Top" 
                Height="41" 
                Width="286" 
-               FontSize="23                " FontFamily="Calibri" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Margin="-94,0"/>
+               FontSize="23"
+                   Style="{StaticResource CustomFont}" 
+                   FontWeight="Bold"
+                   RenderTransformOrigin="0.5,0.5"/>
             <TextBox x:Name="DDelcomp" 
             FontSize="20"
             Width="286"
+            Style="{StaticResource CustomFont}" 
+            FontWeight="Bold"
+            BorderThickness="2"
             HorizontalContentAlignment="Center"
             HorizontalAlignment="Left" 
-            Margin="-94,0"/>
+            Margin="-94,0,-100,7" BorderBrush="#FFD40026" Foreground="Black" Background="#FF1A1A1A"/>
             <Label Content="LICENSE PLATE" 
                 HorizontalContentAlignment="Center" 
                 HorizontalAlignment="Left"  
@@ -91,15 +106,20 @@
                 VerticalAlignment="Top" 
                 Height="41" 
                 Width="286" 
-                FontSize="23                " FontFamily="Calibri" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Margin="-94,0"/>
+                FontSize="23" Style="{StaticResource CustomFont}" 
+                   FontWeight="Bold"  RenderTransformOrigin="0.5,0.5" Margin="-95,-1,-180,0"/>
             <TextBox x:Name="License" 
                 FontSize="20"
+                Style="{StaticResource CustomFont}" 
+                FontWeight="Bold"
+                BorderThickness="2"
                 Width="286"
                 HorizontalContentAlignment="Center"
                 HorizontalAlignment="Left" 
-                Margin="-94,0"/>
+                Margin="-94,0,-100,7" Background="#FF1A1A1A" BorderBrush="#FFD40026"/>
         </StackPanel>
-        <Image Margin="373,5,-82,-24" Source="LOGO.png" Stretch="Fill" Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="2"/>
-        <Image Grid.ColumnSpan="2" Grid.Column="2" Margin="0,143,0,40" Source="dzdzdz.png" Stretch="Fill"/>
+        <Image Grid.ColumnSpan="2" Grid.Column="2" Margin="0,143,0,5" Source="dzdzdz.png" Stretch="Fill"/>
+        <Rectangle Fill="#FFD40026" HorizontalAlignment="Left" Height="644" Stroke="Black" VerticalAlignment="Top" Width="157" Grid.RowSpan="3"/>
+        <Image Margin="-77,-21,386,10" Source="LOGO.png" Stretch="Fill" Grid.ColumnSpan="2"/>
     </Grid>
 </Window>
