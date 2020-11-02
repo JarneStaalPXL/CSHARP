@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\Oefening 10.csproj": {}
+    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\Oefening 10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\Oefening 10.csproj": {
+    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\Oefening 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\Oefening 10.csproj",
+        "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\Oefening 10.csproj",
         "projectName": "Oefening 10",
-        "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\Oefening 10.csproj",
+        "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\Oefening 10.csproj",
         "packagesPath": "C:\\Users\\12001144\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\obj\\",
+        "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 10\\Oefening 10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\12001144\\AppData\\Roaming\\NuGet\\NuGet.Config",

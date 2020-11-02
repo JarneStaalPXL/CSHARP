@@ -1,0 +1,13 @@
+------------------SHIPMENT INFO------------------ 
+11/01/2020 16:31:52 
+
+Shipment Number 
+  JZDIDZ666FF
+
+Delivery Company 
+  ZIHZIDJDZ
+
+License Plate 
+  ZUHDDHZ
+
+------------------------------------
