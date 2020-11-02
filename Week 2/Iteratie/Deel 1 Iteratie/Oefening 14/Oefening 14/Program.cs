@@ -8,6 +8,7 @@ namespace Oefening_14
         {
             int number = 100;
             int sum = 0;
+
             for (int i = 1; i < number; i++)
             {
                 if (i % 2 == 0 || i % 5 == 0)
