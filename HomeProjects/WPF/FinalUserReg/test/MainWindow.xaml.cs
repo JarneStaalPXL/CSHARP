@@ -32,9 +32,9 @@ namespace test
         public MainWindow()
         {
             InitializeComponent();
-        }  
+        }
 
-
+        int teller = 0;
         private void NameInputButton_Click(object sender, RoutedEventArgs e)
         {
 
@@ -67,14 +67,13 @@ namespace test
             }
             writer.Close();
 
-            int teller = 1;
+            
             teller++;
 
             
 
             if (teller ==10)
             {
-                MessageBox.Show("If Werkt");
                 Process notepad = new Process();
                 Process.Start("notepad", $@"C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Database\SHIPMENTS.txt");
             }
