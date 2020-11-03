@@ -81,5 +81,10 @@ namespace test
             Process notepad = new Process();
             Process.Start("notepad", $@"C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\DATABASE\SHIPMENTS.txt");
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("MainWindow.xaml", UriKind.Relative));
+        }
     }
 }

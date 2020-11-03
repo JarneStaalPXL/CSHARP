@@ -133,13 +133,24 @@
         </Button>
         <Button x:Name="regshipments" 
                 Content="EDIT REGISTRATED SHIPMENT" 
-   
-                Style="{StaticResource CustomButtonStyle}"
+                Style="{StaticResource CustomFont}"
                 FontWeight="Bold"
                 FontSize="35"
                 BorderThickness="8"
                 Background="#FF1A1A1A" 
                 Margin="0,46,-0.4,37" BorderBrush="White" Foreground="White" Grid.ColumnSpan="2" Grid.Column="2" Click="regshipments_Click"/>
+        <Button Content="Home" 
+                Style="{StaticResource CustomFont}"
+                
+                FontSize="17"
+                HorizontalAlignment="Left" 
+                Margin="0,34,0,0" 
+                Grid.Row="1" 
+                VerticalAlignment="Top" 
+                Width="157" 
+                Grid.ColumnSpan="2" 
+                Height="40" 
+                Background="White" Click="Button_Click_1"/>
 
 
         <!--<Image Margin="-77,-21,386,10" Source="LOGO.png" Stretch="Fill" Grid.ColumnSpan="2"/>-->
