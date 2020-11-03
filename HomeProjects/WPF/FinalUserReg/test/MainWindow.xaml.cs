@@ -15,6 +15,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.IO;
 using System.Diagnostics;
+using System.Timers;
 
 namespace test
 {
@@ -34,10 +35,8 @@ namespace test
             InitializeComponent();
         }
 
-        int teller = 0;
         private void NameInputButton_Click(object sender, RoutedEventArgs e)
         {
-
 
             shipment = Shipment.Text;
             delcomp = DDelcomp.Text;
@@ -66,23 +65,21 @@ namespace test
                 writer.WriteLine("------------------------------------");
             }
             writer.Close();
-
-            
-            teller++;
-
             
 
-            if (teller ==10)
-            {
-                Process notepad = new Process();
-                Process.Start("notepad", $@"C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Database\SHIPMENTS.txt");
-            }
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Process explorer = new Process();
-            Process.Start("chrome.exe", "https://www.scania.com/be/nl/home.html");
+            
+            Process Explorer = new Process();
+            Process.Start("iExplorer.exe", "https://www.scania.com/be/nl/home.html");
+        }
+
+        private void regshipments_Click(object sender, RoutedEventArgs e)
+        {
+            Process notepad = new Process();
+            Process.Start("notepad", $@"C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\DATABASE\SHIPMENTS.txt");
         }
     }
 }

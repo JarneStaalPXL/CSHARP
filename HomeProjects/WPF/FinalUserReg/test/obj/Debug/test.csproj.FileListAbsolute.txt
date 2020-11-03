@@ -49,3 +49,4 @@ C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\tes
 C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.csproj.CopyComplete
 C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.exe
 C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\ButtonStyles.baml

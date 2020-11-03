@@ -41,6 +41,7 @@
                Width="366"
                Style="{StaticResource CustomFont}" FontWeight="Bold"/>
         </StackPanel>
+        <StackPanel Grid.Row="2"/>
         <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Margin="214,0" Width="0"/>
         <StackPanel Grid.Row="2" Grid.Column="2" >
             <Button x:Name="NameInputButton" 
@@ -52,8 +53,7 @@
                 Height="97"
                 BorderThickness="8"
                 Background="#FF1A1A1A" 
-                Margin="0,0,-204,0" BorderBrush="#FFD40026" Foreground="White">
-            </Button>
+                Margin="0,0,-203.6,0" BorderBrush="#FFD40026" Foreground="White"/>
         </StackPanel>
         <StackPanel Grid.Column="2" Grid.Row="1">
             <Label
@@ -131,6 +131,15 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
+        <Button x:Name="regshipments" 
+                Content="EDIT REGISTRATED SHIPMENT" 
+   
+                Style="{StaticResource CustomButtonStyle}"
+                FontWeight="Bold"
+                FontSize="35"
+                BorderThickness="8"
+                Background="#FF1A1A1A" 
+                Margin="0,46,-0.4,37" BorderBrush="White" Foreground="White" Grid.ColumnSpan="2" Grid.Column="2" Click="regshipments_Click"/>
 
 
         <!--<Image Margin="-77,-21,386,10" Source="LOGO.png" Stretch="Fill" Grid.ColumnSpan="2"/>-->
