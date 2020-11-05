@@ -24,5 +24,39 @@ namespace Pizza_Oefening
         {
             InitializeComponent();
         }
+        private void VerwerkBestelling(object sender, RoutedEventArgs e)
+        {
+            int aantalPizzas;
+            double totaalprijs = 0;
+            string result = "";
+            result += $"Naam: {nameLabel.Text}\n";
+            result += $"Telefoonnummer: {telLabel.Text}\n";
+            result += $"E-mail: {emailLabel.Text}\n";
+            result += $"Adres: {adresLabel.Text}\n";
+            result += $"Woonplaats: {woonplaatsLabel.Text} - {postcodeLabel.Text}\n";
+            result += "\nU heeft de volgende pizza's besteld\n-------------------------\n";
+
+            int.TryParse(quattroStagioniTeller.Text, out aantalPizzas);
+            if (aantalPizzas > 0)
+            {
+                result += $"{aantalPizzas} x €{prijsQuatroStagioni} - Quattro Stagioni\n";
+                totaalprijs += aantalPizzas * prijsQuatroStagioni;
+            }
+            int.TryParse(capricciosaTeller.Text, out aantalPizzas);
+            if (aantalPizzas > 0)
+            {
+                result += $"{aantalPizzas} x €{prijsCapricciosa} - Capricciosa\n";
+                totaalprijs += aantalPizzas * prijsCapricciosa;
+            }
+            int.TryParse(margheritaTeller.Text, out aantalPizzas);
+            if (aantalPizzas > 0)
+            {
+                result += $"{aantalPizzas} x €{prijsMargherita} - Margherita\n";
+                totaalprijs += aantalPizzas * prijsMargherita;
+            }
+            result += $"Totaalbedrag = {totaalprijs}";
+            Verwerken.Text = result;
+
+        }
     }
 }

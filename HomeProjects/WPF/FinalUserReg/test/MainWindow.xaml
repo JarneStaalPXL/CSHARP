@@ -151,6 +151,18 @@
                 Grid.ColumnSpan="2" 
                 Height="40" 
                 Background="White" Click="Button_Click_1"/>
+        <Button Content="Test" 
+            Style="{StaticResource CustomFont}"
+                
+            FontSize="17"
+            HorizontalAlignment="Left" 
+            Margin="0,85,0,0" 
+            Grid.Row="1" 
+            VerticalAlignment="Top" 
+            Width="157" 
+            Grid.ColumnSpan="2" 
+            Height="40" 
+            Background="White" Click="testing"/>
 
 
         <!--<Image Margin="-77,-21,386,10" Source="LOGO.png" Stretch="Fill" Grid.ColumnSpan="2"/>-->

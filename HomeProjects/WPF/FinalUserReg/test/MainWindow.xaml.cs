@@ -16,6 +16,7 @@ using System.Windows.Shapes;
 using System.IO;
 using System.Diagnostics;
 using System.Timers;
+using System.Security.Cryptography;
 
 namespace test
 {
@@ -84,7 +85,13 @@ namespace test
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("MainWindow.xaml", UriKind.Relative));
+            NavigationService nav = NavigationService.GetNavigationService(this);
+        }
+
+        private void testing(object sender, RoutedEventArgs e)
+        {
+            NavigationService nav = NavigationService.GetNavigationService(this);
+            nav.Navigate(new Uri("seconda.xaml", UriKind.Relative));
         }
     }
-}
+}   
