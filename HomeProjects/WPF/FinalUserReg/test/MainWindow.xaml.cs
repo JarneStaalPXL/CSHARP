@@ -17,6 +17,7 @@ using System.IO;
 using System.Diagnostics;
 using System.Timers;
 using System.Security.Cryptography;
+using shipmentregistrator;
 
 namespace test
 {
@@ -90,8 +91,7 @@ namespace test
 
         private void testing(object sender, RoutedEventArgs e)
         {
-            NavigationService nav = NavigationService.GetNavigationService(this);
-            nav.Navigate(new Uri("seconda.xaml", UriKind.Relative));
+            Main.Content = new seconda.Pages.Projects();
         }
     }
 }   

@@ -172,6 +172,22 @@ namespace test {
             #line default
             #line hidden
             return;
+            case 10:
+            
+            #line 177 "..\..\MainWindow.xaml"
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.testing);
+            
+            #line default
+            #line hidden
+            return;
+            case 11:
+            
+            #line 189 "..\..\MainWindow.xaml"
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.testing);
+            
+            #line default
+            #line hidden
+            return;
             }
             this._contentLoaded = true;
         }

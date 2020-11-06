@@ -40,6 +40,14 @@ namespace shipmentregistrator {
     /// </summary>
     public partial class seconda : System.Windows.Controls.Page, System.Windows.Markup.IComponentConnector {
         
+        
+        #line 13 "..\..\seconda.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Frame Main;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -68,6 +76,12 @@ namespace shipmentregistrator {
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
+            switch (connectionId)
+            {
+            case 1:
+            this.Main = ((System.Windows.Controls.Frame)(target));
+            return;
+            }
             this._contentLoaded = true;
         }
     }
