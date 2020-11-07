@@ -10,6 +10,6 @@
 
     <Grid>
         <TextBlock FontSize="150" HorizontalAlignment="Left" Height="241" Margin="101,138,0,0" TextWrapping="Wrap" Text="Testing" VerticalAlignment="Top" Width="662" Foreground="White"/>
-
+        <Frame Name="Main" Content="" Margin="0,0,0,-0.4" Background="#FFFFEDED" />
     </Grid>
 </Page>
