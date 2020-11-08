@@ -19,23 +19,20 @@ using System.Timers;
 using System.Security.Cryptography;
 using shipmentregistrator;
 
-namespace test
+namespace shipmentregistrator
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Page1.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Page1 : Page
     {
-        
-
-        private string shipment = "";
-        private string delcomp = "";
-        private string license = "";
-
-        public MainWindow()
+        public Page1()
         {
             InitializeComponent();
         }
+        private string shipment = "";
+        private string delcomp = "";
+        private string license = "";
 
         private void NameInputButton_Click(object sender, RoutedEventArgs e)
         {
@@ -67,13 +64,13 @@ namespace test
                 writer.WriteLine("------------------------------------");
             }
             writer.Close();
-            
+
 
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            
+
             Process Explorer = new Process();
             Process.Start("iExplorer.exe", "https://www.scania.com/be/nl/home.html");
         }
@@ -86,15 +83,16 @@ namespace test
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            
+
         }
 
         private void testing(object sender, RoutedEventArgs e)
         {
 
-            this.Content = new Uri("Clients.xaml", UriKind.Relative);
+            this.Source = new Uri("Clients.xaml", UriKind.Relative);
             //Page Page1 = ;
             //NavigationService nav = NavigationService.GetNavigationService(Page1);
         }
     }
 }   
+    
