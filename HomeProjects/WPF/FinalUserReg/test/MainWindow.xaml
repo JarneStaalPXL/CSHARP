@@ -131,8 +131,16 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
+        <Label x:Name="timeLabel" 
+               HorizontalContentAlignment="Center"
+               Foreground="Black"
+               Style="{StaticResource CustomFont}"
+               FontWeight="Bold"
+               Background="#001A1A1A" 
+               Margin="0,135,0,-29" Content="" 
+               FontSize="18" Grid.Row="2"/>
         <Button x:Name="regshipments" 
-                Content="EDIT REGISTRATED SHIPMENT" 
+                Content="EDIT REGISTERED SHIPMENT" 
                 Style="{StaticResource CustomFont}"
                 FontWeight="Bold"
                 FontSize="35"
@@ -150,7 +158,7 @@
                 Width="157" 
                 Grid.ColumnSpan="2" 
                 Height="40" 
-                Background="White" Click="Button_Click_1"/>
+                Background="White" />
         <Button Content="Clients" 
             Style="{StaticResource CustomFont}"
                 

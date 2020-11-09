@@ -13,21 +13,12 @@ C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\test\test\obj\Debug
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\test\test\obj\Debug\test.exe
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\test\test\obj\Debug\test.pdb
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\test.exe.config
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\test.exe
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\test.pdb
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.csprojAssemblyReference.cache
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\MainWindow.g.cs
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\App.g.cs
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test_MarkupCompile.cache
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test_MarkupCompile.lref
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\MainWindow.baml
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.g.resources
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.Properties.Resources.resources
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.csproj.GenerateResource.cache
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.csproj.CoreCompileInputs.cache
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.exe
-C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.pdb
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\FontAwesome.Sharp.dll
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\test.csproj.CopyComplete
 C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\App.baml
@@ -50,5 +41,17 @@ C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\tes
 C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Shipment Registrator.pdb
 C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\MainWindow.g.cs
 C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\MainWindow.baml
-C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\seconda.g.cs
-C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\seconda.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Clients.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Clients.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Shipment Registrator_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Shipment Registrator_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Shipment Registrator.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Shipment Registrator.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Shipment Registrator.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Shipment Registrator.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\Shipment Registrator.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\ButtonStyles.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Shipment Registrator.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\shipmentregistrator.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Client.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\obj\Debug\Client.baml

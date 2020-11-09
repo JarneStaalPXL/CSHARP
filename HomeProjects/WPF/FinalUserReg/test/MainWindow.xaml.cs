@@ -18,6 +18,7 @@ using System.Diagnostics;
 using System.Timers;
 using System.Security.Cryptography;
 using shipmentregistrator;
+using System.Windows.Threading;
 
 namespace test
 {
@@ -32,13 +33,42 @@ namespace test
         private string delcomp = "";
         private string license = "";
 
+
+        private void DispatcherTimer_Tick(object sender, EventArgs e)
+        {
+            //timeLabel.Content =
+            // $"{DateTime.Now.ToString(System.Globalization.CultureInfo.InvariantCulture)}";
+        }
+
         public MainWindow()
         {
             InitializeComponent();
+            DispatcherTimer timer = new DispatcherTimer(new TimeSpan(0, 0, 1), DispatcherPriority.Normal, delegate
+            {
+                this.timeLabel.Content = $"{DateTime.Now.ToString("d")}\n{DateTime.Now.ToString("HH:MM:ss")}";
+            }, 
+            this.Dispatcher);
+
+            //DispatcherTimer dispatcher = new DispatcherTimer();
+
+            //// Installeren van timer dmv de klasse aan te spreken.
+            //DispatcherTimer wekker = new DispatcherTimer();
+            //// Timer laten aflopen om de seconde.
+            //wekker.Tick += new EventHandler(DispatcherTimer_Tick);
+            //wekker.Interval = new TimeSpan(0, 0, 1);
+            ////uren, minuten, seconden
+            //// Timer laten starten
+            //wekker.Start();
+            //// TIJD instellen.
+            //DateTime time = DateTime.Now;
+            //timeLabel.Content = $"{time.ToString(System.Globalization.CultureInfo.InvariantCulture)}";
         }
 
+        
         private void NameInputButton_Click(object sender, RoutedEventArgs e)
         {
+
+            
 
             shipment = Shipment.Text;
             delcomp = DDelcomp.Text;
@@ -84,14 +114,17 @@ namespace test
             Process.Start("notepad", $@"C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\DATABASE\SHIPMENTS.txt");
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            NavigationService nav = NavigationService.GetNavigationService(this);
-        }
+        
 
         private void testing(object sender, RoutedEventArgs e)
         {
-            Main.Content = new seconda.Pages.Projects();
+
+            //this.Content = new Uri("Clients.xaml", UriKind.Relative);
+            //Page Page1 = ;
+            //NavigationService nav = NavigationService.GetNavigationService(Page1);
+                Window newWindow = new Client();
+                newWindow.Show();
+                this.Close();
+            }
         }
-    }
-}   
+    }   

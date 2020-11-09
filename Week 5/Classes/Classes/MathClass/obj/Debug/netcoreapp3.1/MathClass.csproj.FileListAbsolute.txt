@@ -1,0 +1,13 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.genruntimeconfig.cache
