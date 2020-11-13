@@ -34,11 +34,7 @@ namespace test
         private string license = "";
 
 
-        private void DispatcherTimer_Tick(object sender, EventArgs e)
-        {
-            //timeLabel.Content =
-            // $"{DateTime.Now.ToString(System.Globalization.CultureInfo.InvariantCulture)}";
-        }
+
 
         public MainWindow()
         {

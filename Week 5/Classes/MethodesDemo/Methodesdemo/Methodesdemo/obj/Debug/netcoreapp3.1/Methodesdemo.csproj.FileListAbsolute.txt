@@ -1,0 +1,13 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\bin\Debug\netcoreapp3.1\Methodesdemo.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\bin\Debug\netcoreapp3.1\Methodesdemo.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\bin\Debug\netcoreapp3.1\Methodesdemo.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\bin\Debug\netcoreapp3.1\Methodesdemo.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\bin\Debug\netcoreapp3.1\Methodesdemo.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\bin\Debug\netcoreapp3.1\Methodesdemo.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\obj\Debug\netcoreapp3.1\Methodesdemo.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\obj\Debug\netcoreapp3.1\Methodesdemo.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\obj\Debug\netcoreapp3.1\Methodesdemo.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\obj\Debug\netcoreapp3.1\Methodesdemo.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\obj\Debug\netcoreapp3.1\Methodesdemo.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\obj\Debug\netcoreapp3.1\Methodesdemo.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes\MethodesDemo\Methodesdemo\Methodesdemo\obj\Debug\netcoreapp3.1\Methodesdemo.genruntimeconfig.cache
