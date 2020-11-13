@@ -16,7 +16,7 @@ namespace Methodesdemo
 
             TimeSpan tijdsInterval = new TimeSpan(1, 0, 0);
 
-            Random randomizer = new Random();
+            Random randomizer = new Random(10);
             int randomnum = randomizer.Next();
             Console.WriteLine(randomnum);
         }
