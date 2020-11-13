@@ -1,18 +1,9 @@
 ------------------USER INFO------------------ 
-11/01/2020 10:04:07 
+11/13/2020 20:41:56 
 
 Name: Jarne Staal
-Adress: Daelstraat 22
+Adress: yeet yeet
 
-Name: 
-Adress: 
-
-------------------USER INFO------------------ 
-11/01/2020 10:04:27 
-
-Name: Jarne Staal
-Adress: Daelstraat 22
-
-Name: Jarne Staal
-Adress: Daelstraat 22
+Name: BoB Ross
+Adress: Yeeterde yeet
 

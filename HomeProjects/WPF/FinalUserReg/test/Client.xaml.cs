@@ -107,7 +107,7 @@ namespace shipmentregistrator
         private void regshipments_Click(object sender, RoutedEventArgs e)
         {
             Process notepad = new Process();
-            Process.Start("notepad", $@"C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\DATABASE\SHIPMENTS.txt");
+            Process.Start("notepad", Directory.GetCurrentDirectory() + $@"\DATABASE\SHIPMENTS.txt");
         }
 
 
@@ -115,9 +115,6 @@ namespace shipmentregistrator
         private void testing(object sender, RoutedEventArgs e)
         {
 
-            //this.Content = new Uri("Clients.xaml", UriKind.Relative);
-            //Page Page1 = ;
-            //NavigationService nav = NavigationService.GetNavigationService(Page1);
             Window newWindow = new Client();
             newWindow.Show();
             this.Close();

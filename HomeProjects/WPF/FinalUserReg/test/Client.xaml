@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:shipmentregistrator"
         mc:Ignorable="d"
-        Title="Client" WindowState="Normal"  ResizeMode="CanMinimize" Height="672.825" Width="1300" Background="#FF1A1A1A">
+        Title="Client"  WindowState="Normal"  ResizeMode="CanMinimize" Height="672.825" Width="1300" Background="#FF1A1A1A">
     <Grid>
         <Grid>
             <Grid.ColumnDefinitions>

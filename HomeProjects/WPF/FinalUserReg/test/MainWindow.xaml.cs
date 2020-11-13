@@ -41,7 +41,7 @@ namespace test
             InitializeComponent();
             DispatcherTimer timer = new DispatcherTimer(new TimeSpan(0, 0, 1), DispatcherPriority.Normal, delegate
             {
-                this.timeLabel.Content = $"{DateTime.Now.ToString("d")}\n{DateTime.Now.ToString("HH:MM:ss")}";
+                this.timeLabel.Content = $"{DateTime.Now.ToString("d")}\n{DateTime.Now.ToString("HH:mm:ss")}";
             }, 
             this.Dispatcher);
 
@@ -101,13 +101,13 @@ namespace test
         {
             
             Process Explorer = new Process();
-            Process.Start("iExplorer.exe", "https://www.scania.com/be/nl/home.html");
+            Process.Start("chrome.exe", "https://www.scania.com/be/nl/home.html");
         }
 
         private void regshipments_Click(object sender, RoutedEventArgs e)
         {
             Process notepad = new Process();
-            Process.Start("notepad", $@"C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\WPF\FinalUserReg\test\bin\Debug\DATABASE\SHIPMENTS.txt");
+            Process.Start("notepad", Directory.GetCurrentDirectory() + $@"\DATABASE\SHIPMENTS.txt");
         }
 
         
