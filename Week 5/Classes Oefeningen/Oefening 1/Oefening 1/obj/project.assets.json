@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes\\Classes\\MathClass\\Classes.csproj",
-      "projectName": "Classes",
-      "projectPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes\\Classes\\MathClass\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes Oefeningen\\Oefening 1\\Oefening 1\\Oefening 1.csproj",
+      "projectName": "Oefening 1",
+      "projectPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes Oefeningen\\Oefening 1\\Oefening 1\\Oefening 1.csproj",
       "packagesPath": "C:\\Users\\jarne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes\\Classes\\MathClass\\obj\\",
+      "outputPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes Oefeningen\\Oefening 1\\Oefening 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jarne\\AppData\\Roaming\\NuGet\\NuGet.Config",
