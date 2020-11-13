@@ -14,6 +14,8 @@ namespace Oefening1
                 int b = Convert.ToInt32(Console.ReadLine());
 
 
+
+
                 int temp = a;
                 a = b;
                 b = temp;
