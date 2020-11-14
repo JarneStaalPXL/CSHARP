@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 9\\Oefening 9\\Oefening 9.csproj",
+      "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 9\\Oefening 9\\Oefening 9.csproj",
       "projectName": "Oefening 9",
-      "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 9\\Oefening 9\\Oefening 9.csproj",
+      "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 9\\Oefening 9\\Oefening 9.csproj",
       "packagesPath": "C:\\Users\\12001144\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 9\\Oefening 9\\obj\\",
+      "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Iteratie\\Deel 1 Iteratie\\Oefening 9\\Oefening 9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12001144\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,30 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\bin\Debug\Oefening 4 en 5.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\bin\Debug\Oefening 4 en 5.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\bin\Debug\Oefening 4 en 5.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening_4_en_5.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening_4_en_5.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\obj\Debug\Oefening 4 en 5.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\bin\Debug\Oefening 4 en 5.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\bin\Debug\Oefening 4 en 5.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 5\Classes Oefeningen\WPF Oefeningen\Oefening 4 en 5\Oefening 4 en 5\bin\Debug\Oefening 4 en 5.pdb
