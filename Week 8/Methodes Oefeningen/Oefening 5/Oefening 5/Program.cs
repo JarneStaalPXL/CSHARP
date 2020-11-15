@@ -4,8 +4,9 @@ namespace Oefening_5
 {
     class Program
     {
-        private int Macht(int grondtal, int exponent, int resultaat)
+        private int MachtResultaat(int grondtal, int exponent, int resultaat)
         {
+
             for (int i = 0; i <= exponent; i++)
             {
                 resultaat = exponent * grondtal;
@@ -20,9 +21,8 @@ namespace Oefening_5
             Console.Write("Geef exponent in: ");
             int exponent = int.Parse(Console.ReadLine());
 
-            int resultaat = 0;
-
-            Console.WriteLine(resultaat);
+            Console.WriteLine(MachtResultaat());
         }
+
     }
 }

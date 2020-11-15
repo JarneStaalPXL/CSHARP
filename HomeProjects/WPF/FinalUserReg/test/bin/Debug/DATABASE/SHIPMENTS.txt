@@ -1,0 +1,13 @@
+------------------SHIPMENT INFO------------------ 
+11/14/2020 14:09:09 
+
+Shipment Number 
+  EB945F
+
+Delivery Company 
+  BPLOSTS
+
+License Plate 
+  EEF8-5464-684
+
+------------------------------------
