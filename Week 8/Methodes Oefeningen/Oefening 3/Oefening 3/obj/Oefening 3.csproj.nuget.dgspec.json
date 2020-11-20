@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj": {}
+    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj": {
+    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj",
+        "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj",
         "projectName": "Oefening 3",
-        "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj",
+        "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj",
         "packagesPath": "C:\\Users\\12001144\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\obj\\",
+        "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Oefening 3\\Oefening 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\12001144\\AppData\\Roaming\\NuGet\\NuGet.Config",

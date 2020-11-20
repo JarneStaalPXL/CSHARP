@@ -4,31 +4,29 @@ namespace Oefening_3
 {
     class Program
     {
-        private static string Oefening3Karakter(int getal)
+        private static string Oefening3Karakter(int a)
         {
 
-            string karakter = "";
-
-            // Todo: check karakter + geef % of # aan karakter
-
-            string oneven = "%";
-            string even = "#";
-
-            return karakter;
+            if (a % 2 == 0)
+            {
+                return "#";
+            }
+            else
+            {
+                return "%";
+            }
         }
 
         static void Main(string[] args)
         {
             // Oefening 3
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i <= 5; i++)
             {
-                for (int j = 0; j < 5; j++)
+                for (int j = 0; j <= 5; j++)
                 {
                     // TODO krijg een getal
-
-
-
-                    Console.Write(Oefening3Karakter());
+                    Random randomizer = new Random();
+                    Console.Write(Oefening3Karakter(randomizer.Next()));
                 }
                 Console.WriteLine();
             }

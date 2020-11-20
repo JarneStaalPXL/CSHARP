@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes\\MethodesDemo\\Methodesdemo\\Methodesdemo\\Methodesdemo.csproj": {}
+    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\MethodesDemo\\Methodesdemo\\Methodesdemo\\Methodesdemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes\\MethodesDemo\\Methodesdemo\\Methodesdemo\\Methodesdemo.csproj": {
+    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\MethodesDemo\\Methodesdemo\\Methodesdemo\\Methodesdemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes\\MethodesDemo\\Methodesdemo\\Methodesdemo\\Methodesdemo.csproj",
+        "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\MethodesDemo\\Methodesdemo\\Methodesdemo\\Methodesdemo.csproj",
         "projectName": "Methodesdemo",
-        "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes\\MethodesDemo\\Methodesdemo\\Methodesdemo\\Methodesdemo.csproj",
+        "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\MethodesDemo\\Methodesdemo\\Methodesdemo\\Methodesdemo.csproj",
         "packagesPath": "C:\\Users\\12001144\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 5\\Classes\\MethodesDemo\\Methodesdemo\\Methodesdemo\\obj\\",
+        "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\MethodesDemo\\Methodesdemo\\Methodesdemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\12001144\\AppData\\Roaming\\NuGet\\NuGet.Config",

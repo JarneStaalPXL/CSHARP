@@ -5,11 +5,19 @@ namespace Oefening_4
     class Program
     {
 
-        private static int IsBiggerThanHundred(int a, int b, int c)
+        private static bool IsBiggerThanHundred(int a, int b, int c)
         {
 
             int sum = a+b+c;
-            return sum;
+
+            if (sum > 100)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         static void Main(string[] args)
@@ -22,15 +30,15 @@ namespace Oefening_4
             Console.WriteLine("Enter number");
             int c = int.Parse(Console.ReadLine());
 
-
-            if (IsBiggerThanHundred(a,b,c) > 100)
+            if (IsBiggerThanHundred(a,b,c))
             {
-                Console.WriteLine("the sum is higher than 100");
+                Console.WriteLine("Het is groter dan 100");
             }
             else
             {
-                Console.WriteLine("the sum is lower than 100");
+                Console.WriteLine("Het is kleiner dan 100");
             }
+
         }
     }
 }
