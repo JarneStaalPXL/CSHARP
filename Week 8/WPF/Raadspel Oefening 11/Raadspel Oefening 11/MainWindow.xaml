@@ -7,12 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="68,217,0,0" TextWrapping="Wrap" Text="Geef een getal tussen 1 en 100 " VerticalAlignment="Top" Height="20" Width="171"/>
-        <Label Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="68,253,0,0" Width="171"/>
-        <Label Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="68,295,0,0" Width="171"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="552,255,0,0" VerticalAlignment="Top" Width="102" Height="37"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="552,207,0,0" VerticalAlignment="Top" Width="102" Height="37"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="552,307,0,0" VerticalAlignment="Top" Width="102" Height="37"/>
+        <TextBlock HorizontalAlignment="Left" Margin="94,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="171"><Run Text="Geef een getal tussen 1 en 100"/><Run Text=":"/><Run Text=" "/></TextBlock>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="578,191,0,0" VerticalAlignment="Top" Width="102" Height="37"/>
+        <Button Content="Evalueer" HorizontalAlignment="Left" Margin="578,143,0,0" VerticalAlignment="Top" Width="102" Height="37" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="578,243,0,0" VerticalAlignment="Top" Width="102" Height="37"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="270,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="94,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="296"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="94,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="296"/>
+        <Label x:Name="tijd" Content="" HorizontalAlignment="Left" Margin="578,55,0,0" VerticalAlignment="Top" Width="191"/>
 
     </Grid>
 </Window>

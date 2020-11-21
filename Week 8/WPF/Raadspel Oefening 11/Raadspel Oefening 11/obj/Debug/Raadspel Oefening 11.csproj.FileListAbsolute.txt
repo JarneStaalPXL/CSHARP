@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\bin\Debug\Raadspel Oefening 11.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\bin\Debug\Raadspel Oefening 11.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\bin\Debug\Raadspel Oefening 11.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel Oefening 11.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel Oefening 11_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel Oefening 11_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel Oefening 11.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel_Oefening_11.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel Oefening 11.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel Oefening 11.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel Oefening 11.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\WPF\Raadspel Oefening 11\Raadspel Oefening 11\obj\Debug\Raadspel Oefening 11.pdb

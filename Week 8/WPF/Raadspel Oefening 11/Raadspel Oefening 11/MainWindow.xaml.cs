@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace Raadspel_Oefening_11
 {
@@ -23,6 +24,16 @@ namespace Raadspel_Oefening_11
         public MainWindow()
         {
             InitializeComponent();
+            DispatcherTimer timer = new DispatcherTimer(new TimeSpan(0, 0, 1), DispatcherPriority.Normal, delegate
+            {
+                this.tijd.Content = $"{DateTime.Now.ToString("d MMMM yyyy")}\n{DateTime.Now.ToString("HH:mm:ss")}";
+            },
+            this.Dispatcher);
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
