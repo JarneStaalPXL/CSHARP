@@ -29,10 +29,9 @@ namespace BBS
         string PlayerChose;
         private int scoreplayer = 0;
         private int scorepc = 0;
-        private string computer = "Computer";
-        private string title = "Resultaat";
-        private string player = "Speler";
-        private string draw = "Gelijkspel";
+        string computer = "Computer";
+        string player = "Speler";
+        string draw = "Gelijkspel";
 
         public MainWindow()
         {
@@ -40,67 +39,122 @@ namespace BBS
             InitializeComponent();
             DispatcherTimer timer = new DispatcherTimer(new TimeSpan(0, 0, 1), DispatcherPriority.Normal, delegate
             {
-                this.timeLabel.Content = $"{DateTime.Now.ToString("d")}\n{DateTime.Now.ToString("HH:mm:ss")}";
+                this.timeLabel.Content = $"{DateTime.Now.ToString("d")}\n{DateTime.Now.ToString("HH:mm")}";
             },
             this.Dispatcher);
         }
-        public void BBS() // The Rock Paper Scissors-game
+        private void BBS() // The Rock Paper Scissors-game
         {
             scoreplayer1.Content = ($"SPELER {scoreplayer}"); //old score
             scorepc1.Content = ($"COMPUTER {scorepc}"); //old score
 
+            var ab = new BrushConverter();
+            var bc = new BrushConverter();
+
             if (PlayerChose == "Rock" && Computer == "Paper") // Player: Rock, Computer: paper = computer wins
             {
-                MessageBox.Show($"   {computer, title}");
+                result.Content = computer + " wint";
                 scorepc++;
+
+               
+
+                playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+                playerchoice.Content = "Steen";
+
+                pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                pcchoice.Content = "Blad";
             }
             else if (PlayerChose == "Rock" && Computer == "Scissors") // Player: Rock, Computer: Scissors = Player wins
             {
-                MessageBox.Show(player, title);
+                result.Content = player + " wint";
                 scoreplayer++;
+
+                playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
+                playerchoice.Content = "Steen";
+
+                pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                pcchoice.Content = "Schaar";
             }
             else if (PlayerChose == "Paper" && Computer == "Scissors") // Player: Paper, Computer: Scissors = Computer wins
             {
-                MessageBox.Show(computer, title);
+                result.Content = computer + " wint";
                 scorepc++;
+
+                playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+                playerchoice.Content = "Blad";
+
+                pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                pcchoice.Content = "Schaar";
             }
             else if (PlayerChose == "Paper" && Computer == "Rock") // Player: Paper, Computer: Rock = Player wins
             {
-                MessageBox.Show(player, title);
+                result.Content = player + " wint";
                 scoreplayer++;
+
+                playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
+                playerchoice.Content = "Blad";
+
+                pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                pcchoice.Content = "Steen";
             }
             else if (PlayerChose == "Scissors" && Computer == "Rock") // Player: Scissors, Computer: Rock = Computer wins
             {
-                MessageBox.Show(computer, title);
+                result.Content = computer + " wint";
                 scorepc++;
+
+                playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+                playerchoice.Content = "Schaar";
+
+                pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                pcchoice.Content = "Steen";
             }
             else if (PlayerChose == "Scissors" && Computer == "Paper") // Player: Scissors, Computer: Paper = Player wins
             {
-                MessageBox.Show(player, title);
+                result.Content = player + " wint";
                 scoreplayer++;
+
+                playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
+                playerchoice.Content = "Schaar";
+
+                pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                pcchoice.Content = "Blad";
             }
+
             else if (PlayerChose == "Scissors" && Computer == "Scissor")
             {
-                MessageBox.Show(draw);
+                result.Content = draw;
+                playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+                pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
 
+                playerchoice.Content = "Schaar";
+                pcchoice.Content = "Schaar";
             }
             else if (PlayerChose == "Paper" && Computer == "Paper")
             {
-                MessageBox.Show(draw);
+                result.Content = draw;
+                playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+                pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+
+                playerchoice.Content = "Blad";
+                pcchoice.Content = "Blad";
             }
             else if (PlayerChose == "Rock" && Computer == "Rock")
             {
-                MessageBox.Show(draw);
+                result.Content = draw;
+                playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+                pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+
+                playerchoice.Content = "Steen";
+                pcchoice.Content = "Steen";
             }
 
             scoreplayer1.Content = ($"SPELER {scoreplayer}"); //new score
             scorepc1.Content = ($"COMPUTER {scorepc}"); //new score 
-
         }
         private void RockClick(object sender, RoutedEventArgs e)
         {
             PlayerChose = "Rock";
-            RandomType = random.Next(0, 2);
+            RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
             BBS();
         }
@@ -108,7 +162,7 @@ namespace BBS
         private void PaperClick(object sender, RoutedEventArgs e)
         {
             PlayerChose = "Paper";
-            RandomType = random.Next(0, 2);
+            RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
             BBS();
         }
@@ -116,7 +170,7 @@ namespace BBS
         private void ScissorsClick(object sender, RoutedEventArgs e)
         {
             PlayerChose = "Scissors";
-            RandomType = random.Next(0, 2);
+            RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
             BBS();
         }

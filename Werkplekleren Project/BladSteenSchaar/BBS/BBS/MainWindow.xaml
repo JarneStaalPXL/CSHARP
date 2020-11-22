@@ -5,81 +5,117 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BBS"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Background="#FF1A1A1A">
+        Title="Blad Steen Schaar" WindowState="Normal"  ResizeMode="CanMinimize" Height="400" Width="900" Background="#FF1A1A1A">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="180*" />
             <ColumnDefinition Width="376*" />
             <ColumnDefinition Width="378*" />
-            <ColumnDefinition Width="168*" />
+            <ColumnDefinition Width="110*" />
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="180*"/>
+            <RowDefinition Height="100*"/>
             <RowDefinition Height="265*"/>
             <RowDefinition Height="199*"/>
         </Grid.RowDefinitions>
 
-        <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,10.4,262.8,0.4" Grid.ColumnSpan="2">
-            <Button Content="Blad" 
+
+
+        <StackPanel Grid.Row="0"  Grid.ColumnSpan="4">
+            <Label x:Name="result" Content="" 
+                   HorizontalContentAlignment="Center" 
+                   Foreground="White"
+                   FontWeight="Bold"
+                   FontSize="20" Height="43" Margin="0,0,-26.4,0" RenderTransformOrigin="0.5,0.5"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.RowSpan="2"  Grid.ColumnSpan="4" Grid.Column="0">
+            <Rectangle  Fill="#FF2B2B2B"  Height="307" VerticalAlignment="Top" Margin="0,0,-0.4,0"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Grid.RowSpan="2">
+            <Label x:Name="playerchoice" Content="" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                   Background="#FF2B2B2B" Foreground="White" Height="302" FontSize="50"
+                   
+                   />
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="1" Grid.RowSpan="2" >
+            <Label x:Name="pcchoice" Content="" FontSize="50"  HorizontalContentAlignment="Center" 
+                   Background="#FF2B2B2B" Height="304" Foreground="White"  Margin="0,0,-0.4,0" VerticalContentAlignment="Center"
+                   >
+            </Label>
+        </StackPanel>
+        <StackPanel Grid.RowSpan="3">
+            <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="371" Width="154"/>
+        </StackPanel>
+        <StackPanel Grid.Column="3" Grid.RowSpan="4">
+            <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="371" Width="154"/>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Center">
+            <Label x:Name="timeLabel" 
+                   Content="" 
+                   HorizontalContentAlignment="Center"
+                   VerticalContentAlignment="Center"
+                   Foreground="White" 
+                   FontSize="16"
+                   Margin="0,50,0.4,50" Height="58"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Margin="0,10.4,0.4,10.4" VerticalAlignment="Center">
+            <Button Content="BLAD" 
                     HorizontalAlignment="Center" 
-                    VerticalAlignment="Top" 
-                    Click="RockClick"
+                     
+                    Click="PaperClick"
                     Width="120"
                     Height="43" 
                     Margin="5"
                     Background="#FF1A1A1A" 
                     BorderBrush="Red" 
                     BorderThickness="2"
+                    Style="{StaticResource CustomFont}"
+                    FontSize="20"
                     Foreground="White"/>
-            <Button Content="Steen" 
+            <Button Content="STEEN" 
                     HorizontalAlignment="Center" 
                     VerticalAlignment="Top" 
-                    Click="PaperClick" 
+                    Click="RockClick" 
                     Width="120"
                     Height="43" 
                     Margin="5"
+                    FontSize="20"
                     Background="#FF1A1A1A" 
                     BorderBrush="Red" 
                     BorderThickness="2"
                     Foreground="White"/>
-            <Button Content="Schaar" 
+            <Button Content="SCHAAR" 
                     HorizontalAlignment="Center"
                     VerticalAlignment="Top" 
                     Click="ScissorsClick"
                     Margin="5"
                     Width="120"
                     Height="43" 
+                    FontSize="20"
                     Background="#FF1A1A1A" 
                     BorderBrush="Red" 
                     BorderThickness="2"
                     Foreground="White"/>
         </StackPanel>
-        <StackPanel Grid.Column="1" Margin="20">
-            <Label x:Name="scoreplayer1" 
+        <StackPanel Grid.Column="1" Margin="20.4,59,19.8,19.6"/>
+        <StackPanel Grid.Row="0" Grid.Column="2" Margin="20.2,59,19.8,19.6"/>
+        <StackPanel Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Height="100" Margin="308.2,15,-0.4,15.4" Grid.ColumnSpan="2"/>
+        <Label x:Name="scoreplayer1" 
+                   FontWeight="Bold"
                    FontSize="20" 
                    Content="SPELER 0" 
                    HorizontalContentAlignment="Center" 
                    VerticalAlignment="Top" 
-                   Margin="0,0,0.2,0"
+                   Margin="20.6,30,20,0"
                    Foreground="White" 
-                   Height="75"/>
-        </StackPanel>
-        <StackPanel Grid.Row="0" Grid.Column="2" Margin="20">
-            <Label x:Name="scorepc1" 
+                   Height="36" Grid.Column="1" Grid.RowSpan="2"/>
+        <Label x:Name="scorepc1"
+                   FontWeight="Bold"
                    FontSize="20" 
                    Content="COMPUTER 0" 
                    HorizontalContentAlignment="Center"  
                    VerticalAlignment="Top" 
-                   Height="91"
-                   Foreground="White"/>
-        </StackPanel>
-        <StackPanel Grid.Row="2" Grid.Column="3" VerticalAlignment="Center" Height="100" Margin="0.2,0,-0.4,0">
-            <Label x:Name="timeLabel" 
-                   Content="" 
-                   HorizontalContentAlignment="Center"
-                   Foreground="White" 
-                   FontSize="16"
-                   Margin="0,50,-0.2,50"/>
-        </StackPanel>
+                   Height="36"
+                   Foreground="White" RenderTransformOrigin="0.487,-1.147" Grid.Column="2" Margin="17,30,23.2,0" Grid.RowSpan="2"/>
     </Grid>
 </Window>

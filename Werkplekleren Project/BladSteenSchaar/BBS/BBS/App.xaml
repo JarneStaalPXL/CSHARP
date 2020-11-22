@@ -4,6 +4,10 @@
              xmlns:local="clr-namespace:BBS"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="CustomFont">
+            <Setter Property="TextElement.FontFamily"
+                    Value="/fonts/#Poppins">
+            </Setter>
+        </Style>
     </Application.Resources>
 </Application>
