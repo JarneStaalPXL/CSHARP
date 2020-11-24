@@ -181,10 +181,16 @@ namespace BBS
 
         private void scorereset(object sender, RoutedEventArgs e)
         {
+            var bc = new BrushConverter();
+
             scoreplayer = 0;
             scorepc = 0;
             scoreplayer1.Content = ($"SPELER {scoreplayer}"); //new score
             scorepc1.Content = ($"COMPUTER {scorepc}"); //new score 
+            playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+            pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+            playerchoice.Content = "";
+            pcchoice.Content = "";
         }
     }
 }

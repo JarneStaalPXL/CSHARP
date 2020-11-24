@@ -44,7 +44,7 @@
             </Label>
         </StackPanel>
         <StackPanel Grid.RowSpan="3">
-            <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="446" Width="154"/>
+            <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="374" Width="154"/>
         </StackPanel>
         <StackPanel Grid.Column="3" Grid.RowSpan="4">
             <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="394" Width="154" Margin="0,0,-59.6,0"/>
@@ -74,44 +74,56 @@
                    FontSize="16"
                     Height="73" RenderTransformOrigin="0.5,0.5" Margin="0,0,0.4,0"/>
         </StackPanel>
-        <StackPanel  Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Margin="0,10.4,0.4,10.4" VerticalAlignment="Center">
-            <Button Content="BLAD" 
+        <StackPanel  Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Margin="0,41,0,-47" VerticalAlignment="Center" Height="313">
+            <Button 
                     HorizontalAlignment="Center" 
-                     
-                    Click="PaperClick"
-                    Width="120"
-                    Height="43" 
-                    Margin="5"
-                    Background="#FF1A1A1A" 
-                    BorderBrush="White" 
+                     BorderBrush="White" 
                     BorderThickness="2"
+                    Click="PaperClick"
+                    Width="138"
+                    Height="71" 
+                    Background="#FF1A1A1A" 
                     Style="{StaticResource CustomFont}"
                     FontSize="20"
-                    Foreground="White"/>
-            <Button Content="STEEN" 
+                    Foreground="White" Margin="8,0">
+                <Image Source="/images/Blad.png" />
+            </Button>
+            <Button 
                     HorizontalAlignment="Center" 
                     VerticalAlignment="Top" 
                     Click="RockClick" 
-                    Width="120"
-                    Height="43" 
+                    Width="138"
+                    Height="77"  
                     Margin="5"
                     FontSize="20"
-                    Background="#FF1A1A1A" 
-                    BorderBrush="White" 
+                BorderBrush="White" 
                     BorderThickness="2"
-                    Foreground="White"/>
-            <Button Content="SCHAAR" 
+                    Background="#FF1A1A1A" 
+                    Foreground="White">
+                <Image Source="/images/Steen.png" Width="77" Height="72" />
+            </Button>
+            <Button 
                     HorizontalAlignment="Center"
                     VerticalAlignment="Top" 
                     Click="ScissorsClick"
-                    Margin="5"
-                    Width="120"
-                    Height="43" 
+                    Width="138"
+                    Height="77"  
                     FontSize="20"
                     Background="#FF1A1A1A" 
                     BorderBrush="White" 
                     BorderThickness="2"
-                    Foreground="White"/>
+                    Foreground="White">
+                <Image Source="/images/Schaar.png" RenderTransformOrigin="0.5,0.5" Width="74" Height="106" >
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="89.491"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+            </Button>
         </StackPanel>
         <StackPanel Grid.Column="1" Margin="20.4,59,19.8,19.6"/>
         <StackPanel Grid.Row="0" Grid.Column="2" Margin="20.2,59,19.8,19.6"/>
