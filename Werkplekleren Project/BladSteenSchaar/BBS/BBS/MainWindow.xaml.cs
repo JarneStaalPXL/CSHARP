@@ -21,17 +21,23 @@ namespace BBS
     /// </summary>
     public partial class MainWindow : Window
     {
-        // Variables 
+        //Strings 
         string Computer;
         string[] answers = { "Rock", "Paper", "Scissors" };
-        Random random = new Random();
-        int RandomType = 0;
         string PlayerChose;
         private int scoreplayer = 0;
         private int scorepc = 0;
         string computer = "Computer";
         string player = "Speler";
         string draw = "Gelijkspel";
+        string wint = " wint";
+
+        //Random
+        Random random = new Random();
+        int RandomType = 0;
+
+        
+        
 
         public MainWindow()
         {
@@ -39,7 +45,7 @@ namespace BBS
             InitializeComponent();
             DispatcherTimer timer = new DispatcherTimer(new TimeSpan(0, 0, 1), DispatcherPriority.Normal, delegate
             {
-                this.timeLabel.Content = $"{DateTime.Now.ToString("d")}\n{DateTime.Now.ToString("HH:mm")}";
+                this.timeLabel.Content = $"{DateTime.Now.ToString("HH:mm:ss")}";
             },
             this.Dispatcher);
         }
@@ -49,16 +55,13 @@ namespace BBS
             scorepc1.Content = ($"COMPUTER {scorepc}"); //old score
 
             var ab = new BrushConverter();
-            var bc = new BrushConverter();
 
             if (PlayerChose == "Rock" && Computer == "Paper") // Player: Rock, Computer: paper = computer wins
             {
-                result.Content = computer + " wint";
+                result.Content = computer + wint;
                 scorepc++;
 
-               
-
-                playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
                 playerchoice.Content = "Steen";
 
                 pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
@@ -66,10 +69,10 @@ namespace BBS
             }
             else if (PlayerChose == "Rock" && Computer == "Scissors") // Player: Rock, Computer: Scissors = Player wins
             {
-                result.Content = player + " wint";
+                result.Content = player + wint;
                 scoreplayer++;
 
-                playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
                 playerchoice.Content = "Steen";
 
                 pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
@@ -77,10 +80,10 @@ namespace BBS
             }
             else if (PlayerChose == "Paper" && Computer == "Scissors") // Player: Paper, Computer: Scissors = Computer wins
             {
-                result.Content = computer + " wint";
+                result.Content = computer + wint;
                 scorepc++;
 
-                playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
                 playerchoice.Content = "Blad";
 
                 pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
@@ -88,10 +91,10 @@ namespace BBS
             }
             else if (PlayerChose == "Paper" && Computer == "Rock") // Player: Paper, Computer: Rock = Player wins
             {
-                result.Content = player + " wint";
+                result.Content = player + wint;
                 scoreplayer++;
 
-                playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
                 playerchoice.Content = "Blad";
 
                 pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
@@ -99,10 +102,10 @@ namespace BBS
             }
             else if (PlayerChose == "Scissors" && Computer == "Rock") // Player: Scissors, Computer: Rock = Computer wins
             {
-                result.Content = computer + " wint";
+                result.Content = computer + wint;
                 scorepc++;
 
-                playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
                 playerchoice.Content = "Schaar";
 
                 pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
@@ -110,10 +113,10 @@ namespace BBS
             }
             else if (PlayerChose == "Scissors" && Computer == "Paper") // Player: Scissors, Computer: Paper = Player wins
             {
-                result.Content = player + " wint";
+                result.Content = player + wint;
                 scoreplayer++;
 
-                playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
                 playerchoice.Content = "Schaar";
 
                 pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
@@ -123,8 +126,8 @@ namespace BBS
             else if (PlayerChose == "Scissors" && Computer == "Scissor")
             {
                 result.Content = draw;
-                playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
-                pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
+                pcchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
 
                 playerchoice.Content = "Schaar";
                 pcchoice.Content = "Schaar";
@@ -132,8 +135,8 @@ namespace BBS
             else if (PlayerChose == "Paper" && Computer == "Paper")
             {
                 result.Content = draw;
-                playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
-                pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
+                pcchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
 
                 playerchoice.Content = "Blad";
                 pcchoice.Content = "Blad";
@@ -141,8 +144,8 @@ namespace BBS
             else if (PlayerChose == "Rock" && Computer == "Rock")
             {
                 result.Content = draw;
-                playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
-                pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+                playerchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
+                pcchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
 
                 playerchoice.Content = "Steen";
                 pcchoice.Content = "Steen";
@@ -150,6 +153,7 @@ namespace BBS
 
             scoreplayer1.Content = ($"SPELER {scoreplayer}"); //new score
             scorepc1.Content = ($"COMPUTER {scorepc}"); //new score 
+
         }
         private void RockClick(object sender, RoutedEventArgs e)
         {
@@ -173,6 +177,14 @@ namespace BBS
             RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
             BBS();
+        }
+
+        private void scorereset(object sender, RoutedEventArgs e)
+        {
+            scoreplayer = 0;
+            scorepc = 0;
+            scoreplayer1.Content = ($"SPELER {scoreplayer}"); //new score
+            scorepc1.Content = ($"COMPUTER {scorepc}"); //new score 
         }
     }
 }

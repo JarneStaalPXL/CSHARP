@@ -11,3 +11,16 @@ C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Oefen\Oefen\bin\Deb
 C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.dll
 C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.pdb
 C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.genruntimeconfig.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\bin\Debug\netcoreapp3.1\Oefen.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\bin\Debug\netcoreapp3.1\Oefen.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\bin\Debug\netcoreapp3.1\Oefen.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\bin\Debug\netcoreapp3.1\Oefen.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\bin\Debug\netcoreapp3.1\Oefen.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\bin\Debug\netcoreapp3.1\Oefen.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\Oefen\Oefen\obj\Debug\netcoreapp3.1\Oefen.genruntimeconfig.cache

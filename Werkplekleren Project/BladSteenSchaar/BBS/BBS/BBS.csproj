@@ -96,5 +96,20 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\png-clipart-car-bbs-kraftfahrzeugtechnik-logo-decal-wheel-car-text-trademark-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\edited.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\BBS.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

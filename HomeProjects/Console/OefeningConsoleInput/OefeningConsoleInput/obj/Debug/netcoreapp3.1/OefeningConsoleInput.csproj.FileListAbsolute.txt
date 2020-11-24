@@ -11,3 +11,16 @@ C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\OefeningConsoleInpu
 C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.dll
 C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.pdb
 C:\Users\12001144\OneDrive - PXL\PXL C#\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.genruntimeconfig.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\bin\Debug\netcoreapp3.1\OefeningConsoleInput.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\bin\Debug\netcoreapp3.1\OefeningConsoleInput.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\bin\Debug\netcoreapp3.1\OefeningConsoleInput.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\bin\Debug\netcoreapp3.1\OefeningConsoleInput.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\bin\Debug\netcoreapp3.1\OefeningConsoleInput.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\bin\Debug\netcoreapp3.1\OefeningConsoleInput.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\Console\OefeningConsoleInput\OefeningConsoleInput\obj\Debug\netcoreapp3.1\OefeningConsoleInput.genruntimeconfig.cache
