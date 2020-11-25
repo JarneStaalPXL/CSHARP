@@ -81,11 +81,11 @@ namespace BSS2
                 scorepc++;
                 scorepc1.Content = ($"COMPUTER {scorepc}");
 
-                //Show images 
+                //Show Clock when times up 
                 Image imgd = new Image();
                 imgd.Source = new BitmapImage(new Uri(@"images\clock.png", UriKind.RelativeOrAbsolute));
 
-                playerchoice.Content = imgd;
+                count3.Content = imgd;
             }
             else
             {

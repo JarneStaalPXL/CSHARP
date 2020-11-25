@@ -152,12 +152,12 @@
                VerticalContentAlignment="Center"
                FontSize="80"
                Foreground="White"
-               Height="168" 
-               Margin="159,54,0,0" 
+               Height="303" 
+               Margin="105.527,4.673,0,0" 
                Grid.Row="1" 
                VerticalAlignment="Top" 
                Grid.RowSpan="2" 
                Grid.ColumnSpan="2" 
-               Width="320"/>
+               Width="414"/>
     </Grid>
 </Window>
