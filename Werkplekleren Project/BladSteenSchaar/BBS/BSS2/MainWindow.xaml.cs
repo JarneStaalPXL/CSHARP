@@ -76,8 +76,13 @@ namespace BSS2
             if (counter == 0)
             {
                 timer1.Stop();
-                count3.Content = "";
-                result.Content = "Tijd is op: " + computer + wint;
+                count3.Content = ""; //Prevent timer for showing 0 the whole time after countdown
+                result.Content = "Tijd is op: " + computer + wint; //Computer wins and shows message when times up
+
+                playerchoice.Content = imgc;
+                Image copyImgc = new Image();
+                copyImgc.Source = imgc.Source;
+                pcchoice.Content = copyImgc;
                 scorepc++;
                 scorepc1.Content = ($"COMPUTER {scorepc}");
             }
