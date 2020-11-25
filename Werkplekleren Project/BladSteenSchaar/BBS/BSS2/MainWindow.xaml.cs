@@ -78,13 +78,14 @@ namespace BSS2
                 timer1.Stop();
                 count3.Content = ""; //Prevent timer for showing 0 the whole time after countdown
                 result.Content = "Tijd is op: " + computer + wint; //Computer wins and shows message when times up
-
-                playerchoice.Content = imgc;
-                Image copyImgc = new Image();
-                copyImgc.Source = imgc.Source;
-                pcchoice.Content = copyImgc;
                 scorepc++;
                 scorepc1.Content = ($"COMPUTER {scorepc}");
+
+                //Show images 
+                Image imgd = new Image();
+                imgd.Source = new BitmapImage(new Uri(@"images\clock.png", UriKind.RelativeOrAbsolute));
+
+                playerchoice.Content = imgd;
             }
             else
             {
