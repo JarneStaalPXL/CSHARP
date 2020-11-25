@@ -28,30 +28,81 @@ namespace BSS2
         string PlayerChose;
         private int scoreplayer = 0;
         private int scorepc = 0;
+        private int counter = 3;
         string computer = "Computer";
         string player = "Speler";
         string draw = "Gelijkspel";
         string wint = " wint";
+
+        private bool isClicked;
 
         //Random
         Random random = new Random();
         int RandomType = 0;
 
 
-
-
         public MainWindow()
         {
 
             InitializeComponent();
+
+            //Clock
             DispatcherTimer timer = new DispatcherTimer(new TimeSpan(0, 0, 1), DispatcherPriority.Normal, delegate
             {
                 this.timeLabel.Content = $"{DateTime.Now.ToString("HH:mm:ss")}";
             },
             this.Dispatcher);
+
+            //Run Timer Method
+            timer2();
+
         }
-        private void BBS() // The Rock Paper Scissors-game
+
+        private DispatcherTimer timer1;
+
+        private void timer2()//Counter startup
         {
+            timer1 = new DispatcherTimer();
+            timer1.Tick += new EventHandler(timer1_Tick);
+            timer1.Interval = new TimeSpan(0, 0, 1);
+            timer1.Start();
+            count3.Content = counter.ToString();
+        }
+        
+
+        private void timer1_Tick(object sender, EventArgs e) //Counts down
+        {
+            counter--;
+            if (counter == 0)
+            {
+                timer1.Stop();
+                count3.Content = "";
+                result.Content = "Tijd is op: " + computer + wint;
+                scorepc++;
+                scorepc1.Content = ($"COMPUTER {scorepc}");
+            }
+            else
+            {
+                count3.Content = counter.ToString();
+            }
+            
+        }
+
+
+        private void BSS() // The Rock Paper Scissors-game
+        {
+
+            if (isClicked = true)
+            {
+                timer1.Stop();
+                count3.Content = "";
+            }
+
+            counter = 3;
+            timer2();
+
+
+
             scoreplayer1.Content = ($"SPELER {scoreplayer}"); //old score
             scorepc1.Content = ($"COMPUTER {scorepc}"); //old score
 
@@ -200,7 +251,7 @@ namespace BSS2
             PlayerChose = "Rock";
             RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
-            BBS();
+            BSS();
         }
 
         private void PaperClick(object sender, RoutedEventArgs e)
@@ -208,7 +259,7 @@ namespace BSS2
             PlayerChose = "Paper";
             RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
-            BBS();
+            BSS();
         }
 
         private void ScissorsClick(object sender, RoutedEventArgs e)
@@ -216,7 +267,7 @@ namespace BSS2
             PlayerChose = "Scissors";
             RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
-            BBS();
+            BSS();
         }
 
         private void scorereset(object sender, RoutedEventArgs e)

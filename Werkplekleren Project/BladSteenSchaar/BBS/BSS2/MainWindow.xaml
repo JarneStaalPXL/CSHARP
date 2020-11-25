@@ -75,9 +75,9 @@
                     Height="73" RenderTransformOrigin="0.5,0.5" Margin="0,0,0.4,0"/>
         </StackPanel>
         <StackPanel  Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Margin="0,41,0,-47" VerticalAlignment="Center" Height="313">
-            <Button 
+            <Button x:Name="button1" 
                     HorizontalAlignment="Center" 
-                     BorderBrush="White" 
+                    BorderBrush="Gray" 
                     BorderThickness="2"
                     Click="PaperClick"
                     Width="138"
@@ -88,7 +88,7 @@
                     Foreground="White" Margin="8,0">
                 <Image Source="/images/Blad.png" />
             </Button>
-            <Button 
+            <Button x:Name="button2" 
                     HorizontalAlignment="Center" 
                     VerticalAlignment="Top" 
                     Click="RockClick" 
@@ -96,13 +96,13 @@
                     Height="77"  
                     Margin="5"
                     FontSize="20"
-                BorderBrush="White" 
+                    BorderBrush="Gray" 
                     BorderThickness="2"
                     Background="#FF1A1A1A" 
                     Foreground="White">
                 <Image Source="/images/Steen.png" Width="77" Height="72" />
             </Button>
-            <Button 
+            <Button x:Name="button3" 
                     HorizontalAlignment="Center"
                     VerticalAlignment="Top" 
                     Click="ScissorsClick"
@@ -110,7 +110,7 @@
                     Height="77"  
                     FontSize="20"
                     Background="#FF1A1A1A" 
-                    BorderBrush="White" 
+                    BorderBrush="Gray" 
                     BorderThickness="2"
                     Foreground="White">
                 <Image Source="/images/Schaar.png" RenderTransformOrigin="0.5,0.5" Width="74" Height="106" >
@@ -145,5 +145,19 @@
                    VerticalAlignment="Top" 
                    Height="36"
                    Foreground="White" RenderTransformOrigin="0.487,-1.147" Grid.Column="2" Margin="17,30,23.2,0" Grid.RowSpan="2"/>
+        <Label x:Name="count3" Content="" 
+               Grid.Column="1" 
+               HorizontalAlignment="Left" 
+               HorizontalContentAlignment="Center"
+               VerticalContentAlignment="Center"
+               FontSize="80"
+               Foreground="White"
+               Height="168" 
+               Margin="159,54,0,0" 
+               Grid.Row="1" 
+               VerticalAlignment="Top" 
+               Grid.RowSpan="2" 
+               Grid.ColumnSpan="2" 
+               Width="320"/>
     </Grid>
 </Window>
