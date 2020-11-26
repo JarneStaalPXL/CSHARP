@@ -59,16 +59,19 @@ namespace BSS2
         }
 
         private DispatcherTimer timer1;
-
         private void timer2()//Counter startup
         {
             timer1 = new DispatcherTimer();
             timer1.Tick += new EventHandler(timer1_Tick);
             timer1.Interval = new TimeSpan(0, 0, 1);
             timer1.Start();
-            count3.Content = counter.ToString();
+
+            if (counter <=3)
+            {
+                count3.Content = counter.ToString();
+            }
+            
         }
-        
 
         private void timer1_Tick(object sender, EventArgs e) //Counts down
         {
@@ -84,8 +87,17 @@ namespace BSS2
                 //Show Clock when times up 
                 Image imgd = new Image();
                 imgd.Source = new BitmapImage(new Uri(@"images\clock.png", UriKind.RelativeOrAbsolute));
-
                 count3.Content = imgd;
+
+                //Remove the two images 
+                var bc = new BrushConverter(); //new brush
+
+                playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+                pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+
+                playerchoice.Content = "";
+                pcchoice.Content = "";
+
             }
             else
             {
@@ -94,9 +106,57 @@ namespace BSS2
             
         }
 
+        private void colorbg()
+        {
+            
+        }
+
+        private void empty() //clears choice of player and pc
+        {
+            playerchoice.Content = "";
+            pcchoice.Content = "";
+        }
+
+        private void setcurrentscore() //sets the score of player and pc
+        {
+            scoreplayer1.Content = ($"SPELER {scoreplayer}"); 
+            scorepc1.Content = ($"COMPUTER {scorepc}"); 
+        }
+
+        private void scorezero() //sets the score of player and pc to zero
+        {
+            scoreplayer1.Content = ($"SPELER {0}");
+            scorepc1.Content = ($"COMPUTER {0}");
+        }
+
+
+        private void msgyesnoplayer() //Show msgbox content // Questions to continue to play or not
+        {
+            MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win", MessageBoxButton.YesNo, MessageBoxImage.Question);
+
+            if (answer == MessageBoxResult.Yes)
+            {
+                scorezero();
+                BSS();
+            }
+            else if (answer == MessageBoxResult.No)
+            {
+                System.Environment.Exit(0);
+            }
+        }
+        private void msgyesnopc() //Show msgbox content // Questions to continue to play or not
+        {
+            MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins", MessageBoxButton.YesNo, MessageBoxImage.Question);
+
+            if (answer == MessageBoxResult.No)
+            {
+                System.Environment.Exit(0);
+            }
+        }
 
         private void BSS() // The Rock Paper Scissors-game
         {
+            
 
             if (isClicked = true)
             {
@@ -104,17 +164,11 @@ namespace BSS2
                 count3.Content = "";
             }
 
-            counter = 3;
+            counter = 3;  //Sets counter back to 3
             timer2();
-
-
-
-            scoreplayer1.Content = ($"SPELER {scoreplayer}"); //old score
-            scorepc1.Content = ($"COMPUTER {scorepc}"); //old score
+            setcurrentscore(); 
 
             var ab = new BrushConverter(); //new brush
-
-
             //Image Rock
             Image imga = new Image();
             imga.Source = new BitmapImage(new Uri(@"images\Steen.png", UriKind.RelativeOrAbsolute));
@@ -126,6 +180,8 @@ namespace BSS2
             //Image Scissors
             Image imgc = new Image();
             imgc.Source = new BitmapImage(new Uri(@"images\Schaar.png", UriKind.RelativeOrAbsolute));
+
+
 
             if (PlayerChose == "Rock" && Computer == "Paper") // Player: Rock, Computer: paper = computer wins
             {
@@ -248,10 +304,41 @@ namespace BSS2
                 pcchoice.Content = copyImga;
             }
 
-            scoreplayer1.Content = ($"SPELER {scoreplayer}"); //new score
-            scorepc1.Content = ($"COMPUTER {scorepc}"); //new score 
+            setcurrentscore();
+
+
+            var bc = new BrushConverter(); //new brush
+
+            if (scoreplayer == 10 ) //If player wins 10 times, then show msg box
+            {
+                timer1.Stop();
+                scorezero();
+                count3.Content = "";
+                playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+                pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+                empty();
+                msgyesnoplayer();
+
+
+            }
+            else if (scorepc == 10) //If pc wins 10 times, then show msg box
+            {
+                timer1.Stop();
+                scoreplayer = 0;
+                scorepc = 0;
+                scorezero();
+                count3.Content = "";
+                empty();
+                msgyesnopc();
+                
+                
+                playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+                pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+            }
 
         }
+
+        //Button Clicks, random picker and runs the BSS game
         private void RockClick(object sender, RoutedEventArgs e)
         {
             PlayerChose = "Rock";
@@ -276,18 +363,16 @@ namespace BSS2
             BSS();
         }
 
-        private void scorereset(object sender, RoutedEventArgs e)
+        private void scorereset(object sender, RoutedEventArgs e) //Resets everything
         {
             var bc = new BrushConverter(); //new brush
 
-            scoreplayer = 0;
-            scorepc = 0;
+            scorezero();
             scoreplayer1.Content = ($"SPELER {scoreplayer}"); //new score
             scorepc1.Content = ($"COMPUTER {scorepc}"); //new score 
             playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
             pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
-            playerchoice.Content = "";
-            pcchoice.Content = "";
+            empty();
         }
     }
 }
