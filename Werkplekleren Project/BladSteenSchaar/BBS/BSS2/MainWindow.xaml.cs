@@ -90,13 +90,7 @@ namespace BSS2
                 count3.Content = imgd;
 
                 //Remove the two images 
-                var bc = new BrushConverter(); //new brush
-
-                playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
-                pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
-
-                playerchoice.Content = "";
-                pcchoice.Content = "";
+                empty();
 
             }
             else
@@ -106,9 +100,12 @@ namespace BSS2
             
         }
 
-        private void colorbg()
+        private void colordraw()
         {
-            
+            var bc = new BrushConverter(); //new brush
+
+            playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+            pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
         }
 
         private void empty() //clears choice of player and pc
@@ -271,8 +268,7 @@ namespace BSS2
             else if (PlayerChose == "Scissors" && Computer == "Scissors")
             {
                 result.Content = draw;
-                playerchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
-                pcchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
+                colordraw();
 
                 playerchoice.Content = imgc;
                 Image copyImgc = new Image();
@@ -282,8 +278,7 @@ namespace BSS2
             else if (PlayerChose == "Paper" && Computer == "Paper")
             {
                 result.Content = draw;
-                playerchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
-                pcchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
+                colordraw();
 
                 playerchoice.Content = imgb;
                 Image copyImgb = new Image();
@@ -293,17 +288,12 @@ namespace BSS2
             else if (PlayerChose == "Rock" && Computer == "Rock")
             {
                 result.Content = draw;
-
-
-                playerchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
-                pcchoice.Background = (Brush)ab.ConvertFrom("#b8b8b8");
-
+                colordraw();
                 playerchoice.Content = imga;
                 Image copyImga = new Image();
                 copyImga.Source = imga.Source;
                 pcchoice.Content = copyImga;
             }
-
             setcurrentscore();
 
 
@@ -314,8 +304,7 @@ namespace BSS2
                 timer1.Stop();
                 scorezero();
                 count3.Content = "";
-                playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
-                pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+                colordraw();
                 empty();
                 msgyesnoplayer();
 
@@ -330,10 +319,7 @@ namespace BSS2
                 count3.Content = "";
                 empty();
                 msgyesnopc();
-                
-                
-                playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
-                pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+                colordraw();
             }
 
         }
