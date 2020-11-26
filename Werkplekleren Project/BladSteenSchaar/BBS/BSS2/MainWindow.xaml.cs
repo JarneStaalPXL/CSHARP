@@ -70,7 +70,6 @@ namespace BSS2
             {
                 count3.Content = counter.ToString();
             }
-            
         }
 
         private void timer1_Tick(object sender, EventArgs e) //Counts down
@@ -91,16 +90,14 @@ namespace BSS2
 
                 //Remove the two images 
                 empty();
-
             }
             else
             {
                 count3.Content = counter.ToString();
             }
-            
         }
 
-        private void colordraw()
+        private void colorbg()
         {
             var bc = new BrushConverter(); //new brush
 
@@ -108,16 +105,38 @@ namespace BSS2
             pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
         }
 
+        private void colordraw()
+        {
+            var bc = new BrushConverter(); //new brush
+
+            playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+            pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+        }
+
+        private void colorred()
+        {
+            var bc = new BrushConverter();
+            playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+
+        }
+
+        private void colorgreen()
+        {
+            var bc = new BrushConverter();
+            pcchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
+        }
+
         private void empty() //clears choice of player and pc
         {
             playerchoice.Content = "";
             pcchoice.Content = "";
+            colorbg();
         }
 
         private void setcurrentscore() //sets the score of player and pc
         {
             scoreplayer1.Content = ($"SPELER {scoreplayer}"); 
-            scorepc1.Content = ($"COMPUTER {scorepc}"); 
+            scorepc1.Content = ($"COMPUTER {scorepc}");
         }
 
         private void scorezero() //sets the score of player and pc to zero
@@ -127,7 +146,7 @@ namespace BSS2
         }
 
 
-        private void msgyesnoplayer() //Show msgbox content // Questions to continue to play or not
+        private void MsgYesNoPLAYER() //Show msgbox content // Questions to continue to play or not
         {
             MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win", MessageBoxButton.YesNo, MessageBoxImage.Question);
 
@@ -141,7 +160,7 @@ namespace BSS2
                 System.Environment.Exit(0);
             }
         }
-        private void msgyesnopc() //Show msgbox content // Questions to continue to play or not
+        private void MsgYesNoPC() //Show msgbox content // Questions to continue to play or not
         {
             MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins", MessageBoxButton.YesNo, MessageBoxImage.Question);
 
@@ -161,11 +180,14 @@ namespace BSS2
                 count3.Content = "";
             }
 
+
+
             counter = 3;  //Sets counter back to 3
             timer2();
             setcurrentscore(); 
 
-            var ab = new BrushConverter(); //new brush
+
+            
             //Image Rock
             Image imga = new Image();
             imga.Source = new BitmapImage(new Uri(@"images\Steen.png", UriKind.RelativeOrAbsolute));
@@ -180,18 +202,21 @@ namespace BSS2
 
 
 
+
+
+
             if (PlayerChose == "Rock" && Computer == "Paper") // Player: Rock, Computer: paper = computer wins
             {
                 result.Content = computer + wint;
                 scorepc++;
 
                 //PlayerChoice Rock
-                playerchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                colorred();
                 playerchoice.Content = imga;
 
 
                 //PcChoice Paper
-                pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                colorgreen();
                 pcchoice.Content = imgb;
             }
             else if (PlayerChose == "Rock" && Computer == "Scissors") // Player: Rock, Computer: Scissors = Player wins
@@ -200,12 +225,12 @@ namespace BSS2
                 scoreplayer++;
 
                 //PlayerChoice Rock
-                playerchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                colorgreen();
                 playerchoice.Content = imga;
 
 
                 //PcChoice Scissors
-                pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                colorred();
                 pcchoice.Content = imgc;
             }
             else if (PlayerChose == "Paper" && Computer == "Scissors") // Player: Paper, Computer: Scissors = Computer wins
@@ -214,12 +239,12 @@ namespace BSS2
                 scorepc++;
 
                 //PlayerChoice Paper
-                playerchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                colorred();
                 playerchoice.Content = imgb;
 
 
                 //PcChoice Scissors
-                pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                colorgreen();
                 pcchoice.Content = imgc;
             }
             else if (PlayerChose == "Paper" && Computer == "Rock") // Player: Paper, Computer: Rock = Player wins
@@ -228,12 +253,12 @@ namespace BSS2
                 scoreplayer++;
 
                 //PlayerChoice Paper
-                playerchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                colorgreen();
                 playerchoice.Content = imgb;
 
 
                 //PcChoice Rock
-                pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                colorred();
                 pcchoice.Content = imga;
             }
             else if (PlayerChose == "Scissors" && Computer == "Rock") // Player: Scissors, Computer: Rock = Computer wins
@@ -242,12 +267,12 @@ namespace BSS2
                 scorepc++;
 
                 //PlayerChoice Scissors
-                playerchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                colorred();
                 playerchoice.Content = imgc;
 
 
                 //PcChoice Rock
-                pcchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                colorgreen();
                 pcchoice.Content = imga;
             }
             else if (PlayerChose == "Scissors" && Computer == "Paper") // Player: Scissors, Computer: Paper = Player wins
@@ -256,12 +281,12 @@ namespace BSS2
                 scoreplayer++;
 
                 //PlayerChoice Scissors
-                playerchoice.Background = (Brush)ab.ConvertFrom("#36cc23");
+                colorgreen();
                 playerchoice.Content = imgc;
 
 
                 //PcChoice Paper
-                pcchoice.Background = (Brush)ab.ConvertFrom("#c22a25");
+                colorred();
                 pcchoice.Content = imgb;
             }
 
@@ -304,9 +329,9 @@ namespace BSS2
                 timer1.Stop();
                 scorezero();
                 count3.Content = "";
-                colordraw();
+                colorbg();
                 empty();
-                msgyesnoplayer();
+                MsgYesNoPLAYER();
 
 
             }
@@ -315,16 +340,16 @@ namespace BSS2
                 timer1.Stop();
                 scoreplayer = 0;
                 scorepc = 0;
-                scorezero();
                 count3.Content = "";
+                scorezero();
                 empty();
-                msgyesnopc();
-                colordraw();
+                MsgYesNoPC();
+                colorbg();
             }
 
         }
 
-        //Button Clicks, random picker and runs the BSS game
+        //Button Clicks, random picker and call for BSS game
         private void RockClick(object sender, RoutedEventArgs e)
         {
             PlayerChose = "Rock";
@@ -354,10 +379,8 @@ namespace BSS2
             var bc = new BrushConverter(); //new brush
 
             scorezero();
-            scoreplayer1.Content = ($"SPELER {scoreplayer}"); //new score
-            scorepc1.Content = ($"COMPUTER {scorepc}"); //new score 
-            playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
-            pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+            setcurrentscore();
+            colorbg();
             empty();
         }
     }
