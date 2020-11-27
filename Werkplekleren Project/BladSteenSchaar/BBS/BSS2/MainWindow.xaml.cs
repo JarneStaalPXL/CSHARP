@@ -26,14 +26,17 @@ namespace BSS2
         string Computer;
         string[] answers = { "Rock", "Paper", "Scissors" };
         string PlayerChose;
-        private int scoreplayer = 0;
-        private int scorepc = 0;
-        private int counter = 3;
         string computer = "Computer";
         string player = "Speler";
         string draw = "Gelijkspel";
         string wint = " wint";
 
+        //Ints
+        private int scoreplayer = 0;
+        private int scorepc = 0;
+        private int counter = 3;
+
+        //Bools
         private bool isClicked;
 
         //Random
@@ -170,6 +173,48 @@ namespace BSS2
             }
         }
 
+        void ChangeBorderBrushButton1()
+        {
+            if (button1.BorderBrush == Brushes.Gray)
+            {
+                button1.BorderBrush = Brushes.Black;
+            }
+        }
+
+        void ChangeBorderBrushButton2()
+        {
+            if (button2.BorderBrush == Brushes.Gray)
+            {
+                button2.BorderBrush = Brushes.Red;
+            }
+        }
+
+        void ChangeBorderBrushButton3()
+        {
+            if (button3.BorderBrush == Brushes.Gray)
+            {
+                button3.BorderBrush = Brushes.Red;
+            }
+        }
+
+        void ResetBorderBrush23()
+        {
+            button2.BorderBrush = Brushes.Gray;
+            button3.BorderBrush = Brushes.Gray;
+        }
+
+        void ResetBorderBrushButton13()
+        {
+            button1.BorderBrush = Brushes.Gray;
+            button3.BorderBrush = Brushes.Gray;
+        }
+
+        void ResetBorderBrush12()
+        {
+            button1.BorderBrush = Brushes.Gray;
+            button2.BorderBrush = Brushes.Gray;
+        }
+
         private void BSS() // The Rock Paper Scissors-game
         {
             
@@ -202,11 +247,9 @@ namespace BSS2
 
 
 
-
-
-
             if (PlayerChose == "Rock" && Computer == "Paper") // Player: Rock, Computer: paper = computer wins
             {
+
                 result.Content = computer + wint;
                 scorepc++;
 
@@ -350,19 +393,24 @@ namespace BSS2
         }
 
         //Button Clicks, random picker and call for BSS game
-        private void RockClick(object sender, RoutedEventArgs e)
-        {
-            PlayerChose = "Rock";
-            RandomType = random.Next(0, 3);
-            Computer = answers[RandomType];
-            BSS();
-        }
 
         private void PaperClick(object sender, RoutedEventArgs e)
         {
             PlayerChose = "Paper";
             RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
+            ChangeBorderBrushButton1();
+            ResetBorderBrush23();
+            BSS();
+        }
+
+        private void RockClick(object sender, RoutedEventArgs e)
+        {
+            PlayerChose = "Rock";
+            RandomType = random.Next(0, 3);
+            Computer = answers[RandomType];
+            ChangeBorderBrushButton2();
+            ResetBorderBrushButton13();
             BSS();
         }
 
@@ -371,15 +419,17 @@ namespace BSS2
             PlayerChose = "Scissors";
             RandomType = random.Next(0, 3);
             Computer = answers[RandomType];
+            ChangeBorderBrushButton3();
+            ResetBorderBrush12();
             BSS();
         }
 
         private void scorereset(object sender, RoutedEventArgs e) //Resets everything
         {
             var bc = new BrushConverter(); //new brush
-
+            timer1.Stop();
+            count3.Content = "";
             scorezero();
-            setcurrentscore();
             colorbg();
             empty();
         }
