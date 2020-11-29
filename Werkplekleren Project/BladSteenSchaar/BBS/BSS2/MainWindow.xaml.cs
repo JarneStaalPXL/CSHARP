@@ -36,9 +36,6 @@ namespace BSS2
         private int scorepc = 0;
         private int counter = 3;
 
-        //Bools
-        private bool isClicked;
-
         //Random
         Random random = new Random();
         int RandomType = 0;
@@ -217,15 +214,8 @@ namespace BSS2
 
         private void BSS() // The Rock Paper Scissors-game
         {
-            
-
-            if (isClicked = true)
-            {
-                timer1.Stop();
-                count3.Content = "";
-            }
-
-
+            timer1.Stop();
+            count3.Content = "";
 
             counter = 3;  //Sets counter back to 3
             timer2();
@@ -426,7 +416,6 @@ namespace BSS2
 
         private void scorereset(object sender, RoutedEventArgs e) //Resets everything
         {
-            var bc = new BrushConverter(); //new brush
             timer1.Stop();
             count3.Content = "";
             scorezero();
