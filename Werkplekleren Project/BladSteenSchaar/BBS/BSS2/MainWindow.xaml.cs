@@ -97,7 +97,7 @@ namespace BSS2
             }
         }
 
-        private void colorbg()
+        void colorbg()
         {
             var bc = new BrushConverter(); //new brush
 
@@ -105,7 +105,7 @@ namespace BSS2
             pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
         }
 
-        private void colordraw()
+        void colordraw()
         {
             var bc = new BrushConverter(); //new brush
 
@@ -113,40 +113,40 @@ namespace BSS2
             pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
         }
 
-        private void colorred()
+        void colorred()
         {
             var bc = new BrushConverter();
             playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
 
         }
 
-        private void colorgreen()
+        void colorgreen()
         {
             var bc = new BrushConverter();
             pcchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
         }
 
-        private void empty() //clears choice of player and pc
+        void empty() //clears choice of player and pc
         {
             playerchoice.Content = "";
             pcchoice.Content = "";
             colorbg();
         }
 
-        private void setcurrentscore() //sets the score of player and pc
+        void setcurrentscore() //sets the score of player and pc
         {
             scoreplayer1.Content = ($"SPELER {scoreplayer}"); 
             scorepc1.Content = ($"COMPUTER {scorepc}");
         }
 
-        private void scorezero() //sets the score of player and pc to zero
+        void scorezero() //sets the score of player and pc to zero
         {
             scoreplayer1.Content = ($"SPELER {0}");
             scorepc1.Content = ($"COMPUTER {0}");
         }
 
 
-        private void MsgYesNoPLAYER() //Show msgbox content // Questions to continue to play or not
+        void MsgYesNoPLAYER() //Show msgbox content // Questions to continue to play or not
         {
             MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win", MessageBoxButton.YesNo, MessageBoxImage.Question);
 
@@ -160,7 +160,7 @@ namespace BSS2
                 System.Environment.Exit(0);
             }
         }
-        private void MsgYesNoPC() //Show msgbox content // Questions to continue to play or not
+        void MsgYesNoPC() //Show msgbox content // Questions to continue to play or not
         {
             MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins", MessageBoxButton.YesNo, MessageBoxImage.Question);
 
@@ -174,7 +174,7 @@ namespace BSS2
         {
             if (button1.BorderBrush == Brushes.Gray)
             {
-                button1.BorderBrush = Brushes.Black;
+                button1.BorderBrush = Brushes.Red;
             }
         }
 
