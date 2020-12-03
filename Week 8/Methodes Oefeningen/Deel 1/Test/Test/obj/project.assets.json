@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Alle oefeningen\\MethodesOplossing\\MethodesOplossing\\MethodesOplossing.csproj",
-      "projectName": "MethodesOplossing",
-      "projectPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Alle oefeningen\\MethodesOplossing\\MethodesOplossing\\MethodesOplossing.csproj",
+      "projectUniqueName": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Deel 1\\Test\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Deel 1\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\jarne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Alle oefeningen\\MethodesOplossing\\MethodesOplossing\\obj\\",
+      "outputPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 8\\Methodes Oefeningen\\Deel 1\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jarne\\AppData\\Roaming\\NuGet\\NuGet.Config",

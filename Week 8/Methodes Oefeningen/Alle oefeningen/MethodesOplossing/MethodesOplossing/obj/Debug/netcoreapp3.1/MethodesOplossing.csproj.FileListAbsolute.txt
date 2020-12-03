@@ -1,0 +1,13 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\bin\Debug\netcoreapp3.1\MethodesOplossing.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\bin\Debug\netcoreapp3.1\MethodesOplossing.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\bin\Debug\netcoreapp3.1\MethodesOplossing.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\bin\Debug\netcoreapp3.1\MethodesOplossing.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\bin\Debug\netcoreapp3.1\MethodesOplossing.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\bin\Debug\netcoreapp3.1\MethodesOplossing.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\obj\Debug\netcoreapp3.1\MethodesOplossing.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\obj\Debug\netcoreapp3.1\MethodesOplossing.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\obj\Debug\netcoreapp3.1\MethodesOplossing.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\obj\Debug\netcoreapp3.1\MethodesOplossing.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\obj\Debug\netcoreapp3.1\MethodesOplossing.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\obj\Debug\netcoreapp3.1\MethodesOplossing.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 8\Methodes Oefeningen\Alle oefeningen\MethodesOplossing\MethodesOplossing\obj\Debug\netcoreapp3.1\MethodesOplossing.genruntimeconfig.cache

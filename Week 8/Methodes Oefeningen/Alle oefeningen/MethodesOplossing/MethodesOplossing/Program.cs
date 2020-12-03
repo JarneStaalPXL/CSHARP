@@ -62,9 +62,11 @@ namespace MethodesOplossing
         // Oefening 1 
         private static void VerWissel(ref int a, ref int b)
         {
-            int tempA = b;
+            int tempA = a;
             a = b;
             b = tempA;
+
+
         }
 
         // Oefening 2
