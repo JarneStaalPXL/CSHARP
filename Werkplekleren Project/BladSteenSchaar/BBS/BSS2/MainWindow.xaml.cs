@@ -421,6 +421,9 @@ namespace BSS2
             scorezero();
             colorbg();
             empty();
+            ResetBorderBrush12();
+            ResetBorderBrush23();
+            ResetBorderBrushButton13();
         }
     }
 }

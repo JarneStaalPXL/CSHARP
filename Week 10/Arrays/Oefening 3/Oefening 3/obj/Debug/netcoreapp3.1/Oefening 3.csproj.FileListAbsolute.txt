@@ -1,0 +1,13 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\bin\Debug\netcoreapp3.1\Oefening 3.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\bin\Debug\netcoreapp3.1\Oefening 3.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\bin\Debug\netcoreapp3.1\Oefening 3.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\bin\Debug\netcoreapp3.1\Oefening 3.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\bin\Debug\netcoreapp3.1\Oefening 3.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\bin\Debug\netcoreapp3.1\Oefening 3.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\obj\Debug\netcoreapp3.1\Oefening 3.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\obj\Debug\netcoreapp3.1\Oefening 3.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\obj\Debug\netcoreapp3.1\Oefening 3.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\obj\Debug\netcoreapp3.1\Oefening 3.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\obj\Debug\netcoreapp3.1\Oefening 3.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\obj\Debug\netcoreapp3.1\Oefening 3.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Oefening 3\Oefening 3\obj\Debug\netcoreapp3.1\Oefening 3.genruntimeconfig.cache
