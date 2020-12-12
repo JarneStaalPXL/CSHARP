@@ -1,0 +1,15 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\bin\Debug\Monster click.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\bin\Debug\Monster click.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\bin\Debug\Monster click.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster click.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster click_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster click_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster click.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster_click.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster click.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster click.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster click.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\WPF\Monster click\Monster click\obj\Debug\Monster click.pdb

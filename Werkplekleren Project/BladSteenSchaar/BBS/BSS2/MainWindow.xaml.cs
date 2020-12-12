@@ -143,6 +143,8 @@ namespace BSS2
         {
             scoreplayer1.Content = ($"SPELER {0}");
             scorepc1.Content = ($"COMPUTER {0}");
+            scoreplayer = 0;
+            scorepc = 0;
         }
 
 
@@ -152,7 +154,6 @@ namespace BSS2
 
             if (answer == MessageBoxResult.Yes)
             {
-                scorezero();
                 BSS();
             }
             else if (answer == MessageBoxResult.No)
@@ -164,6 +165,7 @@ namespace BSS2
         {
             MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins", MessageBoxButton.YesNo, MessageBoxImage.Question);
 
+
             if (answer == MessageBoxResult.No)
             {
                 System.Environment.Exit(0);
@@ -174,7 +176,7 @@ namespace BSS2
         {
             if (button1.BorderBrush == Brushes.Gray)
             {
-                button1.BorderBrush = Brushes.Red;
+                button1.BorderBrush = Brushes.Black;
             }
         }
 
@@ -182,7 +184,7 @@ namespace BSS2
         {
             if (button2.BorderBrush == Brushes.Gray)
             {
-                button2.BorderBrush = Brushes.Red;
+                button2.BorderBrush = Brushes.Black;
             }
         }
 
@@ -190,7 +192,7 @@ namespace BSS2
         {
             if (button3.BorderBrush == Brushes.Gray)
             {
-                button3.BorderBrush = Brushes.Red;
+                button3.BorderBrush = Brushes.Black;
             }
         }
 

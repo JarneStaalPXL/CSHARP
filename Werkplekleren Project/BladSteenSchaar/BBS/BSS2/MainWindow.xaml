@@ -19,8 +19,6 @@
             <RowDefinition Height="199*"/>
         </Grid.RowDefinitions>
 
-
-
         <StackPanel Grid.Row="0"  Grid.ColumnSpan="4">
             <Label x:Name="result" Content="" 
                    HorizontalContentAlignment="Center" 

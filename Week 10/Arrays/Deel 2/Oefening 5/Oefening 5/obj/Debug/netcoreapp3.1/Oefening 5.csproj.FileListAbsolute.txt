@@ -1,0 +1,13 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\obj\Debug\netcoreapp3.1\Oefening 5.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\obj\Debug\netcoreapp3.1\Oefening 5.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\obj\Debug\netcoreapp3.1\Oefening 5.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\obj\Debug\netcoreapp3.1\Oefening 5.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\bin\Debug\netcoreapp3.1\Oefening 5.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\bin\Debug\netcoreapp3.1\Oefening 5.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\bin\Debug\netcoreapp3.1\Oefening 5.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\bin\Debug\netcoreapp3.1\Oefening 5.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\bin\Debug\netcoreapp3.1\Oefening 5.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\bin\Debug\netcoreapp3.1\Oefening 5.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\obj\Debug\netcoreapp3.1\Oefening 5.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\obj\Debug\netcoreapp3.1\Oefening 5.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Arrays\Deel 2\Oefening 5\Oefening 5\obj\Debug\netcoreapp3.1\Oefening 5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\bin\Debug\netcoreapp3.1\ListsInfo.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\bin\Debug\netcoreapp3.1\ListsInfo.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\bin\Debug\netcoreapp3.1\ListsInfo.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\bin\Debug\netcoreapp3.1\ListsInfo.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\bin\Debug\netcoreapp3.1\ListsInfo.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\bin\Debug\netcoreapp3.1\ListsInfo.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\obj\Debug\netcoreapp3.1\ListsInfo.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\obj\Debug\netcoreapp3.1\ListsInfo.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\obj\Debug\netcoreapp3.1\ListsInfo.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\obj\Debug\netcoreapp3.1\ListsInfo.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\obj\Debug\netcoreapp3.1\ListsInfo.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\obj\Debug\netcoreapp3.1\ListsInfo.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListsInfo\ListsInfo\obj\Debug\netcoreapp3.1\ListsInfo.genruntimeconfig.cache
