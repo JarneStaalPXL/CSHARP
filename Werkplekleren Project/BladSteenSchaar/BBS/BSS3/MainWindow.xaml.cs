@@ -4,6 +4,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Threading;
+using Microsoft.VisualBasic;
 
 
 namespace BSS3
@@ -156,7 +157,10 @@ namespace BSS3
 
             if (answer == MessageBoxResult.Yes)
             {
-                
+                string antwoord = Interaction.InputBox("Geef uw naam in", 
+                                                           "Winnaar!", 
+                                                            "", 
+                                                            500); 
                 BSS();
                 scorezero();
                 colorbg();
