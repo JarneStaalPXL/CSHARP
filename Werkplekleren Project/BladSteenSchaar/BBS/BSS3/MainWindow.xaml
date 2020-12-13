@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BSS3"
         mc:Ignorable="d"
-        Title="Blad Steen Schaar" WindowState="Normal"  Height="603.6" Width="1136.873" Background="#FF1A1A1A">
+        Title="Blad Steen Schaar" WindowState="Normal"  Height="603.6" Width="1371.2" Background="#FF1A1A1A">
     <Viewbox Margin="0,0,2.909,-19.345">
         <Grid Width="1051">
             <Grid.ColumnDefinitions>
@@ -43,6 +43,7 @@
             <StackPanel Grid.Column="3" Grid.RowSpan="4">
                 <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="394" Width="111" />
             </StackPanel>
+            <Label x:Name="showhistory" Foreground="White" Grid.Column="2" Content="" Margin="360.582,23,-57.236,99.291" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
             <StackPanel Grid.Row="1" Grid.Column="3" Grid.RowSpan="2" Margin="0.073,0.309,-0.236,0" >
                 <Button
                 Content="RESET"
@@ -147,15 +148,15 @@
                    VerticalAlignment="Top" 
                    
                    Foreground="White" 
-                   Height="38" Grid.Column="1" Margin="0.473,171,0.418,0" Grid.RowSpan="2"/>
+                   Height="50" Grid.Column="1" Margin="0.473,159,0.418,0" Grid.RowSpan="2"/>
             <Label x:Name="scorepc1"
                    FontWeight="Bold"
                    FontSize="20" 
                    Content="COMPUTER 0" 
                    HorizontalContentAlignment="Center"  
                    VerticalAlignment="Top" 
-                   Height="36"
-                   Foreground="White" RenderTransformOrigin="0.487,-1.147" Grid.Column="2" Margin="20.582,173,19.927,0" Grid.RowSpan="2"/>
+                   Height="50"
+                   Foreground="White" RenderTransformOrigin="0.487,-1.147" Grid.Column="2" Margin="20.582,159,19.927,0" Grid.RowSpan="2"/>
             <Label x:Name="count3" Content="" 
                HorizontalAlignment="Left" 
                HorizontalContentAlignment="Center"

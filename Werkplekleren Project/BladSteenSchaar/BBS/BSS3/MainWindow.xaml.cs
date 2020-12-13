@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
@@ -22,6 +23,8 @@ namespace BSS3
         string player = "Speler";
         string draw = "Gelijkspel";
         string wint = " wint";
+        string user = "";
+        
 
         //Ints
         private int scoreplayer = 0;
@@ -58,7 +61,8 @@ namespace BSS3
             timer2();
 
         }
-        
+
+        #region Timers
         private DispatcherTimer timer1;
         private void timer2()//Counter startup
         {
@@ -99,43 +103,24 @@ namespace BSS3
                 count3.Content = counter.ToString();
             }
         }
+        #endregion
 
-        void colorbg()
-        {
-            var bc = new BrushConverter(); //new brush
 
-            playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
-            pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
-        }
 
-        void colordraw()
-        {
-            var bc = new BrushConverter(); //new brush
 
-            playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
-            pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
-        }
-
-        void colorred()
-        {
-            var bc = new BrushConverter();
-            playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
-
-        }
-
-        void colorgreen()
-        {
-            var bc = new BrushConverter();
-            pcchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
-        }
-
+        #region Clears Choice
         void empty() //clears choice of player and pc
         {
             playerchoice.Content = "";
             pcchoice.Content = "";
             colorbg();
         }
+        #endregion
 
+
+
+
+        #region Score
         void setcurrentscore() //sets the score of player and pc
         {
             scoreplayer1.Content = ($"SPELER {scoreplayer}");
@@ -149,18 +134,43 @@ namespace BSS3
             scoreplayer = 0;
             scorepc = 0;
         }
+        #endregion
 
 
+
+        #region Messages
         void MsgYesNoPLAYER() //Show msgbox content // Questions to continue to play or not
         {
             MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win", MessageBoxButton.YesNo, MessageBoxImage.Question);
 
             if (answer == MessageBoxResult.Yes)
             {
-                string antwoord = Interaction.InputBox("Geef uw naam in", 
+                string inputname = Interaction.InputBox("Geef uw naam in", 
                                                            "Winnaar!", 
                                                             "", 
-                                                            500); 
+                                                            500);
+
+                
+
+                if (inputname == "")
+                {
+                    user = "Anonieme Speler";
+                    
+                }
+                else
+                {
+                    user = inputname;
+                    
+                }
+
+                StringBuilder sb = new StringBuilder();
+                for (int i = 0; i < 10; i++)
+                {
+                    sb.Append($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})\n");
+                }
+                showhistory.Content = sb;
+
+
                 BSS();
                 scorezero();
                 colorbg();
@@ -171,6 +181,7 @@ namespace BSS3
             }
             else if (answer == MessageBoxResult.No)
             {
+
                 System.Environment.Exit(0);
             }
         }
@@ -178,12 +189,45 @@ namespace BSS3
         {
             MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins", MessageBoxButton.YesNo, MessageBoxImage.Question);
 
+            if (answer == MessageBoxResult.Yes)
+            {
+                string inputname = Interaction.InputBox("Geef uw naam in",
+                                                          "Winnaar!",
+                                                           "",
+                                                           500);
 
+                string tempuser = "";
+
+                if (inputname == "")
+                {
+                    user = "Anonieme Speler";
+                    showhistory.Content = $"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})";
+                }
+                else
+                {
+                    user = inputname;
+                    showhistory.Content = $"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})";
+                }
+
+
+                BSS();
+                scorezero();
+                colorbg();
+                empty();
+                ResetBorderBrush12();
+                ResetBorderBrush23();
+                ResetBorderBrushButton13();
+            }
             if (answer == MessageBoxResult.No)
             {
+
+
                 System.Environment.Exit(0);
             }
         }
+        #endregion
+
+
 
         #region Brushes
         void ChangeBorderBrushButton1()
@@ -227,7 +271,37 @@ namespace BSS3
             button1.BorderBrush = Brushes.Gray;
             button2.BorderBrush = Brushes.Gray;
         }
+        void colorbg()
+        {
+            var bc = new BrushConverter(); //new brush
+
+            playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+            pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
+        }
+
+        void colordraw()
+        {
+            var bc = new BrushConverter(); //new brush
+
+            playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+            pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
+        }
+
+        void colorred()
+        {
+            var bc = new BrushConverter();
+            playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+
+        }
+
+        void colorgreen()
+        {
+            var bc = new BrushConverter();
+            pcchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
+        }
         #endregion
+
+
 
         #region History
         void HistoryPlayerChoices()
@@ -264,9 +338,12 @@ namespace BSS3
         }
         #endregion
 
+
+
         #region BSS Game
         private void BSS() // The Rock Paper Scissors-game
         {
+            
             timer1.Stop();
             count3.Content = "";
 
@@ -427,9 +504,7 @@ namespace BSS3
                 pcchoice.Content = copyImga;
             }
             setcurrentscore();
-
-
-            var bc = new BrushConverter(); //new brush
+            
 
             if (scoreplayer == 10) //If player wins 10 times, then show msg box
             {
@@ -440,7 +515,6 @@ namespace BSS3
                 empty();
                 MsgYesNoPLAYER();
                 ResetHistoryChoices();
-
             }
             else if (scorepc == 10) //If pc wins 10 times, then show msg box
             {
@@ -453,10 +527,12 @@ namespace BSS3
                 MsgYesNoPC();
                 colorbg();
                 ResetHistoryChoices();
+
             }
 
         }
         #endregion
+
 
         #region Button Clicks
         //Button Clicks, random picker and call for BSS game
@@ -510,5 +586,8 @@ namespace BSS3
             ResetHistoryChoices();
         }
         #endregion
+
+
+
     }
 }
