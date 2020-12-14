@@ -43,7 +43,7 @@
             <StackPanel Grid.Column="3" Grid.RowSpan="4">
                 <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="394" Width="111" />
             </StackPanel>
-            <Label x:Name="showhistory" Foreground="White" Grid.Column="2" Content="" Margin="360.582,23,-57.236,99.291" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+            <Label x:Name="showhistory" Foreground="White" Grid.Column="2" Content="" Margin="317,23,-66.8,99" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
             <StackPanel Grid.Row="1" Grid.Column="3" Grid.RowSpan="2" Margin="0.073,0.309,-0.236,0" >
                 <Button
                 Content="RESET"

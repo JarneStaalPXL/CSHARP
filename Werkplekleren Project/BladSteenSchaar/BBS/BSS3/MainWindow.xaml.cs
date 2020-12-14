@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -137,95 +138,7 @@ namespace BSS3
         #endregion
 
 
-
-        #region Messages
-        void MsgYesNoPLAYER() //Show msgbox content // Questions to continue to play or not
-        {
-            MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win", MessageBoxButton.YesNo, MessageBoxImage.Question);
-
-            if (answer == MessageBoxResult.Yes)
-            {
-                string inputname = Interaction.InputBox("Geef uw naam in", 
-                                                           "Winnaar!", 
-                                                            "", 
-                                                            500);
-
-                
-
-                if (inputname == "")
-                {
-                    user = "Anonieme Speler";
-                    
-                }
-                else
-                {
-                    user = inputname;
-                    
-                }
-
-                StringBuilder sb = new StringBuilder();
-                for (int i = 0; i < 10; i++)
-                {
-                    sb.Append($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})\n");
-                }
-                showhistory.Content = sb;
-
-
-                BSS();
-                scorezero();
-                colorbg();
-                empty();
-                ResetBorderBrush12();
-                ResetBorderBrush23();
-                ResetBorderBrushButton13();
-            }
-            else if (answer == MessageBoxResult.No)
-            {
-
-                System.Environment.Exit(0);
-            }
-        }
-        void MsgYesNoPC() //Show msgbox content // Questions to continue to play or not
-        {
-            MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins", MessageBoxButton.YesNo, MessageBoxImage.Question);
-
-            if (answer == MessageBoxResult.Yes)
-            {
-                string inputname = Interaction.InputBox("Geef uw naam in",
-                                                          "Winnaar!",
-                                                           "",
-                                                           500);
-
-                string tempuser = "";
-
-                if (inputname == "")
-                {
-                    user = "Anonieme Speler";
-                    showhistory.Content = $"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})";
-                }
-                else
-                {
-                    user = inputname;
-                    showhistory.Content = $"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})";
-                }
-
-
-                BSS();
-                scorezero();
-                colorbg();
-                empty();
-                ResetBorderBrush12();
-                ResetBorderBrush23();
-                ResetBorderBrushButton13();
-            }
-            if (answer == MessageBoxResult.No)
-            {
-
-
-                System.Environment.Exit(0);
-            }
-        }
-        #endregion
+        
 
 
 
@@ -504,27 +417,142 @@ namespace BSS3
                 pcchoice.Content = copyImga;
             }
             setcurrentscore();
-            
+
+            List<string> list = new List<string>();
+            StringBuilder sb = new StringBuilder();
+            #region Messages
+            void MsgYesNoPLAYER() //Show msgbox content // Questions to continue to play or not
+            {
+                MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win", MessageBoxButton.YesNo, MessageBoxImage.Question);
+
+                if (answer == MessageBoxResult.Yes)
+                {
+                    string inputname = Interaction.InputBox("Geef uw naam in",
+                                                               "Winnaar!",
+                                                                "",
+                                                                500);
+
+                    if (inputname == "")
+                    {
+                        user = "Anonieme Speler\n";
+
+                        for (int i = 0; i < 1; i++)
+                        {
+                            showhistory.Content += $"{list[i]}\n";
+                        }
+
+                    }
+                    else if (inputname != "")
+                    {
+                        user = inputname;
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+
+
+                        for (int i = 0; i < 1; i++)
+                        {
+
+                            showhistory.Content += $"{list[i]}\n";
+                        }
+
+
+                        //showhistory.Content = list;
+                    }
+
+
+                    BSS();
+                    scorezero();
+                    colorbg();
+                    empty();
+                    ResetBorderBrush12();
+                    ResetBorderBrush23();
+                    ResetBorderBrushButton13();
+                }
+                else if (answer == MessageBoxResult.No)
+                {
+
+                    System.Environment.Exit(0);
+                }
+            }
+
+            void MsgYesNoPC() //Show msgbox content // Questions to continue to play or not
+            {
+                MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins", MessageBoxButton.YesNo, MessageBoxImage.Question);
+
+                if (answer == MessageBoxResult.Yes)
+                {
+                    string inputname = Interaction.InputBox("Geef uw naam in",
+                                                              "Winnaar!",
+                                                               "",
+                                                               500);
+
+
+
+                    if (inputname == "")
+                    {
+                        user = "Anonieme Speler\n";
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+
+                        for (int i = 0; i < list.Count; i++)
+                        {
+                            showhistory.Content = $"{list[i]}\n";
+                        }
+                    }
+                    else
+                    {
+                        user = inputname;
+                        list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+
+
+                        for (int i = 0; i < list.Count; i++)
+                        {
+                            showhistory.Content = $"{list[i]}\n";
+                        }
+                    }
+
+
+                    BSS();
+                    scorezero();
+                    colorbg();
+                    empty();
+                    ResetBorderBrush12();
+                    ResetBorderBrush23();
+                    ResetBorderBrushButton13();
+                }
+                if (answer == MessageBoxResult.No)
+                {
+
+
+                    System.Environment.Exit(0);
+                }
+            }
+            #endregion
+
 
             if (scoreplayer == 10) //If player wins 10 times, then show msg box
             {
                 timer1.Stop();
-                scorezero();
                 count3.Content = "";
                 colorbg();
                 empty();
                 MsgYesNoPLAYER();
+                scorezero();
                 ResetHistoryChoices();
             }
             else if (scorepc == 10) //If pc wins 10 times, then show msg box
             {
                 timer1.Stop();
-                scoreplayer = 0;
-                scorepc = 0;
                 count3.Content = "";
-                scorezero();
                 empty();
                 MsgYesNoPC();
+                scoreplayer = 0;
+                scorepc = 0;
+                scorezero();
                 colorbg();
                 ResetHistoryChoices();
 
