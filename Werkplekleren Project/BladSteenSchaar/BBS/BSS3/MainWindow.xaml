@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BSS3"
         mc:Ignorable="d"
-        Title="Blad Steen Schaar" WindowState="Normal"  Height="603.6" Width="1371.2" Background="#FF1A1A1A">
-    <Viewbox Margin="0,0,2.909,-19.345">
+        Title="Blad Steen Schaar" WindowState="Normal"  Height="603.6" Width="1146.036" Background="#FF1A1A1A">
+    <Viewbox Margin="10,0,92.909,-19.745">
         <Grid Width="1051">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="180*" />
@@ -43,19 +43,28 @@
             <StackPanel Grid.Column="3" Grid.RowSpan="4">
                 <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="394" Width="111" />
             </StackPanel>
-            <Label x:Name="showhistory" Foreground="White" Grid.Column="2" Content="" Margin="317,23,-66.8,99" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
-            <StackPanel Grid.Row="1" Grid.Column="3" Grid.RowSpan="2" Margin="0.073,0.309,-0.236,0" >
+            <Label x:Name="showhistory" Foreground="White" Grid.Column="2" Margin="292.582,23,-113.236,83.691" Grid.ColumnSpan="2" Grid.RowSpan="2">
+                <ListBox x:Name="listbox" Height="185" Width="289" Background="#FF1A1A1A" Foreground="White"/>
+            </Label>
+            <StackPanel Grid.Row="1" Grid.Column="3" Grid.RowSpan="2" Margin="0.073,0.382,-100.236,0.418" >
                 <Button
                 Content="RESET"
                     Foreground="White"
-                    Height="317" 
+                    Height="166" 
                     FontSize="25"
                     HorizontalContentAlignment="Center"
                     BorderBrush="White"
                     BorderThickness="2" 
                     Background="#FF1A1A1A"
-                    Click="scorereset" Margin="0,0,0.836,0">
+                    Click="ScoreReset" Margin="0,0,10.2,0">
                 </Button>
+                <Button Content="Results" Foreground="White"
+                    Height="140" 
+                    FontSize="25"
+                    HorizontalContentAlignment="Center"
+                    BorderBrush="White"
+                    BorderThickness="2" 
+                    Background="#FF1A1A1A" Margin="0,0,10.2,0" Click="Opens_Results"/>
             </StackPanel>
             <StackPanel Height="200"  Grid.RowSpan="2" VerticalAlignment="Bottom"/>
             <StackPanel VerticalAlignment="Center" Grid.Row="0" Height="79" >

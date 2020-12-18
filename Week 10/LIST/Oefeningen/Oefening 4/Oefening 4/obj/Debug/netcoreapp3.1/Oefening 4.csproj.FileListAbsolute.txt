@@ -1,0 +1,12 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\bin\Debug\netcoreapp3.1\Oefening 4.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\bin\Debug\netcoreapp3.1\Oefening 4.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\bin\Debug\netcoreapp3.1\Oefening 4.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\bin\Debug\netcoreapp3.1\Oefening 4.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\bin\Debug\netcoreapp3.1\Oefening 4.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\bin\Debug\netcoreapp3.1\Oefening 4.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\obj\Debug\netcoreapp3.1\Oefening 4.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\obj\Debug\netcoreapp3.1\Oefening 4.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\obj\Debug\netcoreapp3.1\Oefening 4.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\obj\Debug\netcoreapp3.1\Oefening 4.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\obj\Debug\netcoreapp3.1\Oefening 4.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\Oefeningen\Oefening 4\Oefening 4\obj\Debug\netcoreapp3.1\Oefening 4.genruntimeconfig.cache

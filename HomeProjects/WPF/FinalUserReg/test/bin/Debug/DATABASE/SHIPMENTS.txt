@@ -11,3 +11,16 @@ License Plate
   EEF8-5464-684
 
 ------------------------------------
+------------------SHIPMENT INFO------------------ 
+12/17/2020 14:53:41 
+
+Shipment Number 
+  54445zd
+
+Delivery Company 
+  zdzddz
+
+License Plate 
+  zdzdzd
+
+------------------------------------

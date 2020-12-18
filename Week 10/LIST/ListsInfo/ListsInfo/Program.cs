@@ -12,7 +12,7 @@ namespace ListsInfo
 
 
             List<int> intlist;
-            intlist = new List<int>(array);
+            intlist = new List<int>(array); 
             List<int> inttweedelist = new List<int>() { 1, 2, 3, 4, 5, 6, 9001 };
             List<int> intDerdeList = new List<int>(inttweedelist);
 
