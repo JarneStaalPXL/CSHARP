@@ -1,0 +1,13 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\bin\Debug\netcoreapp3.1\DebugDemo.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\bin\Debug\netcoreapp3.1\DebugDemo.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\bin\Debug\netcoreapp3.1\DebugDemo.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\bin\Debug\netcoreapp3.1\DebugDemo.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\bin\Debug\netcoreapp3.1\DebugDemo.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\bin\Debug\netcoreapp3.1\DebugDemo.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\obj\Debug\netcoreapp3.1\DebugDemo.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\obj\Debug\netcoreapp3.1\DebugDemo.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\obj\Debug\netcoreapp3.1\DebugDemo.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\obj\Debug\netcoreapp3.1\DebugDemo.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\obj\Debug\netcoreapp3.1\DebugDemo.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\obj\Debug\netcoreapp3.1\DebugDemo.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\Debugging\DebugDemo\DebugDemo\obj\Debug\netcoreapp3.1\DebugDemo.genruntimeconfig.cache
