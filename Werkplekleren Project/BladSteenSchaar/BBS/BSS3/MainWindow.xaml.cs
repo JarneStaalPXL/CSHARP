@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Threading;
 using Microsoft.VisualBasic;
+using System.Linq;
+
 
 
 namespace BSS3
@@ -20,7 +21,7 @@ namespace BSS3
     /// -----------------------------------------
     public partial class MainWindow : Window
     {
-        #region Strings/Ints/Lists/Randomisers
+        #region Strings/Ints/Vars/Lists/Randomisers
         //Strings 
         private string Computer;
         private string[] answers = { "Rock", "Paper", "Scissors" };
@@ -37,6 +38,7 @@ namespace BSS3
         private int scorepc = 0;
         private int counter = 3;
         private int gameSession = 1;
+
         //ChoicesForHistory
         private int playerchoseRock = 0;
         private int playerchosePaper = 0;
@@ -48,17 +50,17 @@ namespace BSS3
 
         //Random
         Random random = new Random();
-        private int randomtype = 0;
+        private int randomanswer = 0;
 
-        //Lists
-        List<string> list = new List<string>();
         #endregion
 
 
         #region Clock 
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); 
+            
+            
 
             //Clock
             DispatcherTimer timer = new DispatcherTimer(new TimeSpan(0, 0, 1), DispatcherPriority.Normal, delegate
@@ -67,8 +69,12 @@ namespace BSS3
             },
             this.Dispatcher);
 
+            
+
             //Run Timer Method
             Timer2();
+
+        
         }
         #endregion
 
@@ -93,14 +99,14 @@ namespace BSS3
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void Timer1_Tick(object sender, EventArgs e) 
+        private void Timer1_Tick(object sender, EventArgs e)
         {
             counter--;
             if (counter == 0)
             {
                 timer1.Stop();
                 count3.Content = "";  //Prevent timer for showing 0 the whole time after countdown
-                result.Content = "Tijd is op: " + computer + wins; 
+                result.Content = "Tijd is op: " + computer + wins;
                 scorepc++;
                 scorepc1.Content = ($"COMPUTER {scorepc}");
                 counter = 4;
@@ -126,7 +132,7 @@ namespace BSS3
         /// <summary>
         /// Clears choice of player and pc
         /// </summary>
-        void Empty() 
+        void Empty()
         {
             playerchoice.Content = "";
             pcchoice.Content = "";
@@ -139,7 +145,7 @@ namespace BSS3
         /// <summary>
         /// Sets the score of player and pc
         /// </summary>
-        void setcurrentscore() 
+        void setcurrentscore()
         {
             scoreplayer1.Content = ($"SPELER {scoreplayer}");
             scorepc1.Content = ($"COMPUTER {scorepc}");
@@ -219,14 +225,13 @@ namespace BSS3
             button2.BorderBrush = Brushes.Gray;
         }
 
-        
+
         /// <summary>
         /// Sets color of content background to background color
         /// </summary>
         void ColorBG()
         {
             var bc = new BrushConverter(); //new brush
-
             playerchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
             pcchoice.Background = (Brush)bc.ConvertFrom("#2b2b2b");
         }
@@ -239,55 +244,8 @@ namespace BSS3
             var bc = new BrushConverter(); //new brush
             playerchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
             pcchoice.Background = (Brush)bc.ConvertFrom("#b8b8b8");
-
         }
 
-        #endregion
-
-
-        #region History
-
-        /// <summary>
-        /// Sets the scores for history of player
-        /// </summary>
-        void HistoryPlayerChoices()
-        {
-            historyplayer.Content = $"Blad: {playerchosePaper} "+
-            $"Steen: {playerchoseRock} " +
-            $"Schaar: {playerchoseScissors}";
-        }
-
-        /// <summary>
-        /// Sets the scores for history of pc
-        /// </summary>
-        void HistoryPCChoices()
-        {
-            historypc.Content = $"Blad: {pcChosePaper} " +
-            $"Steen: {pcChoseRock} " +
-            $"Schaar: {pcChoseScissors}";
-        }
-
-        /// <summary>
-        /// Resets history content and values
-        /// </summary>
-        void ResetHistoryChoices()
-        {
-            playerchosePaper = 0;
-            playerchoseRock = 0;
-            playerchoseScissors = 0;
-
-            pcChosePaper = 0;
-            pcChoseRock = 0;
-            pcChoseScissors = 0;
-
-            historyplayer.Content = $"Blad: {0} " +
-            $"Steen: {0} " +
-            $"Schaar: {0}";
-
-            historypc.Content = $"Blad: {0} " +
-            $"Steen: {0} " +
-            $"Schaar: {0}";
-        }
         #endregion
 
 
@@ -295,12 +253,12 @@ namespace BSS3
         /// <summary>
         /// The Rock Paper Scissors-Game
         /// </summary>
-        private void BSS() 
+        void BSS()
         {
             #region Beginning actions
             timer1.Stop();
             count3.Content = "";
-            counter = 3;  
+            counter = 3;
             Timer2();
             setcurrentscore();
             #endregion
@@ -335,7 +293,6 @@ namespace BSS3
                 playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
                 playerchoice.Content = imga;
 
-
                 //PcChoice Paper
                 pcchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
                 pcchoice.Content = imgb;
@@ -350,7 +307,6 @@ namespace BSS3
                 //PlayerChoice Rock
                 playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
                 playerchoice.Content = imga;
-
 
                 //PcChoice Scissors
                 pcchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
@@ -367,7 +323,6 @@ namespace BSS3
                 playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
                 playerchoice.Content = imgb;
 
-
                 //PcChoice Scissors
                 pcchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
                 pcchoice.Content = imgc;
@@ -383,7 +338,6 @@ namespace BSS3
                 playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
                 playerchoice.Content = imgb;
 
-
                 //PcChoice Rock
                 pcchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
                 pcchoice.Content = imga;
@@ -396,9 +350,8 @@ namespace BSS3
                 scorepc++;
 
                 //PlayerChoice Scissors
-                pcchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
+                playerchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
                 playerchoice.Content = imgc;
-
 
                 //PcChoice Rock
                 pcchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
@@ -415,7 +368,6 @@ namespace BSS3
                 playerchoice.Background = (Brush)bc.ConvertFrom("#36cc23");
                 playerchoice.Content = imgc;
 
-
                 //PcChoice Paper
                 pcchoice.Background = (Brush)bc.ConvertFrom("#c22a25");
                 pcchoice.Content = imgb;
@@ -425,9 +377,9 @@ namespace BSS3
             {
                 playerchoseScissors++;
                 pcChoseScissors++;
+
                 result.Content = draw;
                 ColorDraw();
-
 
                 playerchoice.Content = imgc;
                 Image copyImgc = new Image();
@@ -463,45 +415,35 @@ namespace BSS3
             #endregion
 
 
-            #region Messages
+            #region Messages/SaveToListBox
 
-            
+            List<string> list = new List<string>();
+
             void MsgYesNoPLAYER() //Show msgbox content // Questions to continue to play or not
             {
-                MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win", MessageBoxButton.YesNo, MessageBoxImage.Question);
-
+                MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win",
+                    MessageBoxButton.YesNo, MessageBoxImage.Question);
                 if (answer == MessageBoxResult.Yes)
                 {
                     string inputname = Interaction.InputBox("Geef uw naam in",
                                                                "Winnaar!",
                                                                 "",
                                                                 500);
-
                     if (inputname == "")
                     {
                         user = "Anonieme Speler";
                         list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
-
-                        for (int i = 0; i < 1; i++)
-                        {
-                            listbox.Items.Add($"{list[i]}");
-                        }
+                        listbox1.Items.Add($"{list[0]}");
+                            
 
                     }
-
                     if (inputname != "")
                     {
                         user = inputname;
                         list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
-
-
-
-                        for (int i = 0; i < 1; i++)
-                        {
-
-                            listbox.Items.Add($"{list[i]}");
-                        }
-                    }
+                        listbox1.Items.Add($"{list[0]}");
+                        
+                    }              
 
                     SaveHistoryToFile();
                     BSS();
@@ -511,49 +453,37 @@ namespace BSS3
                     ResetBorderBrush12();
                     ResetBorderBrush23();
                     ResetBorderBrushButton13();
-                    
                 }
                 else if (answer == MessageBoxResult.No)
                 {
-
                     System.Environment.Exit(0);
                 }
             }
-
+            
             void MsgYesNoPC() //Show msgbox content // Questions to continue to play or not
             {
-                MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins", MessageBoxButton.YesNo, MessageBoxImage.Question);
-
+                MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins",
+                    MessageBoxButton.YesNo, MessageBoxImage.Question);
                 if (answer == MessageBoxResult.Yes)
                 {
                     string inputname = Interaction.InputBox("Geef uw naam in",
-                                                              "Winnaar!",
+                                                              "Verloren!",
                                                                "",
                                                                500);
-
                     if (inputname == "")
                     {
                         user = "Anonieme Speler";
                         list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
-
-                        for (int i = 0; i < 1; i++)
-                        {
-                            listbox.Items.Add($"{list[i]}");
-                        }
-
+                        listbox1.Items.Add($"{list[0]}");
+                        
                     }
                     else if (inputname != "")
                     {
                         user = inputname;
                         list.Add($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
-
-                        for (int i = 0; i < 1; i++)
-                        {
-                            listbox.Items.Add($"{list[i]}");
-                        }
+                        listbox1.Items.Add($"{list[0]}");
+                        
                     }
-
-
                     SaveHistoryToFile();
                     BSS();
                     scorezero();
@@ -565,8 +495,6 @@ namespace BSS3
                 }
                 if (answer == MessageBoxResult.No)
                 {
-
-
                     System.Environment.Exit(0);
                 }
             }
@@ -574,7 +502,7 @@ namespace BSS3
 
 
             #region Actions when score is 10
-            if (scoreplayer == 10) 
+            if (scoreplayer == 10)
             {
                 timer1.Stop();
                 count3.Content = "";
@@ -613,8 +541,8 @@ namespace BSS3
         private void PaperClick(object sender, RoutedEventArgs e)
         {
             playerchose = "Paper";
-            randomtype = random.Next(0, 3);
-            Computer = answers[randomtype];
+            randomanswer = random.Next(0, 3);
+            Computer = answers[randomanswer];
             ChangeBorderBrushButton1();
             ResetBorderBrush23();
             BSS();
@@ -630,8 +558,8 @@ namespace BSS3
         private void RockClick(object sender, RoutedEventArgs e)
         {
             playerchose = "Rock";
-            randomtype = random.Next(0, 3);
-            Computer = answers[randomtype];
+            randomanswer = random.Next(0, 3);
+            Computer = answers[randomanswer];
             ChangeBorderBrushButton2();
             ResetBorderBrushButton13();
             BSS();
@@ -647,8 +575,8 @@ namespace BSS3
         private void ScissorsClick(object sender, RoutedEventArgs e)
         {
             playerchose = "Scissors";
-            randomtype = random.Next(0, 3);
-            Computer = answers[randomtype];
+            randomanswer = random.Next(0, 3);
+            Computer = answers[randomanswer];
             ChangeBorderBrushButton3();
             ResetBorderBrush12();
             BSS();
@@ -661,7 +589,12 @@ namespace BSS3
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void ScoreReset(object sender, RoutedEventArgs e) 
+        private void ScoreReset(object sender, RoutedEventArgs e)
+        {
+            ScoreReset();
+        }
+
+        void ScoreReset ()
         {
             counter = 4;
             count3.Content = "";
@@ -681,10 +614,79 @@ namespace BSS3
         /// <param name="e"></param>
         private void Opens_Results(object sender, RoutedEventArgs e)
         {
-            Process notepad = new Process();
-            Process.Start("notepad", Directory.GetCurrentDirectory() + $@"\RESULTS {DateTime.Now.ToString("d-M-yyyy")}\ScoreList.txt");
+            FileInfo file = new FileInfo($@"RESULTS {DateTime.Now.ToString("d-M-yyyy")}\ScoreList.txt");
+            if (file.Exists == false)
+            {
+                timer1.Stop();
+                MessageBox.Show("  Je moet eerst een spel spelen voordat je de resultaten kunt zien." +
+                    " \n  Klik op OK om het spel te hervatten.", "                                              Foutmelding",
+                    MessageBoxButton.OK, MessageBoxImage.Error);
+
+                timer1.Start();
+            }
+            else
+            {
+                timer1.Stop();
+                Process notepad = new Process();
+                Process.Start("notepad", Directory.GetCurrentDirectory() + $@"\RESULTS {DateTime.Now.ToString("d-M-yyyy")}\ScoreList.txt");
+
+                MessageBoxResult msgboxplay =  MessageBox.Show("Wilt u het spel hervatten?","Welkom terug!", MessageBoxButton.YesNo, MessageBoxImage.Question);
+                if (msgboxplay == MessageBoxResult.Yes)
+                {
+                    timer1.Start();
+                }
+                else if (msgboxplay == MessageBoxResult.No)
+                {
+                    System.Environment.Exit(0);
+                } 
+            } 
+        }
+        #endregion
+
+
+        #region History
+
+        /// <summary>
+        /// Sets the scores for history of player
+        /// </summary>
+        void HistoryPlayerChoices()
+        {
+            historyplayer.Content = $"Blad: {playerchosePaper} " +
+            $"Steen: {playerchoseRock} " +
+            $"Schaar: {playerchoseScissors}";
         }
 
+        /// <summary>
+        /// Sets the scores for history of pc
+        /// </summary>
+        void HistoryPCChoices()
+        {
+            historypc.Content = $"Blad: {pcChosePaper} " +
+            $"Steen: {pcChoseRock} " +
+            $"Schaar: {pcChoseScissors}";
+        }
+
+        /// <summary>
+        /// Resets history content and values
+        /// </summary>
+        void ResetHistoryChoices()
+        {
+            playerchosePaper = 0;
+            playerchoseRock = 0;
+            playerchoseScissors = 0;
+
+            pcChosePaper = 0;
+            pcChoseRock = 0;
+            pcChoseScissors = 0;
+
+            historyplayer.Content = $"Blad: {0} " +
+            $"Steen: {0} " +
+            $"Schaar: {0}";
+
+            historypc.Content = $"Blad: {0} " +
+            $"Steen: {0} " +
+            $"Schaar: {0}";
+        }
         #endregion
 
 
@@ -694,32 +696,18 @@ namespace BSS3
         /// </summary>
         private void SaveHistoryToFile()
         {
-            DateTime date1 = DateTime.Now;
             DateTime date2 = DateTime.Now;
 
-            string filePath = Directory.GetCurrentDirectory(); 
+            string filePath = Directory.GetCurrentDirectory();
             string dbPath = System.IO.Path.Combine(filePath, $"RESULTS {DateTime.Now.ToString("d-M-yyyy")}");
             string inputFile = System.IO.Path.Combine(dbPath, "ScoreList.txt");
             System.IO.Directory.CreateDirectory(dbPath);
 
             StreamWriter writer = new StreamWriter(inputFile, true);
-            for (int i = 0; i < 1; i++)
-            {
-  
-                
-                writer.WriteLine($"\n------------------SESSION {gameSession}------------------ \n{date2.ToString(System.Globalization.CultureInfo.InvariantCulture)} \n");
-            }
-            
-            for (int j = 0; j< 1; j++)
-            {
-                writer.WriteLine($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
-            }
+            writer.WriteLine($"\n------------------SESSION {gameSession}------------------ \n{date2.ToString(System.Globalization.CultureInfo.InvariantCulture)} \n");
+            writer.WriteLine($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
             writer.Close();
-
-
         }
-
         #endregion
-
     }
 }

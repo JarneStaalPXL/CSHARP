@@ -20,7 +20,9 @@
                 <RowDefinition Height="199*"/>
             </Grid.RowDefinitions>
 
-            <StackPanel Grid.Row="0"  Grid.ColumnSpan="4"/>
+            <StackPanel Grid.Row="0"  Grid.ColumnSpan="4">
+                <Label x:Name="sessionshow" Content="" Foreground="White" FontSize="30" HorizontalAlignment="Left" Height="81" Margin="230,0,0,0" Width="220"/>
+            </StackPanel>
             <StackPanel Grid.Row="1" Grid.RowSpan="2"  Grid.ColumnSpan="4" Grid.Column="0">
                 <Rectangle  Fill="#FF2B2B2B"  Height="317" VerticalAlignment="Top" Margin="170,0,111.764,0"/>
             </StackPanel>
@@ -44,7 +46,7 @@
                 <Rectangle Fill="#FF1A1A1A" HorizontalAlignment="Left" Height="394" Width="111" />
             </StackPanel>
             <Label x:Name="showhistory" Foreground="White" Grid.Column="2" Margin="292.582,23,-113.236,83.691" Grid.ColumnSpan="2" Grid.RowSpan="2">
-                <ListBox x:Name="listbox" Height="185" Width="289" Background="#FF1A1A1A" Foreground="White"/>
+                <ListBox x:Name="listbox1"  Height="185" Width="289" Background="#FF1A1A1A" Foreground="White"/>
             </Label>
             <StackPanel Grid.Row="1" Grid.Column="3" Grid.RowSpan="2" Margin="0.073,0.382,-100.236,0.418" >
                 <Button
