@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12001144\\Desktop\\PXL C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 1\\Les 1\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12001144\\Desktop\\PXL C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 1\\Les 1\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12001144\\Desktop\\PXL C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 1\\Les 1\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\12001144\\Desktop\\PXL C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-        "packagesPath": "C:\\Users\\12001144\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12001144\\Desktop\\PXL C#\\HelloWorld\\HelloWorld\\obj\\",
+        "projectPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 1\\Les 1\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\jarne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 1\\Les 1\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\12001144\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jarne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

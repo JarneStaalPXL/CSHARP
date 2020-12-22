@@ -615,11 +615,12 @@ namespace BSS3
         private void Opens_Results(object sender, RoutedEventArgs e)
         {
             FileInfo file = new FileInfo($@"RESULTS {DateTime.Now.ToString("d-M-yyyy")}\ScoreList.txt");
-            if (file.Exists == false)
+            if (file.Exists == false || new FileInfo($@"RESULTS {DateTime.Now.ToString("d-M-yyyy")}\ScoreList.txt").Length == 0)
             {
                 timer1.Stop();
-                MessageBox.Show("  Je moet eerst een spel spelen voordat je de resultaten kunt zien." +
-                    " \n  Klik op OK om het spel te hervatten.", "                                              Foutmelding",
+                MessageBox.Show("  Je moet eerst een spel spelen"+"                                                  "+
+                    "voordat je de resultaten kunt zien." +
+                    " \n\n   Klik op OK om het spel te hervatten.", "                                              Foutmelding",
                     MessageBoxButton.OK, MessageBoxImage.Error);
 
                 timer1.Start();
@@ -704,10 +705,11 @@ namespace BSS3
             System.IO.Directory.CreateDirectory(dbPath);
 
             StreamWriter writer = new StreamWriter(inputFile, true);
-            writer.WriteLine($"\n------------------SESSION {gameSession}------------------ \n{date2.ToString(System.Globalization.CultureInfo.InvariantCulture)} \n");
-            writer.WriteLine($"{user} - Computer {scoreplayer} - {scorepc}  ({DateTime.Now.ToString("HH:mm:ss")})");
+            writer.WriteLine($"\n------------------SESSION {gameSession}------------------ \n                  {date2.ToString("d-MM-yyyy")} \n");
+            writer.WriteLine($"{user} - Computer {scoreplayer} - {scorepc}  ({date2.ToString("HH:mm:ss")})");
             writer.Close();
         }
+
         #endregion
     }
 }

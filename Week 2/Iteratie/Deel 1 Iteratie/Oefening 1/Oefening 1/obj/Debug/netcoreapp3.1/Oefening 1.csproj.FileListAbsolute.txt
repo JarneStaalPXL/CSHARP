@@ -24,3 +24,16 @@ C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 1\Oefening 1\obj\D
 C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.dll
 C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.pdb
 C:\Users\12001144\OneDrive - PXL\PXL C#\Week 2\Les 4\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.genruntimeconfig.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\bin\Debug\netcoreapp3.1\Oefening 1.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\bin\Debug\netcoreapp3.1\Oefening 1.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\bin\Debug\netcoreapp3.1\Oefening 1.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\bin\Debug\netcoreapp3.1\Oefening 1.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\bin\Debug\netcoreapp3.1\Oefening 1.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\bin\Debug\netcoreapp3.1\Oefening 1.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 2\Iteratie\Deel 1 Iteratie\Oefening 1\Oefening 1\obj\Debug\netcoreapp3.1\Oefening 1.genruntimeconfig.cache
