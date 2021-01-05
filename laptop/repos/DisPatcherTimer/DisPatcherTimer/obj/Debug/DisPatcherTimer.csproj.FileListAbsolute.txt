@@ -1,0 +1,15 @@
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\bin\Debug\DisPatcherTimer.exe.config
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\bin\Debug\DisPatcherTimer.exe
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\bin\Debug\DisPatcherTimer.pdb
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer.csprojAssemblyReference.cache
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\App.g.cs
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer_MarkupCompile.cache
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer_MarkupCompile.lref
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\MainWindow.baml
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer.g.resources
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer.Properties.Resources.resources
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer.csproj.GenerateResource.cache
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer.csproj.CoreCompileInputs.cache
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer.exe
+C:\Users\12001144\source\repos\DisPatcherTimer\DisPatcherTimer\obj\Debug\DisPatcherTimer.pdb

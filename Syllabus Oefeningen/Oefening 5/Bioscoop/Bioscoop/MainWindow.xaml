@@ -1,0 +1,24 @@
+﻿<Window x:Class="Bioscoop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bioscoop"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Geef aantal tickets per soort in" FontSize="20px" HorizontalAlignment="Left" Height="52" Margin="71,115,0,0" VerticalAlignment="Top" Width="291"/>
+        <Label Content="Normaal tarief" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Height="30" Margin="91,186,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label Content="Studentenkaart" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Height="30" Margin="91,256,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label Content="Kortingstarief" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Height="30" Margin="91,221,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label Content="Prijs" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Height="30" Margin="91,291,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="prijsLbl" Content="" HorizontalAlignment="Left" Margin="249,291,0,0" VerticalAlignment="Top" Width="97"/>
+        <TextBox x:Name="normaalTrfBox" HorizontalAlignment="Left" Margin="250,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96"/>
+        <TextBox x:Name="kortingTrfBox" HorizontalAlignment="Left" Margin="250,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96"/>
+        <TextBox x:Name="studentTrfBox" HorizontalAlignment="Left" Margin="250,261,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96"/>
+        <Button Content="Berekenen" IsDefault="True"     HorizontalAlignment="Left" Margin="400,186,0,0" VerticalAlignment="Top" Width="75" Click="Berekenen_Click"/>
+        <Button Content="Afsluiten" HorizontalAlignment="Left" Margin="400,235,0,0" VerticalAlignment="Top" Width="75" Click="Afsluiten_Click"/>
+        <Button Content="Wissen" HorizontalAlignment="Left" Margin="400,211,0,0" VerticalAlignment="Top" Width="75" Click="Wissen_Click"/>
+
+    </Grid>
+</Window>

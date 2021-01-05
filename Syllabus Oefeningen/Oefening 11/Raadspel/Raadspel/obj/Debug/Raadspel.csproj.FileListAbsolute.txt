@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\bin\Debug\Raadspel.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\bin\Debug\Raadspel.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\bin\Debug\Raadspel.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 11\Raadspel\Raadspel\obj\Debug\Raadspel.pdb

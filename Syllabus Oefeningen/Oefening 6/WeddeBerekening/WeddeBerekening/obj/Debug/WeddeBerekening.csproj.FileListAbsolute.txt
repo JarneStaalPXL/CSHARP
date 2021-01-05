@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\bin\Debug\WeddeBerekening.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\bin\Debug\WeddeBerekening.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\bin\Debug\WeddeBerekening.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 6\WeddeBerekening\WeddeBerekening\obj\Debug\WeddeBerekening.pdb

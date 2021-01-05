@@ -421,7 +421,7 @@ namespace BSS3
 
             void MsgYesNoPLAYER() //Show msgbox content // Questions to continue to play or not
             {
-                MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Congratulations, You Win",
+                MessageBoxResult answer = MessageBox.Show("Wilt u opnieuw spelen?", "Proficiat, u wint!",
                     MessageBoxButton.YesNo, MessageBoxImage.Question);
                 if (answer == MessageBoxResult.Yes)
                 {
@@ -462,7 +462,7 @@ namespace BSS3
             
             void MsgYesNoPC() //Show msgbox content // Questions to continue to play or not
             {
-                MessageBoxResult answer = MessageBox.Show("Would you like to play again?", "Unfortunately, the computer wins",
+                MessageBoxResult answer = MessageBox.Show("Wilt u opnieuw spelen?", "Spijtig, de computer wint",
                     MessageBoxButton.YesNo, MessageBoxImage.Question);
                 if (answer == MessageBoxResult.Yes)
                 {

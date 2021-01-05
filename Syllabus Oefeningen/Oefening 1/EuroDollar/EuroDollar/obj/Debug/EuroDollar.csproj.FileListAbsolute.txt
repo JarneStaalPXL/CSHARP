@@ -1,0 +1,15 @@
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\bin\Debug\EuroDollar.exe.config
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\bin\Debug\EuroDollar.exe
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\bin\Debug\EuroDollar.pdb
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar.csprojAssemblyReference.cache
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\App.g.cs
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar_MarkupCompile.cache
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar_MarkupCompile.lref
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\MainWindow.baml
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar.g.resources
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar.Properties.Resources.resources
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar.csproj.GenerateResource.cache
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar.csproj.CoreCompileInputs.cache
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar.exe
+C:\Users\12001144\source\repos\EuroDollar\EuroDollar\obj\Debug\EuroDollar.pdb

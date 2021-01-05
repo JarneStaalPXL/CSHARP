@@ -1,0 +1,13 @@
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\bin\Debug\netcoreapp3.1\for loops numbers.exe
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\bin\Debug\netcoreapp3.1\for loops numbers.deps.json
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\bin\Debug\netcoreapp3.1\for loops numbers.runtimeconfig.json
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\bin\Debug\netcoreapp3.1\for loops numbers.runtimeconfig.dev.json
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\bin\Debug\netcoreapp3.1\for loops numbers.dll
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\bin\Debug\netcoreapp3.1\for loops numbers.pdb
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\obj\Debug\netcoreapp3.1\for loops numbers.csprojAssemblyReference.cache
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\obj\Debug\netcoreapp3.1\for loops numbers.AssemblyInfoInputs.cache
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\obj\Debug\netcoreapp3.1\for loops numbers.AssemblyInfo.cs
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\obj\Debug\netcoreapp3.1\for loops numbers.csproj.CoreCompileInputs.cache
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\obj\Debug\netcoreapp3.1\for loops numbers.dll
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\obj\Debug\netcoreapp3.1\for loops numbers.pdb
+C:\Users\12001144\source\repos\for loops numbers\for loops numbers\obj\Debug\netcoreapp3.1\for loops numbers.genruntimeconfig.cache

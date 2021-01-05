@@ -1,0 +1,13 @@
+C:\Users\12001144\source\repos\mish\mish\bin\Debug\netcoreapp3.1\mish.exe
+C:\Users\12001144\source\repos\mish\mish\bin\Debug\netcoreapp3.1\mish.deps.json
+C:\Users\12001144\source\repos\mish\mish\bin\Debug\netcoreapp3.1\mish.runtimeconfig.json
+C:\Users\12001144\source\repos\mish\mish\bin\Debug\netcoreapp3.1\mish.runtimeconfig.dev.json
+C:\Users\12001144\source\repos\mish\mish\bin\Debug\netcoreapp3.1\mish.dll
+C:\Users\12001144\source\repos\mish\mish\bin\Debug\netcoreapp3.1\mish.pdb
+C:\Users\12001144\source\repos\mish\mish\obj\Debug\netcoreapp3.1\mish.csprojAssemblyReference.cache
+C:\Users\12001144\source\repos\mish\mish\obj\Debug\netcoreapp3.1\mish.AssemblyInfoInputs.cache
+C:\Users\12001144\source\repos\mish\mish\obj\Debug\netcoreapp3.1\mish.AssemblyInfo.cs
+C:\Users\12001144\source\repos\mish\mish\obj\Debug\netcoreapp3.1\mish.csproj.CoreCompileInputs.cache
+C:\Users\12001144\source\repos\mish\mish\obj\Debug\netcoreapp3.1\mish.dll
+C:\Users\12001144\source\repos\mish\mish\obj\Debug\netcoreapp3.1\mish.pdb
+C:\Users\12001144\source\repos\mish\mish\obj\Debug\netcoreapp3.1\mish.genruntimeconfig.cache

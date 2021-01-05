@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\bin\Debug\Reiskost.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\bin\Debug\Reiskost.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\bin\Debug\Reiskost.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 7\Reiskost\Reiskost\obj\Debug\Reiskost.pdb

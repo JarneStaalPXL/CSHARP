@@ -1,0 +1,13 @@
+C:\Users\12001144\source\repos\oef1\oef1\bin\Debug\netcoreapp3.1\oef1.exe
+C:\Users\12001144\source\repos\oef1\oef1\bin\Debug\netcoreapp3.1\oef1.deps.json
+C:\Users\12001144\source\repos\oef1\oef1\bin\Debug\netcoreapp3.1\oef1.runtimeconfig.json
+C:\Users\12001144\source\repos\oef1\oef1\bin\Debug\netcoreapp3.1\oef1.runtimeconfig.dev.json
+C:\Users\12001144\source\repos\oef1\oef1\bin\Debug\netcoreapp3.1\oef1.dll
+C:\Users\12001144\source\repos\oef1\oef1\bin\Debug\netcoreapp3.1\oef1.pdb
+C:\Users\12001144\source\repos\oef1\oef1\obj\Debug\netcoreapp3.1\oef1.AssemblyInfoInputs.cache
+C:\Users\12001144\source\repos\oef1\oef1\obj\Debug\netcoreapp3.1\oef1.AssemblyInfo.cs
+C:\Users\12001144\source\repos\oef1\oef1\obj\Debug\netcoreapp3.1\oef1.csproj.CoreCompileInputs.cache
+C:\Users\12001144\source\repos\oef1\oef1\obj\Debug\netcoreapp3.1\oef1.dll
+C:\Users\12001144\source\repos\oef1\oef1\obj\Debug\netcoreapp3.1\oef1.pdb
+C:\Users\12001144\source\repos\oef1\oef1\obj\Debug\netcoreapp3.1\oef1.genruntimeconfig.cache
+C:\Users\12001144\source\repos\oef1\oef1\obj\Debug\netcoreapp3.1\oef1.csprojAssemblyReference.cache

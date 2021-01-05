@@ -1,0 +1,13 @@
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\bin\Debug\netcoreapp3.1\MethodesTest.exe
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\bin\Debug\netcoreapp3.1\MethodesTest.deps.json
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\bin\Debug\netcoreapp3.1\MethodesTest.runtimeconfig.json
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\bin\Debug\netcoreapp3.1\MethodesTest.runtimeconfig.dev.json
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\bin\Debug\netcoreapp3.1\MethodesTest.dll
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\bin\Debug\netcoreapp3.1\MethodesTest.pdb
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\obj\Debug\netcoreapp3.1\MethodesTest.csprojAssemblyReference.cache
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\obj\Debug\netcoreapp3.1\MethodesTest.AssemblyInfoInputs.cache
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\obj\Debug\netcoreapp3.1\MethodesTest.AssemblyInfo.cs
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\obj\Debug\netcoreapp3.1\MethodesTest.csproj.CoreCompileInputs.cache
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\obj\Debug\netcoreapp3.1\MethodesTest.dll
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\obj\Debug\netcoreapp3.1\MethodesTest.pdb
+C:\Users\12001144\source\repos\MethodesTest\MethodesTest\obj\Debug\netcoreapp3.1\MethodesTest.genruntimeconfig.cache

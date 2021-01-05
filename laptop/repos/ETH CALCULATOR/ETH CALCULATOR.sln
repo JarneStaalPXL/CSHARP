@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETH CALCULATOR", "ETH CALCULATOR\ETH CALCULATOR.csproj", "{68C63435-85CF-4303-8774-AD8CD7958DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C63435-85CF-4303-8774-AD8CD7958DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C63435-85CF-4303-8774-AD8CD7958DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C63435-85CF-4303-8774-AD8CD7958DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C63435-85CF-4303-8774-AD8CD7958DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8257F496-F187-42C5-A7EB-A33A69D3EF5A}
+	EndGlobalSection
+EndGlobal

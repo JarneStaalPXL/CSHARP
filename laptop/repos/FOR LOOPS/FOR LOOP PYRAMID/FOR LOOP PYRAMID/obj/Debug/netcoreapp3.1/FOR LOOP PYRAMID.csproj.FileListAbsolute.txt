@@ -1,0 +1,13 @@
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\bin\Debug\netcoreapp3.1\FOR LOOP PYRAMID.exe
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\bin\Debug\netcoreapp3.1\FOR LOOP PYRAMID.deps.json
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\bin\Debug\netcoreapp3.1\FOR LOOP PYRAMID.runtimeconfig.json
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\bin\Debug\netcoreapp3.1\FOR LOOP PYRAMID.runtimeconfig.dev.json
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\bin\Debug\netcoreapp3.1\FOR LOOP PYRAMID.dll
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\bin\Debug\netcoreapp3.1\FOR LOOP PYRAMID.pdb
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\obj\Debug\netcoreapp3.1\FOR LOOP PYRAMID.csprojAssemblyReference.cache
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\obj\Debug\netcoreapp3.1\FOR LOOP PYRAMID.AssemblyInfoInputs.cache
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\obj\Debug\netcoreapp3.1\FOR LOOP PYRAMID.AssemblyInfo.cs
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\obj\Debug\netcoreapp3.1\FOR LOOP PYRAMID.csproj.CoreCompileInputs.cache
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\obj\Debug\netcoreapp3.1\FOR LOOP PYRAMID.dll
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\obj\Debug\netcoreapp3.1\FOR LOOP PYRAMID.pdb
+C:\Users\12001144\source\repos\FOR LOOPS\FOR LOOP PYRAMID\FOR LOOP PYRAMID\obj\Debug\netcoreapp3.1\FOR LOOP PYRAMID.genruntimeconfig.cache
