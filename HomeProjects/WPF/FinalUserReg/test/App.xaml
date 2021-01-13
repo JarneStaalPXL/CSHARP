@@ -6,7 +6,7 @@
     <Application.Resources>
         <Style x:Key="CustomFont">
             <Setter Property="TextElement.FontFamily"
-                    Value="/Fonts/#RESEGRG"></Setter>
+                    Value="/Fonts/Poppins-Light"></Setter>
         </Style>
 
     </Application.Resources>

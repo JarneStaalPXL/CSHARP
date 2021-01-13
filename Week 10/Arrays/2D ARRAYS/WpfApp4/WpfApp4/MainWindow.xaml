@@ -1,0 +1,46 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel LastChildFill="True">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File" >
+                <MenuItem Header="Open" IsCheckable="True"></MenuItem>
+                <MenuItem Header="Save"></MenuItem>
+                <MenuItem Header="SaveAs"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Bewerken" 
+                      ToolTip="Extra Info"></MenuItem>
+            <MenuItem x:Name="ViewMenuItem"
+                      Header="View"
+                      >
+                <MenuItem Header="Fill"
+                          Click="Fill_Click">
+
+                </MenuItem>
+                <MenuItem Header="UniformToFill"
+                          Click="UniformToFill_Click">
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="File"></MenuItem>
+            <MenuItem Header="File"></MenuItem>
+            <MenuItem Header="Afsluiten"
+                      Click="MenuItemAfsluiten_Click"></MenuItem>
+        </Menu>
+        <TextBox Margin="20" Name="Console"
+                 IsEnabled="False"
+                 FontSize="30" >
+            test
+        </TextBox>
+        <!--<Image 
+            Name="Achtergrond"
+            Source="images/afbeelding.png"
+               Stretch="Fill">
+            
+        </Image>-->
+    </DockPanel>
+</Window>

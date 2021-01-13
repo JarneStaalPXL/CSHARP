@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\Oefening 1.csproj": {}
+    "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\Oefening 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\Oefening 1.csproj": {
+    "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\Oefening 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\Oefening 1.csproj",
+        "projectUniqueName": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\Oefening 1.csproj",
         "projectName": "Oefening 1",
-        "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\Oefening 1.csproj",
-        "packagesPath": "C:\\Users\\12001144\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\obj\\",
+        "projectPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\Oefening 1.csproj",
+        "packagesPath": "C:\\Users\\jarne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 10\\Arrays\\Deel 1\\Oefening 1\\Oefening 1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\12001144\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jarne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

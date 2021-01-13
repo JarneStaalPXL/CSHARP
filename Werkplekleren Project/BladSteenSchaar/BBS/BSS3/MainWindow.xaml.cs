@@ -8,8 +8,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Threading;
 using Microsoft.VisualBasic;
-using System.Linq;
-
 
 
 namespace BSS3
@@ -36,7 +34,7 @@ namespace BSS3
         //Ints
         private int scoreplayer = 0;
         private int scorepc = 0;
-        private int counter = 3;
+        private int counter = 4;
         private int gameSession = 1;
 
         //ChoicesForHistory
@@ -456,7 +454,7 @@ namespace BSS3
                 }
                 else if (answer == MessageBoxResult.No)
                 {
-                    System.Environment.Exit(0);
+                    System.Environment.Exit(0); //Shutsdown program
                 }
             }
             

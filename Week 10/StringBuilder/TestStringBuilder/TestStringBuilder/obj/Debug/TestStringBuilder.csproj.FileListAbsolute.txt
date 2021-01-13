@@ -1,0 +1,15 @@
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\bin\Debug\TestStringBuilder.exe.config
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\bin\Debug\TestStringBuilder.exe
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\bin\Debug\TestStringBuilder.pdb
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.csprojAssemblyReference.cache
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\App.g.cs
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder_MarkupCompile.cache
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder_MarkupCompile.lref
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\MainWindow.baml
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.g.resources
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.Properties.Resources.resources
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.csproj.GenerateResource.cache
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.exe
+C:\Users\12001144\source\repos\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.pdb

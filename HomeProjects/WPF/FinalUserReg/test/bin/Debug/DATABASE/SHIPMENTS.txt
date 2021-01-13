@@ -24,3 +24,16 @@ License Plate
   zdzdzd
 
 ------------------------------------
+------------------SHIPMENT INFO------------------ 
+01/05/2021 19:39:41 
+
+Shipment Number 
+  
+
+Delivery Company 
+  
+
+License Plate 
+  
+
+------------------------------------
