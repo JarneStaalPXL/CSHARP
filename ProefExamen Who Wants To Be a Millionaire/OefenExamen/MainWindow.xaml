@@ -1,0 +1,84 @@
+﻿<Window x:Class="OefenExamen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OefenExamen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Bottom">
+            <TextBlock
+                Margin="5"
+                Name="TijdTextBlock"
+                VerticalAlignment="Center" Width="125">De Tijd</TextBlock>
+            <ComboBox Margin="20 5 10 5" Width="100" Name="combobox1" SelectionChanged="combobox1_SelectionChanged" >
+                <ComboBoxItem>Tijd</ComboBoxItem>
+                <ComboBoxItem>Dag</ComboBoxItem>
+                <ComboBoxItem>Dag en tijd</ComboBoxItem>
+            </ComboBox>
+        </WrapPanel>
+        <Grid Name="QuizAchtergrond">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <StackPanel
+                Margin="23,9,23.143,9.857"
+                Background="MediumPurple"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center" Height="176">
+                <TextBlock
+                    Margin="5"
+                    FontSize="25">
+                    Who wants to be a millionaire?
+                </TextBlock>
+                <Image Height="90" Source="images/WhoWantsToBeAMillionaire.jpg"></Image>
+
+                <TextBlock
+                    HorizontalAlignment="Center" Margin="5"
+                    Name="GeldTextBlock" FontSize="25">
+                    0
+                </TextBlock>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Margin="20">
+                <CheckBox Name="EersteBonus" Margin="5" >
+                    50 / 50
+                </CheckBox>
+                <CheckBox Name="TweedeBonus" Margin="5" >
+                    50 / 50
+                </CheckBox>
+                <CheckBox Name="DerdeBonus" Margin="5" >
+                    50 / 50
+                </CheckBox>
+                <ListBox Name="CheatedVragen" Margin="5"
+                         Height="65" SelectionMode="Extended">
+
+                </ListBox>
+            </StackPanel>
+            <StackPanel 
+                Background="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}"
+                
+                Grid.Row="0" Grid.Column="1" Margin="20">
+                <TextBox Name="VraagTextBox" IsEnabled="False" 
+                           Margin="20" TextWrapping="Wrap" FontFamily="Courier New"
+                           Height="125">
+                </TextBox>
+            </StackPanel>
+            <StackPanel 
+                Background="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}"
+                Grid.Row="1" Grid.Column="1" Margin="20">
+                <RadioButton Tag="1" Margin="5" Name="OptieA">test</RadioButton>
+                <RadioButton Tag="2" Margin="5" Name="OptieB">test</RadioButton>
+                <RadioButton Tag="3" Margin="5" Name="OptieC">test</RadioButton>
+                <RadioButton Tag="4" Margin="5" Name="OptieD">test</RadioButton>
+                <Button Margin="5" Click="FinalAnswer_Click">Final Answer</Button>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\bin\Debug\Weddeberekening2.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\bin\Debug\Weddeberekening2.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\bin\Debug\Weddeberekening2.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 8\Weddeberekening2\Weddeberekening2\obj\Debug\Weddeberekening2.pdb

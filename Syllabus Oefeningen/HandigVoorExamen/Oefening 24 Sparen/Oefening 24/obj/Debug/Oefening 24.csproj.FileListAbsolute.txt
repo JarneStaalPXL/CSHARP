@@ -1,0 +1,30 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening 24.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening 24_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening 24_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\bin\Debug\Oefening 24.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\bin\Debug\Oefening 24.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\bin\Debug\Oefening 24.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening 24.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening_24.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening 24.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening 24.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening 24.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24\Oefening 24\obj\Debug\Oefening 24.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\bin\Debug\Oefening 24.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\bin\Debug\Oefening 24.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\bin\Debug\Oefening 24.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening 24.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening 24_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening 24_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening 24.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening_24.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening 24.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening 24.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening 24.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 24 Sparen\Oefening 24\obj\Debug\Oefening 24.pdb

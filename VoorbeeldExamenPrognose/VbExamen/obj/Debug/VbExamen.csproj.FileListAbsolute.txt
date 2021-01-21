@@ -1,0 +1,30 @@
+C:\Users\olci6\source\repos\VbExamen\VbExamen\bin\Debug\VbExamen.exe.config
+C:\Users\olci6\source\repos\VbExamen\VbExamen\bin\Debug\VbExamen.exe
+C:\Users\olci6\source\repos\VbExamen\VbExamen\bin\Debug\VbExamen.pdb
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen.csprojAssemblyReference.cache
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\MainWindow.g.cs
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\App.g.cs
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen_MarkupCompile.cache
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen_MarkupCompile.lref
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\MainWindow.baml
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen.g.resources
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen.Properties.Resources.resources
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen.csproj.GenerateResource.cache
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen.csproj.CoreCompileInputs.cache
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen.exe
+C:\Users\olci6\source\repos\VbExamen\VbExamen\obj\Debug\VbExamen.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\bin\Debug\VbExamen.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\bin\Debug\VbExamen.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\bin\Debug\VbExamen.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\VoorbeeldExamenPrognose\VbExamen\obj\Debug\VbExamen.pdb

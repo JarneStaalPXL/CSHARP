@@ -1,0 +1,48 @@
+﻿<Window x:Class="Oefening_25_Interest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_25_Interest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="2161.674" Width="1083.114">
+    <Grid Margin="0,0,56.714,66.143">
+        <Label Content="Beginkapitaal" HorizontalAlignment="Left" VerticalAlignment="Top"
+Margin="95,52,0,0" HorizontalContentAlignment="Right" />
+        <Label Content="Gewenst eindkapitaal" HorizontalAlignment="Left" Margin="53,95,0,0"
+VerticalAlignment="Top" HorizontalContentAlignment="Right" />
+        <Label Content="Intrestvoet" HorizontalAlignment="Left" Margin="94,133,0,0"
+VerticalAlignment="Top" Height="30" Width="82" RenderTransformOrigin="0.78,0.3"
+HorizontalContentAlignment="Right" />
+        <TextBox x:Name="TxtBeginkapitaal" HorizontalAlignment="Left" Height="23"
+Margin="185,52,0,0" TextWrapping="Wrap" Text="15000" VerticalAlignment="Top" Width="120"
+KeyDown="TxtBeginkapitaal_KeyDown"/>
+        <TextBox x:Name="TxtEindkapitaal" HorizontalAlignment="Left" Height="23"
+Margin="185,95,0,0" TextWrapping="Wrap" Text="25000" VerticalAlignment="Top" Width="120"
+KeyDown="TxtBeginkapitaal_KeyDown"/>
+        <TextBox x:Name="TxtIntrest" HorizontalAlignment="Left" Height="23" Margin="185,140,0,0"
+TextWrapping="Wrap" Text="3,5" VerticalAlignment="Top" Width="120"
+KeyDown="TxtBeginkapitaal_KeyDown"/>
+        <TextBox x:Name="TxtResultaat" HorizontalAlignment="Left" Height="2004" Margin="369,30,0,0"
+TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="395" IsEnabled="False"
+FontFamily="Consolas" VerticalScrollBarVisibility="Auto" Background="#FFEAE5E5"/>
+        <Button x:Name="BtnBerekenen" BorderThickness="1" HorizontalAlignment="Left"
+Margin="53,326,0,0" VerticalAlignment="Top" Width="44" Height="39" IsDefault="True"
+Click="BtnBerekenen_Click" BorderBrush="#FFD8D8D8" ToolTip="Berekenen van eindkapitaal" RenderTransformOrigin="-0.948,0.652"
+>
+
+        </Button>
+        <Button x:Name="BtnWissen" HorizontalAlignment="Left" Margin="162,326,0,0"
+VerticalAlignment="Top" Width="37" Height="39" IsCancel="True" Click="BtnWissen_Click"
+BorderBrush="#FFD8D8D8" ToolTip="Wissen van gegevens."  >
+
+        </Button>
+        <Button x:Name="BtnAfsluiten" HorizontalAlignment="Left" Margin="257,326,0,0"
+VerticalAlignment="Top" Width="48" Height="39" RenderTransformOrigin="0.571,1.429"
+Click="BtnAfsluiten_Click" BorderBrush="#FFD8D8D8" ToolTip="Afsluiten project"
+>
+
+        </Button>
+
+    </Grid>
+</Window>

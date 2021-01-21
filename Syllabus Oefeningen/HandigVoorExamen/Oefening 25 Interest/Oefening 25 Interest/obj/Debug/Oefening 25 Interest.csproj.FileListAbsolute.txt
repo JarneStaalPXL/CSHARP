@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\bin\Debug\Oefening 25 Interest.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\bin\Debug\Oefening 25 Interest.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\bin\Debug\Oefening 25 Interest.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening 25 Interest.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening 25 Interest_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening 25 Interest_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening 25 Interest.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening_25_Interest.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening 25 Interest.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening 25 Interest.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening 25 Interest.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 25 Interest\Oefening 25 Interest\obj\Debug\Oefening 25 Interest.pdb

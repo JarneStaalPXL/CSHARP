@@ -171,7 +171,7 @@
             Grid.ColumnSpan="2" 
             Height="40" 
             Background="White" Click="testing"/>
-        <Button Content="Test" 
+        <Button Content="Certificates" 
             Style="{StaticResource CustomFont}"
                 
             FontSize="17"
@@ -183,7 +183,7 @@
             Grid.ColumnSpan="2" 
             Height="40" 
             Background="White" Click="testing"/>
-        <Button Content="Test" 
+        <Button Content="Exit" 
             Style="{StaticResource CustomFont}"
                 
             FontSize="17"

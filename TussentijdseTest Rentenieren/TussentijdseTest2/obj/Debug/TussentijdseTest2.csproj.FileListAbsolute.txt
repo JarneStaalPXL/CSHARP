@@ -1,0 +1,15 @@
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\bin\Debug\TussentijdseTest2.exe.config
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\bin\Debug\TussentijdseTest2.exe
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\bin\Debug\TussentijdseTest2.pdb
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2.csprojAssemblyReference.cache
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\App.g.cs
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2_MarkupCompile.cache
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2_MarkupCompile.lref
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\MainWindow.baml
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2.g.resources
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2.Properties.Resources.resources
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2.csproj.GenerateResource.cache
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2.csproj.CoreCompileInputs.cache
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2.exe
+C:\Users\jarne\Downloads\TussentijdseTest\TussentijdseTest2\obj\Debug\TussentijdseTest2.pdb

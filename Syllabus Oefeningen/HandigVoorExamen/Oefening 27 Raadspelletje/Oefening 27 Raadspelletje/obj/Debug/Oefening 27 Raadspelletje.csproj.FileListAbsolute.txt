@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\bin\Debug\Oefening 27 Raadspelletje.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\bin\Debug\Oefening 27 Raadspelletje.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\bin\Debug\Oefening 27 Raadspelletje.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening 27 Raadspelletje.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening 27 Raadspelletje_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening 27 Raadspelletje_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening 27 Raadspelletje.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening_27_Raadspelletje.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening 27 Raadspelletje.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening 27 Raadspelletje.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening 27 Raadspelletje.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 27 Raadspelletje\Oefening 27 Raadspelletje\obj\Debug\Oefening 27 Raadspelletje.pdb

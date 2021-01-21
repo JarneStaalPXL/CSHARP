@@ -1,0 +1,45 @@
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\bin\Debug\OefenExamen.exe.config
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\bin\Debug\OefenExamen.exe
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\bin\Debug\OefenExamen.pdb
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csprojAssemblyReference.cache
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\App.g.cs
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen_MarkupCompile.cache
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen_MarkupCompile.lref
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\MainWindow.baml
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen.g.resources
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen.Properties.Resources.resources
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csproj.GenerateResource.cache
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csproj.CoreCompileInputs.cache
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen.exe
+C:\Users\jarne\source\repos\OefenExamen\OefenExamen\obj\Debug\OefenExamen.pdb
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\bin\Debug\OefenExamen.exe.config
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\bin\Debug\OefenExamen.exe
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\bin\Debug\OefenExamen.pdb
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csprojAssemblyReference.cache
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\MainWindow.g.cs
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\App.g.cs
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen_MarkupCompile.cache
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen_MarkupCompile.lref
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\MainWindow.baml
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen.g.resources
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen.Properties.Resources.resources
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csproj.GenerateResource.cache
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csproj.CoreCompileInputs.cache
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen.exe
+C:\Users\Yarne Dirkx\Downloads\OefenExamen (1)\OefenExamen\OefenExamen\obj\Debug\OefenExamen.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\bin\Debug\OefenExamen.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\bin\Debug\OefenExamen.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\bin\Debug\OefenExamen.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\OefenExamen\OefenExamen\obj\Debug\OefenExamen.pdb

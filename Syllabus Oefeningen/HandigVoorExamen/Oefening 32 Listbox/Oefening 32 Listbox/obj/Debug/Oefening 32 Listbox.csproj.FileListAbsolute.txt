@@ -1,0 +1,15 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\bin\Debug\Oefening 32 Listbox.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\bin\Debug\Oefening 32 Listbox.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\bin\Debug\Oefening 32 Listbox.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening 32 Listbox.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening 32 Listbox_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening 32 Listbox_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening 32 Listbox.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening_32_Listbox.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening 32 Listbox.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening 32 Listbox.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening 32 Listbox.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Syllabus Oefeningen\Oefening 32 Listbox\Oefening 32 Listbox\obj\Debug\Oefening 32 Listbox.pdb

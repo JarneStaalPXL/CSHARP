@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\Oefening Selectie 4.csproj": {}
+    "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\Oefening Selectie 4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\Oefening Selectie 4.csproj": {
+    "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\Oefening Selectie 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\Oefening Selectie 4.csproj",
+        "projectUniqueName": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\Oefening Selectie 4.csproj",
         "projectName": "Oefening Selectie 4",
-        "projectPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\Oefening Selectie 4.csproj",
-        "packagesPath": "C:\\Users\\12001144\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\obj\\",
+        "projectPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\Oefening Selectie 4.csproj",
+        "packagesPath": "C:\\Users\\jarne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Week 2\\Les 3\\Oefeningen Selectie\\Oefening 4\\Selectie Oefening 4\\Oefening Selectie 4\\Oefening Selectie 4\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\12001144\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jarne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
