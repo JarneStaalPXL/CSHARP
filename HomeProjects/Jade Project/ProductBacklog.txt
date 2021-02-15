@@ -1,0 +1,8 @@
+- Waardes invullen en daarvan automatisch de som laten doen
+- De kosten invullen en daarna de (som - de kosten) laten doen
+- Winst per jaar moet onder de 7000 blijven. Implementeer een percentage bv (2000 van de 7000 = 28%)
+- Elke maand een mail sturen met rapportje
+- Maximum aantal waardes die kunnen worden ingevuld = 25
+
+
+

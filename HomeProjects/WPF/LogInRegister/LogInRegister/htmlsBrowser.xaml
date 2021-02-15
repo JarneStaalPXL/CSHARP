@@ -1,0 +1,23 @@
+﻿<Window x:Class="LogInRegister.htmlsBrowser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LogInRegister"
+        mc:Ignorable="d"
+        Title="Projects" Height="780.958" Width="1477" ResizeMode="NoResize" Loaded="Window_Loaded" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="232*"/>
+            <RowDefinition Height="521*"/>
+        </Grid.RowDefinitions>
+        <WebBrowser  x:Name="myWebBrowser" Visibility="Hidden"   LoadCompleted="wb_LoadCompleted" Margin="267,0,0.429,0.571" Grid.RowSpan="2"/>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="753" Margin="-5,0,0,-0.429"  VerticalAlignment="Top" Width="272" Grid.RowSpan="2"/>
+        <Image Source="/Images/profilePic.jpg" Margin="-62,0,1120.429,510.571" Grid.RowSpan="2" />
+        <Label x:Name="userNameLbl" Foreground="#FF1EB7FB"  FontSize="20"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Content="" Width="Auto"  Margin="0,211,1204.429,466.571" Grid.RowSpan="2"/>
+        <Label Content="You Are Logged In As" FontSize="21" Foreground="White" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="46" Margin="-5,196,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="272"/>
+        <Button Content="Curriculum Vitae" Foreground="White" FontSize="30" Background="Transparent" BorderBrush="#FF1FB8FB" BorderThickness="3" HorizontalAlignment="Left" Margin="0,59,0,0" Grid.Row="1" VerticalAlignment="Top" Width="267" Height="57" />
+        <Button Content="Battery" Foreground="White" FontSize="30" Background="Transparent" BorderBrush="#FF1FB8FB" BorderThickness="3" HorizontalAlignment="Left" Margin="0,133.8,0,0" Grid.Row="1" VerticalAlignment="Top" Width="267" Height="57" Click="Battery_Click"/>
+        <Rectangle x:Name="Rectangle" Fill="Black" HorizontalAlignment="Left" Height="754" Margin="267,-1,0,-0.429" Grid.RowSpan="2" VerticalAlignment="Top" Width="1204"/>
+    </Grid>
+</Window>

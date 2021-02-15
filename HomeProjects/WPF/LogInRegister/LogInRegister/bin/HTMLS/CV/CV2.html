@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="nl">
+<meta charset="utf-8">
+<head>
+    <title>Curriculum Vitae Jarne Staal 1PROH</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <style>
+        /*When clicking nav buttons,
+  this makes it scroll smoothly*/
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body{
+            margin: 0px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            min-height: 1px;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #404040;
+            z-index: 3;
+        }
+
+
+        .title {
+            color: white;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 22px;
+
+        }
+        .nav-links {
+            display: flex;
+            width: 100%;
+        }
+
+        .nav-links a:hover {
+            color: #cfeaff;
+        }
+
+        .nav-links a{
+            color: white;
+            text-decoration: none;
+            letter-spacing: 3px;
+            font-weight: bold;
+            margin-right: 3em ;
+        }
+
+        .nav-links li {
+            list-style: none;
+        }
+
+        .burger {
+            display: none;
+        }
+
+        .burger div{
+            background-color: #b8b8b8;
+            margin: 5em;
+        }
+
+        /* Position scroll to element when nav button clicked */
+        #profile {
+            position: absolute;
+            top: 5vw;
+        }
+
+        #edu {
+            position: absolute;
+            top: 52em;
+        }
+        #contact {
+            position: absolute;
+            top: 144vw;
+        }
+
+        #personality {
+            position: absolute;
+            top: 101em;
+        }
+
+        /* Pictures */
+        #banner-section{
+            height: 58vh;
+        }
+        #imga {
+            position: relative;
+            top: 0; left: 0; z-index: -50;
+            width: 100%;
+            height: 100%;
+
+        }
+
+        .imgb {
+            left: 43%;
+            top: -23%;
+            position: relative;
+            width: 14%;
+            z-index: 0;
+            height: auto;
+
+            border:  black 23px;
+            border-radius: 180px;
+        }
+
+
+        /* hover over pic reveals shadow*/
+        .imgb:hover {
+            box-shadow: 5px 5px 5px 5px black;
+        }
+        .imgb:active:hover {
+            border: solid black 5px;
+            box-shadow: none;
+
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            margin-top: 8em;
+        }
+
+        .container2 {
+            display: flex;
+            margin-top: 9em;
+            margin-left: -1em;
+            margin-right: -32em;
+        }
+
+        .container-item {
+            margin-left: 23em;
+        }
+
+        .container-item2 {
+            margin-top: -10em;
+            margin-left: 30em;
+        }
+
+        .personalia {
+            text-align: center;
+            margin-top: 6em;
+            font-size: 13px;
+        }
+
+        .personalia p {
+            text-align: center;
+            font-size: 16px;
+            margin-top: 0em;
+        }
+
+        #gbnt {
+            margin-left: 24em;
+            margin-top: -9%;
+        }
+
+
+        .interests {
+            font-size: 10px;
+            margin-left: 1em;
+        }
+
+        .interests h1 {
+            text-align: center;
+            margin-left: 2em;
+        }
+
+        .interests p {
+            margin-left: 2em;
+            margin-top: -1em;
+            text-align: center;
+            font-size: 16px;
+        }
+
+        .eduworkbanner {
+            height: 38vw;
+            max-width: 100%;
+            background-color: #8080802b;
+            margin-top: 8vw;
+        }
+
+        .container3 {
+            display: flex;
+            justify-content: center;
+            margin-top: -28em;
+        }
+
+        .container-item3 {
+            margin-left: 3em;
+        }
+
+        .container-item4 {
+            margin-top: -29em;
+            margin-left: 16em;
+        }
+
+        .container4 {
+            display: flex;
+            justify-content: center;
+            margin-top: 9em;
+            margin-left: -2em;
+        }
+
+        .container4 img {
+            display: flex;
+            justify-content: center;
+            max-height: 489px;
+            margin-left: 3em;
+        }
+
+        #aimg {
+            width: 369px;
+        }
+
+        .container5 {
+            display: flex;
+            max-width: 100%;
+            height: 100%;
+            justify-content: center;
+            margin-bottom: -5em;
+            margin-top: 7em;
+            background-color: lightgray;
+            padding-top: 4em;
+
+        }
+
+        .education {
+            text-align: center;
+            align-self: flex-start;
+            margin-bottom: 4em;
+            height: 27em;
+            min-width: 10em;
+            font-size: 16px;
+            background-color: #dceffe;
+            box-shadow: 0px 1px 6px 6px;
+        }
+
+        .education hr {
+            border: 4px solid black;
+            border-radius: 5px;
+            opacity: 0.5;
+            margin-top: 0vw;
+        }
+
+
+        .education p {
+            text-align: center;
+            align-items: center;
+            font-size: 16px;
+        }
+
+        .education h1 {
+            margin: 0vw;
+            background-color: #93b1c9;
+        }
+        .education h3 {
+            font-size: 16px;
+        }
+
+        table {
+            border: 1px solid black;
+        }
+
+        .mobileVersionTable {
+            display: none;
+        }
+
+        .workexp {
+            text-align: center;
+            font-size: 16px;
+            height: 29em;
+            max-width: 14em;
+            max-height: 27em;
+            background-color: #dceffe;
+            box-shadow: 0px 1px 6px 6px;
+
+        }
+
+        .workexp h1 {
+            margin: 0em;
+            background-color: #93b1c9;
+        }
+        .workexp hr {
+            border: 4px solid black;
+            border-radius: 5px;
+            opacity: 0.5;
+            margin-top: 0em;
+        }
+
+        .workexp p {
+            text-align: center;
+            align-items: center;
+            font-size: 16px;
+        }
+
+        /*Properties for table*/
+        table {
+            border-collapse: collapse;
+            width: 26em;
+            text-align: center;
+            font-size: 21px;
+            box-shadow: 0px 1px 8px 6px;
+        }
+
+        .positiontable th {
+            background-color: #93b1c9;
+        }
+
+        .positiontable {
+            align-self: center;
+            margin-top: 0em;
+            margin-left: 2em;
+            margin-right: 2em;
+        }
+
+        .positiontable tr:nth-child(odd) {
+            background-color: #d3edfd;
+        }
+
+        .positiontable tr:nth-child(even) {
+            background-color: #c7ecfd;
+        }
+
+        .eduworkbanner {
+            height: 38vw;
+            max-width: 100%;
+            background-color: #8080802b;
+            margin-top: 8vw;
+        }
+
+        /*Properties for personality*/
+        .personality {
+            text-align: center;
+            margin-top: 21em;
+
+        }
+
+        .personality h1 {
+            font-size: 26px;
+            padding-top: 1em;
+        }
+
+        .personality img {
+            width: 44%;
+            height: auto;
+            margin-top: 6vw;
+        }
+
+        .personality p {
+            font-size: 15px;
+            text-align: center;
+            margin-left: 4vw;
+            margin-right: 4vw;
+        }
+
+        /*Properties for contact info*/
+        .contact {
+            font-size: 16px;
+            margin-top: 8em;
+            text-align: center;
+        }
+
+        /*Call button*/
+        .tel  {
+            text-align: center;
+            font-size: 16px;
+            background-color: #ebebeb;
+            padding: 15px 25px;
+            margin-left: -1em;
+            width: 11em;
+
+
+
+        }
+
+        /*Email button*/
+        .email {
+            text-align: center;
+            font-size: 16px;
+            background-color: #c4c4c4;
+            border: none;
+            padding: 15px 23px;
+            width: 11em;
+        }
+
+        /*Text under call and email button*/
+        .teldetail {
+            width: 14em;
+            font-size: 16px;
+            text-align: center;
+        }
+        .emaildetail {
+            width: 15em;
+            font-size: 16px;
+            text-align: center;
+        }
+
+
+        a, a:hover, a:focus, a:active {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .tel a:hover span {
+            display:none
+        }
+        .tel a:hover:before {
+            content:"Bel mij"
+        }
+
+        .email a:hover span {
+            display:none
+        }
+
+        .email a:hover:before {
+            content:"Mail mij"
+        }
+
+        .container6 {
+            display: flex;
+            justify-content: center;
+        }
+
+        .container7 {
+            display: flex;
+
+            height: 5em;
+            border: #404040;
+            background-color: #404040;
+            color: white;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            justify-content: flex-start;
+        }
+
+        .container8 {
+            display: flex;
+        }
+
+        #imgc {
+            width: auto;
+            height: 296px;
+            margin-top: 21em;
+            margin-left: 5em;
+            box-shadow: -2px 4px 15px 0px black;
+            border-radius: 1em;
+        }
+
+        #imgd {
+            width: auto;
+            margin-right: 4em;
+            height: 296px;
+            margin-top: 21em;
+            box-shadow: -2px 4px 15px 0px black;
+            border-radius: 1em;
+        }
+
+        #footerleft {
+            margin-left: 1em;
+            font-size: 1.5rem;
+        }
+
+        .container-item7 {
+            align-self: flex-end;
+            margin-left: auto;
+            font-size: 1.5rem;
+        }
+
+        .container-item7 p {
+            margin-right: 1em;
+        }
+
+        #container-middle  {
+            font-size: 1.5rem;
+            margin-left: auto;
+        }
+
+        footer {
+            margin-top: 7em;
+
+        }
+
+        .footname p {
+            font-size: 30px;
+            margin-top: 1vw;
+            margin-left: 2vw;
+        }
+
+        .footname a {
+
+        }
+
+        .footname a:hover {
+            font-weight: bold;
+        }
+
+
+
+
+        @media only screen and (max-width: 480px) {
+
+            #profile {
+                top: -25em;
+            }
+
+            #edu {
+                top: 50em;
+            }
+
+            #personality {
+                top: 120em;
+            }
+
+            #contact {
+                top: 150em;
+            }
+
+            .title h4 {
+                display: none;
+            }
+
+
+
+            .nav-links a {
+                font-size: 11px;
+            }
+
+            #banner-section {
+                height: 14em;
+            }
+
+            .imgb {
+                left: 36%;
+                top: -33%;
+                width: 29%;
+            }
+
+            .container {
+                margin-top: 6em;
+            }
+
+
+            .container2 {
+                margin-top: 0em;
+            }
+
+            .container4 {
+                width: 1px;
+                height: 3000px;
+            }
+
+
+
+            .interests {
+                margin-left: -15em;
+                margin-right: -17em;
+                margin-top: 33em;
+            }
+
+            .personalia {
+                margin-top: 2em;
+            }
+
+            .personalia h1 {
+                margin-left: 8em;
+            }
+
+            .personalia p {
+                margin-left: 10em;
+            }
+
+            .container-item {
+                margin-left: 23em;
+            }
+
+            #gbnt {
+                margin-left: -13em;
+                margin-top: 14em;
+            }
+
+
+            .interests h1 {
+                margin-left: 12em;
+                margin-top: -4em;
+                font-size: 16px;
+            }
+
+
+            .interests p {
+                margin-left: 11em;
+            }
+
+            .container5 {
+                margin-top: 5em;
+                flex-wrap: wrap;
+                padding-bottom: 4em;
+            }
+
+            .positiontable {
+                flex: 0 1 100%;
+                align-self: flex-end;
+            }
+
+            table {
+                display: none;
+            }
+
+            .positiontable table {
+                font-size: 0.8rem;
+                width: 100%;
+                height: auto;
+            }
+
+            .workexp {
+                margin-top: 4em;
+            }
+
+            .mobileVersionTable {
+                display: block;
+                text-align: center;
+                background: #dceffe;
+                border: 1px solid black;
+                box-shadow: 0px 1px 6px 6px;
+            }
+
+            .personality {
+                margin-top: -1em;
+            }
+
+            .personality img {
+                max-width: 338px;
+                max-height: 400px;
+                margin-top: 1em;
+            }
+
+            .container7 {
+                height: 3em;
+                padding-bottom: 1em;
+            }
+
+            .container-item7 {
+                margin-bottom: -0.5em;
+                font-size: 1rem;
+            }
+            .footname {
+                height: 9em;
+            }
+
+            #footerleft {
+                font-size: 1rem;
+            }
+
+            #container-middle {
+                /*margin-left: -2em;
+                font-size: 0.8rem;*/
+                display: none;
+            }
+
+            .container8 {
+                display: block;
+            }
+
+            #imgc {
+                height: auto;
+                margin-top: 9em;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 85%;
+            }
+
+            #imgd {
+                height: auto;
+                margin-top: 2em;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 85%;
+            }
+
+
+        }
+
+    </style>
+    <link rel="stylesheet" href="CV2.css">
+</head>
+<body>
+    <nav>
+        <div class="title">
+            <h4>Curriculum Vitae</h4>
+        </div>
+        <div>
+            <ul class="nav-links">
+                <li><a href="#profile">Profiel</a> </li>
+                <li><a href="#edu">Info</a> </li>
+                <li><a href="#personality">Personaliteit</a> </li>
+                <li><a href="#contact">Contact</a> </li>
+            </ul>
+        </div>
+        <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+    </nav>
+    <section id="banner-section">
+        <img id="imga" src="wallpaper.png" alt="brug"/>
+        <a href="https://www.linkedin.com/in/jarne-staal-797a19180" target="_blank">
+            <img class="imgb" src="profilepic.jpg" alt="profiel foto"/>
+        </a>
+    </section>
+    <aside>
+        <div  id="profile">
+        </div>
+        <div  id="edu">
+        </div>
+        <div id="personality">
+        </div>
+    </aside>
+    <section>
+        <div class="container">
+            <div class="container2">
+                    <div class="interests">
+                        <h1 >Interesses</h1>
+                        <p>
+                            WebDesign <br>
+                            Fotografie <br>
+                            Progammeren <br>
+                        </p>
+                    </div>
+            </div>
+        <div class="container-item">
+            <div class="personalia">
+                <h1>Personalia</h1>
+                    <p>
+                        <b>Naam</b><br> Jarne Staal <br> <br>
+                        <b>Adres</b><br> Daelstraat 22 <br>
+                        3668 Niel-Bij-As <br>
+                    </p>
+                <div class="container-item2">
+                    <div id="gbnt">
+                        <p>
+                            <b>Geboortedatum</b><br> 27 Juli 2001 <br>
+                            <b>Nationaliteit</b><br> Belg <br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    <section>
+        <div class="container5">
+                    <div class="education">
+                        <h1>Opleiding</h1>
+                        <h3>
+                            <b>Atlas College</b>
+                        </h3>
+                        <p>
+                            <b>2019-2020</b><br>Business-Support
+                        </p>
+                        <p>
+                            <b>2016-2019</b><br>Kantoor-Logistiek
+                        </p>
+                        <p>
+                            <b>2012-2016</b><br>TSO-Handel
+                        </p>
+                    </div>
+                    <div class="positiontable">
+                            <table>
+                                <tr>
+                                    <th></th>
+                                    <th>Engels</th>
+                                    <th>Frans</th>
+                                    <th>Nederlands</th>
+                                </tr>
+                                <tr>
+                                    <th>Schrijven</th>
+                                    <td>Heel goed</td>
+                                    <td>Goed</td>
+                                    <td>Heel goed</td>
+                                </tr>
+                                <tr>
+                                    <th>Spreken</th>
+                                    <td>Heel goed</td>
+                                    <td>Goed</td>
+                                    <td>Heel goed</td>
+                                </tr>
+                            </table>
+                        <div class="mobileVersionTable">
+                            <div>
+                                <h1>Engels</h1>
+                                <p>Heel goed</p>
+                            </div>
+                            <div>
+                                <h1>Frans</h1>
+                                <p>Goed</p>
+                            </div>
+                            <div>
+                                <h1>Nederlands</h1>
+                                <p>Heel goed</p>
+                            </div>
+                        </div>
+
+                        </div>
+                        <div class="workexp">
+                            <h1>Werkervaring</h1>
+                            <p>
+                                <b>2019-2020</b><br><b>White Light</b><br>Onthaalbediende
+                            </p>
+                            <p>
+                                <b>2018-2019</b><br><b>Yazaki</b><br>Magazijnier
+                            </p>
+                            <p>
+                                <b>2018</b><br><b>Reumacentrum</b><br>Bediende
+                            </p>
+                            <p>
+                                <b>2017</b><br><b>Carrefour</b><br>Magazijnier
+                            </p>
+                        </div>
+                    </div>
+    </section>
+    <section>
+        <div class="container8">
+            <img id="imgc" src="huis.jpg" />
+            <div class="personality">
+                <h1>Personaliteit</h1>
+                <p><b>Leergierigheid, vastberadenheid en ijverigheid</b> zijn de karakteristieken die mij eigen maken.
+                    Het slagen van mijn projecten geeft <b>motivatie</b>
+                    om komende projecten nog beter aan te pakken.
+                    Fotografie is niet alleen mijn <b>passie</b>, maar het brengt ook <b>oog voor detail</b>
+                    voort bij mijzelf, wat ik in elk bedrijf zou kunnen toepassen.
+                    De wereld is één groot leerfestijn en ik ben bereid om bij te leren indien nodig.
+                </p>
+                <img src="quote.png" alt="quote picture"/>
+            </div>
+            <img id="imgd" src="familie.jpg" />
+        </div>
+
+    </section>
+    <section>
+        <div class="contact">
+            <h1>Contact</h1>
+        </div>
+        <div class="container6">
+            <div id="contact">
+            </div>
+            <div class="tel">
+                <a href="tel:+32483120249"><span>Telefoon</span></a>
+            </div>
+            <div class="teldetail">
+                <p>+32 483 120 249</p>
+            </div>
+        </div>
+        <div class="container6">
+            <div class="email">
+                <a href="mailto:12001144@student.pxl.be"><span>Email</span></a>
+            </div>
+            <div class="emaildetail">
+                <p>12001144@student.pxl.be</p>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="container7">
+            <p id="footerleft">Jarne Staal - 1PROh </p>
+            <div id="container-middle">
+                <p>Opdracht Curriculum Vitae</p>
+            </div>
+            <div class="container-item7">
+                <p><a href="#">Terug naar boven</a></p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
