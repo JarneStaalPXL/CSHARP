@@ -1,0 +1,13 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\bin\Debug\netcoreapp3.1\Tekstbestanden.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\bin\Debug\netcoreapp3.1\Tekstbestanden.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\bin\Debug\netcoreapp3.1\Tekstbestanden.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\bin\Debug\netcoreapp3.1\Tekstbestanden.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\bin\Debug\netcoreapp3.1\Tekstbestanden.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\bin\Debug\netcoreapp3.1\Tekstbestanden.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\obj\Debug\netcoreapp3.1\Tekstbestanden.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\obj\Debug\netcoreapp3.1\Tekstbestanden.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\obj\Debug\netcoreapp3.1\Tekstbestanden.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\obj\Debug\netcoreapp3.1\Tekstbestanden.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\obj\Debug\netcoreapp3.1\Tekstbestanden.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\obj\Debug\netcoreapp3.1\Tekstbestanden.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Tekstbestanden\Tekstbestanden\obj\Debug\netcoreapp3.1\Tekstbestanden.genruntimeconfig.cache

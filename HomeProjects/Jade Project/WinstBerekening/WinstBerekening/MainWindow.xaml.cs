@@ -247,7 +247,7 @@ namespace WinstBerekening
                 mail.IsBodyHtml = true;
                 mail.From = new MailAddress("ethereumchecker@gmail.com");
                 mail.To.Add("jarne.staal9@gmail.com");
-                mail.To.Add("jadestaaal@outlook.com");
+                //mail.To.Add("jadestaaal@outlook.com");
                 mail.Subject = $"Rapport JS Coaching  || {DateTime.Now.ToString("d-M-yyyy")}";
                 mail.Body = "<head><style>.block {padding: 20px; background: #c0f3f6; border-radius: 2em; text-align: center;} img {display: flex; margin: auto;}</style></head>" +
                     "<body><img src = \"https://media.discordapp.net/attachments/386448776698789900/807563927558946826/lifecoachLogo.webp\" alt = \"JSCOACHING LOGO\"> <div class=\"block\"> <h1>Beginresultaat</h1>" +
