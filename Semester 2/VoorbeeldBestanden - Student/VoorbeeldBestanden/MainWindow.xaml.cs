@@ -88,15 +88,10 @@ namespace VoorbeeldBestanden
                 }
             }
         }
-                
-       
+
+
 
         private void BtnKlasseFile_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void BtnWriteAllText_Click(object sender, RoutedEventArgs e)
         {
             string pad = @"..\..\Bestanden\NamenFile.txt";
 
@@ -118,14 +113,41 @@ namespace VoorbeeldBestanden
             TxtResultaat.Text = File.ReadAllText(pad);
         }
 
-        private void BtnWriteCsv_Click(object sender, RoutedEventArgs e)
+        private void BtnWriteAllText_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
+        private void BtnWriteCsv_Click(object sender, RoutedEventArgs e)
+        {
+            string[] velden;
+            TxtResultaat.Clear();
+
+            using (StreamReader sr = new StreamReader(@"..\..\Bestanden\KlasCsv.txt"))
+            {
+                while (!sr.EndOfStream)
+                {
+                    //Scheidingsteken opgeven, geeft array terug gescheiden door opgegeven karakter.
+                    velden = sr.ReadLine().Split(';');
+                    TxtResultaat.Text += $"Naam: {velden[0],-15} Voornaam: {velden[1]}\n";
+                }
+            }
+        }
+
         private void BtnFixRead_Click(object sender, RoutedEventArgs e)
         {
+            TxtResultaat.Clear();
 
+            using (StreamReader sr = new StreamReader(@"..\..\Bestanden\KlasVast.Txt"))
+            {
+                while (!sr.EndOfStream)
+                {
+                    string lijn = sr.ReadLine();
+                    string veld1 = lijn.Substring(0, 16).Trim();
+                    string veld2 = lijn.Substring(17, 11).Trim();
+                    TxtResultaat.Text += $"{veld2} {veld1}\n";
+                }
+            }
         }
     }
 }
