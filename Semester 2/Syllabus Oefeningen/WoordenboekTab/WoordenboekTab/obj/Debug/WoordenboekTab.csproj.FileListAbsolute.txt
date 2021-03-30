@@ -1,0 +1,17 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\bin\Debug\WoordenboekTab.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\bin\Debug\WoordenboekTab.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\bin\Debug\WoordenboekTab.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\Window1.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\Window1.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\WoordenboekTab\WoordenboekTab\obj\Debug\WoordenboekTab.pdb

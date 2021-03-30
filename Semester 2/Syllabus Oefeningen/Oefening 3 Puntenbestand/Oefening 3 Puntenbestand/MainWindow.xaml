@@ -1,0 +1,17 @@
+﻿<Window x:Class="Oefening_3_Puntenbestand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_3_Puntenbestand"
+        mc:Ignorable="d"
+        Title="Inhoud van bestand met vaste lengte." Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TxtResultaat" HorizontalAlignment="Left" Height="270" Margin="71,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="489" FontFamily="Consolas"/>
+        <Button Content="INLEZEN..." HorizontalAlignment="Left" Margin="71,319,0,0" VerticalAlignment="Top" Width="85" Height="46" Click="INLEZEN"/>
+        <Button x:Name="BtnVerwerken" Content="VERWERKEN" IsEnabled="False" HorizontalAlignment="Left" Margin="218,319,0,0" VerticalAlignment="Top" Width="85" Height="46" Click="VERWERKEN"/>
+        <Button x:Name="BtnNalezen" Content="NALEZEN..." IsEnabled="False" HorizontalAlignment="Left" Margin="348,319,0,0" VerticalAlignment="Top" Width="85" Height="46" Click="NALEZEN"/>
+        <Button Content="SLUITEN" HorizontalAlignment="Left" Margin="475,319,0,0" VerticalAlignment="Top" Width="85" Height="46" Click="SLUITEN"/>
+
+    </Grid>
+</Window>

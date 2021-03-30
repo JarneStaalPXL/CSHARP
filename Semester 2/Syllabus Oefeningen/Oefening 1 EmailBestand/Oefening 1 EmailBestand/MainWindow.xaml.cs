@@ -1,6 +1,7 @@
 ﻿using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -65,9 +66,7 @@ namespace Oefening_1_EmailBestand
             {
                 MessageBox.Show("Probleem met het inlezen van het bestand.", "Foutmelding", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
-
             return sb;
-           
         }
 
         private void Inlezen(object sender, RoutedEventArgs e)
@@ -99,12 +98,10 @@ namespace Oefening_1_EmailBestand
                     txtResultaat.Text = sb.ToString();
                 }
             }
-
         }
 
         private void dictionRead(object sender, RoutedEventArgs e)
         {
-            
             string[] velden;
 
             try
@@ -128,8 +125,6 @@ namespace Oefening_1_EmailBestand
                         i++;
                     }
                 }
-
-
                 foreach (var item in dicGeg)
                 {
                     txtResultaat.Text += $"{item.Key,-20}: {item.Value}\n";
@@ -141,38 +136,49 @@ namespace Oefening_1_EmailBestand
             {
                 MessageBox.Show("Kan het bestand niet wegschrijven.", "Foutmelding", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
-
-
         }
 
         private void Toevoegen(object sender, RoutedEventArgs e)
         {
             string naam = naamBox.Text;
             string email = EmailBox.Text;
-            
-            SaveFileDialog saveFileDialog1 = new SaveFileDialog();
-            StringBuilder Sb = new StringBuilder();            
 
-            saveFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
-            saveFileDialog1.FilterIndex = 2;
-            saveFileDialog1.RestoreDirectory = true;
-
-            if (saveFileDialog1.ShowDialog() == true)
+            SaveFileDialog sfd = new SaveFileDialog()
             {
-                if ((saveFileDialog1.OpenFile()) != null)
+                Filter = "Alle bestanden (*.*)|*.*|Tekstbestanden (*.txt)|*.txt",
+                FilterIndex = 2,
+                Title = "Geef een bestandsnaam op",
+                OverwritePrompt = true,
+                AddExtension = true,
+                DefaultExt = "txt",
+                FileName = "Email.txt",
+                InitialDirectory = Environment.CurrentDirectory
+            };
+            sfd.ShowDialog();
+
+            string regel = $"\n\"{naam}\",\"{email}\"";
+            File.AppendAllText(sfd.FileName, regel);
+        }
+
+        private void BtnWegSchrijven_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                using (StreamWriter sw = File.CreateText("Adressen.txt"))
                 {
-                    //string tekst = File.ReadAllText(saveFileDialog1.FileName);
-                    StreamWriter sw = new StreamWriter("Email.txt");
-
-                    Sb.Append(naam);
-                    Sb.Append(""+ email);
-
-                    sw.WriteLine(Sb.ToString());
-
-
-                    sw.Close();
+                    foreach (var item in dicGeg)
+                    {
+                        sw.WriteLine(item.Value);
+                    }
                 }
+                MessageBox.Show(@"Emailadressen weggeschreven in ..\Adressen.txt","info", MessageBoxButton.OK, MessageBoxImage.Information);
             }
+            catch (Exception)
+            {
+                MessageBox.Show("Kan het bestand niet wegschrijven.", "Foutmelding", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
+
+            Process.Start("notepad", @"Adressen.txt");
         }
     }
 }

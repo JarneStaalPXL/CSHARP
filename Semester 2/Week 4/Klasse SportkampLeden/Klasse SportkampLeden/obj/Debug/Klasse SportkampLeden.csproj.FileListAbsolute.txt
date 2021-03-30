@@ -1,0 +1,15 @@
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse SportkampLeden.csprojAssemblyReference.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\App.g.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse SportkampLeden_MarkupCompile.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse SportkampLeden_MarkupCompile.lref
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\bin\Debug\Klasse SportkampLeden.exe.config
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\bin\Debug\Klasse SportkampLeden.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\bin\Debug\Klasse SportkampLeden.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\MainWindow.baml
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse SportkampLeden.g.resources
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse_SportkampLeden.Properties.Resources.resources
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse SportkampLeden.csproj.GenerateResource.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse SportkampLeden.csproj.CoreCompileInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse SportkampLeden.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 4\Klasse SportkampLeden\Klasse SportkampLeden\obj\Debug\Klasse SportkampLeden.pdb

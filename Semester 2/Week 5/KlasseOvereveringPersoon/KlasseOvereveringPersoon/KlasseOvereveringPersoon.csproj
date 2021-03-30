@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\Lectoren.csv" />
+    <None Include="bin\Debug\net5.0-windows\ref\Studenten.csv" />
+    <None Include="bin\Debug\Studenten.csv" />
+    <None Include="bin\Lectoren.csv" />
+    <None Include="bin\Studenten.csv" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,45 @@
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.exe.config
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.exe
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.pdb
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csprojAssemblyReference.cache
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\App.g.cs
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport_MarkupCompile.cache
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport_MarkupCompile.lref
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\MainWindow.baml
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.g.resources
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.Properties.Resources.resources
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csproj.GenerateResource.cache
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csproj.CoreCompileInputs.cache
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.exe
+C:\Users\jarne\source\repos\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.exe.config
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\bin\Debug\CSVExcelExport.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csprojAssemblyReference.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\App.g.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport_MarkupCompile.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport_MarkupCompile.lref
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\MainWindow.baml
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.g.resources
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.Properties.Resources.resources
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csproj.GenerateResource.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.csproj.CoreCompileInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\HomeProjects\CSVExcelExport\CSVExcelExport\obj\Debug\CSVExcelExport.pdb

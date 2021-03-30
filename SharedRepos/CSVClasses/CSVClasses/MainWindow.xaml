@@ -1,0 +1,15 @@
+﻿<Window x:Class="CSVClasses.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSVClasses"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button IsDefault="True" Content="Inlezen" HorizontalAlignment="Left" Margin="49,320,0,0" VerticalAlignment="Top" Width="179" Height="49" Click="Inlezen"/>
+        <TextBox x:Name="outputBox" HorizontalAlignment="Left" Height="226" Margin="49,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="700"/>
+        <Button Content="Verwerken" HorizontalAlignment="Left" Margin="570,320,0,0" VerticalAlignment="Top" Width="179" Height="49"/>
+
+    </Grid>
+</Window>

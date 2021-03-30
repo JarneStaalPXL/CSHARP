@@ -1,0 +1,26 @@
+﻿<Window x:Class="ClassesPersoneel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClassesPersoneel"
+        mc:Ignorable="d"
+        Title="Gebruik van de klasse Personeel" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Voornaam&#x9;" HorizontalAlignment="Left" Margin="75,51,0,0" VerticalAlignment="Top" Width="71" RenderTransformOrigin="0.586,0.631"/>
+        <Label Content="Naam" HorizontalAlignment="Left" Margin="75,82,0,0" VerticalAlignment="Top" Width="71" RenderTransformOrigin="0.586,0.631"/>
+        <Label Content="Startjaar" HorizontalAlignment="Left" Margin="75,113,0,0" VerticalAlignment="Top" Width="71" RenderTransformOrigin="0.586,0.631"/>
+        <Label Content="Geslacht" HorizontalAlignment="Left" Margin="75,144,0,0" VerticalAlignment="Top" Width="71" RenderTransformOrigin="0.586,0.631"/>
+        <TextBox x:Name="TxtResultaat" HorizontalAlignment="Left" Height="198" Margin="51,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="370"/>
+        <Button Content="Verhoog beoordeling" HorizontalAlignment="Left" Height="46" Margin="490,189,0,0" VerticalAlignment="Top" Width="220" Click="BtnVerhoog_Click"/>
+        <Button Content="Verlaag beoordeling" HorizontalAlignment="Left" Height="46" Margin="490,258,0,0" VerticalAlignment="Top" Width="220" Click="BtnVerlaag_Click"/>
+        <ComboBox x:Name="CboGeslacht" HorizontalAlignment="Left" Margin="151,149,0,0" VerticalAlignment="Top" Width="44" SelectionChanged="CboGeslacht_SelectionChanged">
+            <ComboBoxItem>M</ComboBoxItem>
+            <ComboBoxItem>V</ComboBoxItem>
+        </ComboBox>
+            <TextBox x:Name="TxtVoornaam" HorizontalAlignment="Left" Height="23" Margin="151,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" TextChanged="TxtVoornaam_TextChanged"/>
+        <TextBox x:Name="TxtNaam" HorizontalAlignment="Left" Height="23" Margin="151,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" TextChanged="TxtNaam_TextChanged"/>
+        <TextBox x:Name="TxtStartjaar" HorizontalAlignment="Left" Height="23" Margin="151,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" TextChanged="TxtStartjaar_TextChanged"/>
+
+    </Grid>
+</Window>

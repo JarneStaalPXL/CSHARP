@@ -1,0 +1,13 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\bin\Debug\netcoreapp3.1\Oefening 2.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\bin\Debug\netcoreapp3.1\Oefening 2.deps.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\bin\Debug\netcoreapp3.1\Oefening 2.runtimeconfig.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\bin\Debug\netcoreapp3.1\Oefening 2.runtimeconfig.dev.json
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\bin\Debug\netcoreapp3.1\Oefening 2.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\bin\Debug\netcoreapp3.1\Oefening 2.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\obj\Debug\netcoreapp3.1\Oefening 2.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\obj\Debug\netcoreapp3.1\Oefening 2.AssemblyInfoInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\obj\Debug\netcoreapp3.1\Oefening 2.AssemblyInfo.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\obj\Debug\netcoreapp3.1\Oefening 2.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\obj\Debug\netcoreapp3.1\Oefening 2.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\obj\Debug\netcoreapp3.1\Oefening 2.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 1\Streams Oefeningen\Oefening 2\Oefening 2\obj\Debug\netcoreapp3.1\Oefening 2.genruntimeconfig.cache

@@ -19,7 +19,7 @@
             <Button Margin="20,20,19.8,20" Height="22" Content="Inlezen" Click="Inlezen"></Button>
             <Button Margin="20,20,19.8,20" Height="22" Content="Inlezen / dialoogvenster" Click="dialogInlezen"/>
             <Button Margin="20,20,19.8,20" Height="22" Content="Inlezen / Dictionary" Click="dictionRead"></Button>
-            <Button x:Name="BtnWegSchrijven" Margin="20,20,19.8,20" Height="22" Content="Wegschrijven / Dictionary"></Button>
+            <Button x:Name="BtnWegSchrijven" Margin="20,20,19.8,20" Height="22" Content="Wegschrijven / Dictionary" Click="BtnWegSchrijven_Click"></Button>
             <TextBox x:Name="naamBox" Margin="20,20,19.8,20" Height="22"></TextBox>
             <TextBox x:Name="EmailBox" Margin="20,20,19.8,20" Height="22"></TextBox>
         </StackPanel>

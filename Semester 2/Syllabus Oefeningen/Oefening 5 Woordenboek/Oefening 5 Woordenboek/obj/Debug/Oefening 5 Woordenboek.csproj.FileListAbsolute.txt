@@ -1,0 +1,36 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\WindowsZoeken.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\bin\Debug\Oefening 5 Woordenboek.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\bin\Debug\Oefening 5 Woordenboek.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\bin\Debug\Oefening 5 Woordenboek.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\WindowsZoeken.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening_5_Woordenboek.AboutBox.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening_5_Woordenboek.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\bin\Debug\Oefening 5 Woordenboek.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\bin\Debug\Oefening 5 Woordenboek.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\bin\Debug\Oefening 5 Woordenboek.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\WindowsZoeken.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\WindowsZoeken.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening_5_Woordenboek.AboutBox.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening_5_Woordenboek.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 5 Woordenboek\Oefening 5 Woordenboek\obj\Debug\Oefening 5 Woordenboek.pdb

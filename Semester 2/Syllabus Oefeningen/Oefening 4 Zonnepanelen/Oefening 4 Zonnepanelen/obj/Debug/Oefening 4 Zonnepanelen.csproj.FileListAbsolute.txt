@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening 4 Zonnepanelen.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening 4 Zonnepanelen_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening 4 Zonnepanelen_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\bin\Debug\Oefening 4 Zonnepanelen.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\bin\Debug\Oefening 4 Zonnepanelen.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\bin\Debug\Oefening 4 Zonnepanelen.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening 4 Zonnepanelen.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening_4_Zonnepanelen.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening 4 Zonnepanelen.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening 4 Zonnepanelen.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening 4 Zonnepanelen.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 4 Zonnepanelen\Oefening 4 Zonnepanelen\obj\Debug\Oefening 4 Zonnepanelen.pdb
