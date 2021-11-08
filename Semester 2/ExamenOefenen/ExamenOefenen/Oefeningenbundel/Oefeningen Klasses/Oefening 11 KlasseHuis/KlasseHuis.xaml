@@ -1,0 +1,100 @@
+﻿<Window x:Class="ExamenOefenen.Oefeningenbundel.Oefeningen_Klasses.Oefening_11_KlasseHuis.KlasseHuis"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen.Oefeningenbundel.Oefeningen_Klasses.Oefening_11_KlasseHuis"
+        mc:Ignorable="d"
+        Title="KlasseHuis" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="151*"></ColumnDefinition>
+            <ColumnDefinition Width="249*"></ColumnDefinition>
+            <ColumnDefinition Width="200*"></ColumnDefinition>
+            <ColumnDefinition Width="200*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="20" Width="130">
+            <Label>Locatie</Label>
+            <Label>Lengte</Label>
+            <Label>Breedte</Label>
+            <Label>Aantal verdiepingen</Label>
+        </StackPanel>
+
+
+
+        <GroupBox x:Name="GrpType" Grid.Row="1" Margin="10,10,233,10" Grid.ColumnSpan="2">
+            <GroupBox.Header>Type huis</GroupBox.Header>
+            <StackPanel Margin="0,0,-2,0">
+                <RadioButton x:Name="radOpen" Margin="5">Open bebouwing</RadioButton>
+                <RadioButton x:Name="radHalfopen" Margin="5">Halfopen bebouwing</RadioButton>
+                <RadioButton x:Name="radGesloten" Margin="5">Gesloten bebouwing</RadioButton>
+            </StackPanel>
+        </GroupBox>
+
+        <StackPanel Grid.Row="1" Margin="20,106,28,0" Grid.ColumnSpan="2" Grid.RowSpan="2">
+            <TextBox x:Name="TxtResultaat" Height="176" IsEnabled="False"></TextBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="15">
+            <TextBox x:Name="TxtLocatie" Margin="5"></TextBox>
+            <TextBox x:Name="TxtLengte" Margin="5"></TextBox>
+            <TextBox x:Name="TxtBreedte" Margin="5"></TextBox>
+            <TextBox x:Name="TxtAantalVerdiepingen" Margin="5"></TextBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Margin="20" Grid.RowSpan="2">
+            <GroupBox>
+                <GroupBox.Header>Huis 1</GroupBox.Header>
+                <StackPanel>
+                    <Button x:Name="BtnCreatie1" Margin="5" Click="BtnCreatie1_Click">Creatie</Button>
+                    <Button IsEnabled="False" x:Name="BtnVerhogen1" Margin="5" Click="BtnVerhogen1_Click">Verdieping +1</Button>
+                    <Button IsEnabled="False" x:Name="BtnMeerdereVerhogingen1" Margin="5" Click="BtnMeerdereVerhogingen1_Click">Verdieping +?</Button>
+                    <Button IsEnabled="False" x:Name="BtnVerlagen1" Margin="5" Click="BtnVerlagen1_Click">Verdieping -1</Button>
+                    <Button IsEnabled="False" x:Name="BtnTonen1" Margin="5" Click="ToonGegevens1_Click">Gegevens</Button>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="3" Margin="20" Grid.RowSpan="2">
+            <GroupBox>
+                <GroupBox.Header>Huis 2</GroupBox.Header>
+                <StackPanel>
+                    <Button x:Name="BtnCreatie2" Margin="5" Click="BtnCreatie2_Click">Creatie</Button>
+                    <Button IsEnabled="False" x:Name="BtnVerhogen2" Margin="5" Click="BtnVerhogen2_Click">Verdieping +1</Button>
+                    <Button IsEnabled="False" x:Name="BtnMeerdereVerhogingen2" Margin="5" Click="BtnMeerdereVerhogingen2_Click">Verdieping +?</Button>
+                    <Button IsEnabled="False" x:Name="BtnVerlagen2" Margin="5" Click="BtnVerlagen2_Click">Verdieping -1</Button>
+                    <Button IsEnabled="False" x:Name="BtnTonen2" Margin="5" Click="ToonGegevens2_Click">Gegevens</Button>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Margin="20" Grid.Row="2">
+            <GroupBox>
+                <GroupBox.Header>Huis 3</GroupBox.Header>
+                <StackPanel>
+                    <Button Margin="5" IsEnabled="False">Creatie</Button>
+                </StackPanel>
+            </GroupBox>
+
+            <Button x:Name="BtnLeegmaken"  Margin="2,10" Width="100" HorizontalAlignment="Left" Click="LeegmakenTekstvakken_Click" >Textvakken wissen</Button>
+        </StackPanel>
+
+        <StackPanel Grid.Column="3" Margin="20" Grid.Row="2">
+            <GroupBox>
+                <GroupBox.Header>Huis 4</GroupBox.Header>
+                <StackPanel>
+                    <Button Margin="5" IsEnabled="False">Creatie</Button>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

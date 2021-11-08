@@ -113,6 +113,9 @@ namespace LogInRegister
                 MessageBox.Show("You have been succesfully registered! You can now log in.", "Congrats");
                 con2.Close();
             }
+
+
+            
         }
 
         private void Replace_Username_Click(object sender, RoutedEventArgs e)

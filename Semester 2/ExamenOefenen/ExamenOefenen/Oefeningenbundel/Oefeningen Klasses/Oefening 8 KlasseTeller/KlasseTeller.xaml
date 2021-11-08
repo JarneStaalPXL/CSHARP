@@ -1,0 +1,19 @@
+﻿<Window x:Class="ExamenOefenen.Oefeningenbundel.Oefening_8_KlasseTeller.KlasseTeller"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen.Oefeningenbundel.Oefening_8_KlasseTeller"
+        mc:Ignorable="d"
+        Title="KlasseTeller" Height="450" Width="800">
+    <Grid>
+        <Button Content="Lezen waarde teller" HorizontalAlignment="Left" Margin="97,66,0,0" VerticalAlignment="Top" Height="37" Width="126" Click="LezenWaardeTeller"/>
+        <Button Content="Verhoog teller met 1" HorizontalAlignment="Left" Margin="97,108,0,0" VerticalAlignment="Top" Height="37" Width="126" Click="VerhoogTellerClick"/>
+        <Button Content="Verminder teller met 1" HorizontalAlignment="Left" Margin="97,150,0,0" VerticalAlignment="Top" Height="37" Width="126" Click="VerminderTellerClick"/>
+        <Button Content="Resetten teller naar 0" HorizontalAlignment="Left" Margin="97,0,0,0" VerticalAlignment="Center" Height="37" Width="126" Click="ResettenTellerClick"/>
+        <Button Content="Verhoog teller met" HorizontalAlignment="Left" Margin="97,252,0,0" VerticalAlignment="Top" Height="37" Width="126" Click="VerhoogTellerMetClick"/>
+        <TextBox x:Name="inputTeller" HorizontalAlignment="Left" Margin="228,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="36"/>
+        <Button Content="Einde" HorizontalAlignment="Left" Margin="377,357,0,0" VerticalAlignment="Top" Click="Einde_Click"/>
+
+    </Grid>
+</Window>

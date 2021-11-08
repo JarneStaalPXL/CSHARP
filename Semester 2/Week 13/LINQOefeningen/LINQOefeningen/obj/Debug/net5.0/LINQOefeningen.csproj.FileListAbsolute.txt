@@ -1,0 +1,16 @@
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\LINQOefeningen.csprojAssemblyReference.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\LINQOefeningen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\LINQOefeningen.AssemblyInfoInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\LINQOefeningen.AssemblyInfo.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\LINQOefeningen.csproj.CoreCompileInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\bin\Debug\net5.0\LINQOefeningen.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\bin\Debug\net5.0\LINQOefeningen.deps.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\bin\Debug\net5.0\LINQOefeningen.runtimeconfig.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\bin\Debug\net5.0\LINQOefeningen.runtimeconfig.dev.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\bin\Debug\net5.0\LINQOefeningen.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\bin\Debug\net5.0\ref\LINQOefeningen.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\bin\Debug\net5.0\LINQOefeningen.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\LINQOefeningen.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\ref\LINQOefeningen.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\LINQOefeningen.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Week 13\LINQOefeningen\LINQOefeningen\obj\Debug\net5.0\LINQOefeningen.genruntimeconfig.cache

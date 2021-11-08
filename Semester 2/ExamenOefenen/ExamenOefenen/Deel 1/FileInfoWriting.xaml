@@ -1,0 +1,15 @@
+﻿<Window x:Class="ExamenOefenen.FileInfoWriting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen"
+        mc:Ignorable="d"
+        Title="FileInfoWriting" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TxtResultaat" HorizontalAlignment="Left" Margin="102,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="568" Height="252"/>
+        <Button Content="FileInfo Delete &amp; Create" HorizontalAlignment="Left" Margin="102,357,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.175,0.419" Width="237" Click="FileInfoReader"/>
+        <Button Content="FileInfo StreamReader" HorizontalAlignment="Left" Margin="433,357,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.175,0.419" Width="237" Click="FileInfoStreamReader"/>
+
+    </Grid>
+</Window>

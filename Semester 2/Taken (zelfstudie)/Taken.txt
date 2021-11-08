@@ -1,0 +1,59 @@
+Taken Hoofdstuk 1
+______
+
+
+CONSOLE
+1. Maak een streamwriter aan en schrijf iets naar het bestand
+--DONE
+
+
+2. Lees een bestand in, voeg elke regel toe aan de list
+   en laat elke regel in de console schrijven)
+--DONE
+
+
+3. Bekijk FileStream in de Syllabus en probeer het uit
+--DONE
+
+
+4. Bekijk alle statische klasses van File op pagina 5
+--DONE 
+
+
+5. Schrijf iets weg en lees het bestand in 
+   (zorg ervoor dat het bestand niet wordt overgeschreven als het al bestaat)
+--DONE   
+
+
+6. Bekijk de File.AppendAllText op pagina 6
+--DONE
+
+
+7. Probeer de File.ReadAllText en kijk hoe die het weergeeft in de console
+--DONE
+
+
+8. Bekijk FileInfo klasses op pagina 7
+--DONE
+
+
+
+
+
+
+WPF
+1. Lees een CSV bestand in en toon het op de juiste manier in een textbox
+   met de split. Verander daarna 
+   wat er in de textbox staat en schrijf het weg
+--DONE
+
+
+   
+2. Bekijk Fixed-width text files op pagina 8 en substring op pagina 9
+3. Zorg ervoor dat de user een fout krijgt als het bestand niet kan worden
+   weggeschreven door een missend pad
+
+4. Bekijk pagina 10 over Directory en probeer het uit
+5. Bekijk de OpenFileDialog op pagina 11,12,13
+
+

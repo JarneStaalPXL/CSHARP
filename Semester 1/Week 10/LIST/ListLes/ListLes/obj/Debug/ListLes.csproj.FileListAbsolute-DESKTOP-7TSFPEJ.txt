@@ -1,0 +1,15 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\bin\Debug\ListLes.exe.config
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\bin\Debug\ListLes.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\bin\Debug\ListLes.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes_MarkupCompile.lref
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\MainWindow.baml
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes.g.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes.Properties.Resources.resources
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes.csproj.GenerateResource.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes.exe
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Week 10\LIST\ListLes\ListLes\obj\Debug\ListLes.pdb

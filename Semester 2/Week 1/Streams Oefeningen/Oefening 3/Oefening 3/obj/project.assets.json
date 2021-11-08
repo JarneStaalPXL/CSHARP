@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Semester 2\\Week 1\\Streams Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj",
+      "projectUniqueName": "C:\\Users\\jarne\\Desktop\\OneDrive - PXL\\PXL C#\\CSHARP\\Semester 2\\Week 1\\Streams Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj",
       "projectName": "Oefening 3",
-      "projectPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Semester 2\\Week 1\\Streams Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj",
+      "projectPath": "C:\\Users\\jarne\\Desktop\\OneDrive - PXL\\PXL C#\\CSHARP\\Semester 2\\Week 1\\Streams Oefeningen\\Oefening 3\\Oefening 3\\Oefening 3.csproj",
       "packagesPath": "C:\\Users\\jarne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jarne\\OneDrive - PXL\\PXL C#\\CSHARP\\Semester 2\\Week 1\\Streams Oefeningen\\Oefening 3\\Oefening 3\\obj\\",
+      "outputPath": "C:\\Users\\jarne\\Desktop\\OneDrive - PXL\\PXL C#\\CSHARP\\Semester 2\\Week 1\\Streams Oefeningen\\Oefening 3\\Oefening 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jarne\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

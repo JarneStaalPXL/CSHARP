@@ -1,0 +1,5 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\ExamenOefenen\Validatie\bin\Debug\Validatie.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\ExamenOefenen\Validatie\bin\Debug\Validatie.pdb
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\ExamenOefenen\Validatie\obj\Debug\Validatie.csproj.CoreCompileInputs.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\ExamenOefenen\Validatie\obj\Debug\Validatie.dll
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\ExamenOefenen\Validatie\obj\Debug\Validatie.pdb

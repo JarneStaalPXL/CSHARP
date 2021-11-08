@@ -1,0 +1,5 @@
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 25 dB Spionshop 1\Oefening 25 dB Spionshop 1\obj\Debug\net5.0-windows\Oefening 25 dB Spionshop 1.csprojAssemblyReference.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 25 dB Spionshop 1\Oefening 25 dB Spionshop 1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 25 dB Spionshop 1\Oefening 25 dB Spionshop 1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 25 dB Spionshop 1\Oefening 25 dB Spionshop 1\obj\Debug\net5.0-windows\Oefening 25 dB Spionshop 1_MarkupCompile.cache
+C:\Users\jarne\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 25 dB Spionshop 1\Oefening 25 dB Spionshop 1\obj\Debug\net5.0-windows\Oefening 25 dB Spionshop 1_MarkupCompile.lref

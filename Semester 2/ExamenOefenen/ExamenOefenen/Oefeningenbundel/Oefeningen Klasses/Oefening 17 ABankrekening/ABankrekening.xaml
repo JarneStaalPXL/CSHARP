@@ -1,0 +1,55 @@
+﻿<Window x:Class="ExamenOefenen.Oefeningenbundel.Oefeningen_Klasses.Oefening_17_ABankrekening.ABankrekening"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen.Oefeningenbundel.Oefeningen_Klasses.Oefening_17_ABankrekening"
+        mc:Ignorable="d"
+        Title="Overzicht bankrekening" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="303*"></ColumnDefinition>
+            <ColumnDefinition Width="97*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="0,0,0,144" Grid.RowSpan="2">
+            <GroupBox>
+                <GroupBox.Header>Storting(+)/Opname(-)</GroupBox.Header>
+                <TextBox Width="70" x:Name="inputtedValue" HorizontalAlignment="Left" Margin="10"></TextBox>
+            </GroupBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <GroupBox>
+                <GroupBox.Header>Zichtrekening</GroupBox.Header>
+                <StackPanel>
+                    <Label x:Name="nameBoxZicht" FontWeight="Bold" Foreground="#FF616AC7">PXL Digital | Campus PXL Hasselt, Elfde-Liniestraat 26, 3500 Hasselt</Label>
+                    <Label x:Name="saldoZichtrekeningLbl"></Label>
+                    <Label x:Name="renteZichtrekeningLbl"></Label>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Margin="0,144,0,0" Grid.RowSpan="2">
+            <GroupBox>
+                <GroupBox.Header>Spaarrekening</GroupBox.Header>
+                <StackPanel>
+                    <Label x:Name="nameBoxSpaar" FontWeight="Bold" Foreground="#FF616AC7">PXL Digital | Campus PXL Hasselt, Elfde-Liniestraat 26, 3500 Hasselt</Label>
+                    <Label x:Name="saldoSpaarrekeningLbl"></Label>
+                    <Label x:Name="renteSpaarrekeningLbl"></Label>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+
+        <StackPanel Width="130" Grid.Row="2" Grid.Column="2" Margin="12">
+            <Button Margin="10" Click="BtnSaldo_Click">Saldo</Button>
+            <Button Margin="10" Click="Afsluiten_Click">Afsluiten</Button>
+        </StackPanel>
+    </Grid>
+</Window>

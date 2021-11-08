@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Deel 1\DirectoryClass.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 1\FileClass.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 1\FileInfoWriting.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 1\FileStreamReadWrite.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 1\OpenSaveFileDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 1\StreamWriterReader.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 1\TryCatchErrorHandling.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 1\Window1Show.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 1\Window2Show.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 2\ClassFunctionsParams.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 2\ClassGenericCollection\ListOfUsers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 2\Inheritance\InheritanceBetweenClasses.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 2\PasswordBox\LoginRegister.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 2\WindowLoadClosedClosing.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 2\WPFTabs\TabControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 3\DataSet DataRow DataView\DataSetDataRowDataView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Deel 3\SQL DataAdapter Reader Connection Command\DataAdapterDataReaderSqlConnSqlCommand.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefening 1 Emailbestand\EmailBestand.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefeningen Data\Oefening 23 DataSet Medewerkers\DataSetMdw.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefeningen Data\Oefening 24 DataSet Auto\AutoDS.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefeningen Klasses\Oefening 10 KlassePersoneel\KlassePersoneel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefening 2 StringZoekenBestand\StringZoekenBestand.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefening 3 PuntenBestand\PuntenBestand.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefeningen Klasses\Oefening 11 KlasseHuis\KlasseHuis.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefeningen Klasses\Oefening 17 ABankrekening\ABankrekening.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefeningen Klasses\Oefening 19 IList\IList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Oefeningenbundel\Oefeningen Klasses\Oefening 8 KlasseTeller\KlasseTeller.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Deel 1\DirectoryClass.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 1\FileClass.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 1\FileInfoWriting.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 1\FileStreamReadWrite.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 1\OpenSaveFileDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 1\StreamWriterReader.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 1\TryCatchErrorHandling.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 1\Window1Show.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 1\Window2Show.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 2\ClassFunctionsParams.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 2\ClassGenericCollection\ListOfUsers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 2\Inheritance\InheritanceBetweenClasses.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 2\PasswordBox\LoginRegister.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 2\WindowLoadClosedClosing.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 2\WPFTabs\TabControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 3\DataSet DataRow DataView\DataSetDataRowDataView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Deel 3\SQL DataAdapter Reader Connection Command\DataAdapterDataReaderSqlConnSqlCommand.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefening 1 Emailbestand\EmailBestand.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefeningen Data\Oefening 23 DataSet Medewerkers\DataSetMdw.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefeningen Data\Oefening 24 DataSet Auto\AutoDS.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefeningen Klasses\Oefening 10 KlassePersoneel\KlassePersoneel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefening 2 StringZoekenBestand\StringZoekenBestand.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefening 3 PuntenBestand\PuntenBestand.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefeningen Klasses\Oefening 11 KlasseHuis\KlasseHuis.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefeningen Klasses\Oefening 17 ABankrekening\ABankrekening.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefeningen Klasses\Oefening 19 IList\IList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Oefeningenbundel\Oefeningen Klasses\Oefening 8 KlasseTeller\KlasseTeller.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

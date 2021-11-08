@@ -1,0 +1,30 @@
+﻿<Window x:Class="ExamenOefenen.Deel_3.SQL_DataAdapter_Reader_Connection_Command.DataAdapterDataReaderSqlConnSqlCommand"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen.Deel_3.SQL_DataAdapter_Reader_Connection_Command"
+        mc:Ignorable="d"
+        Title="DataAdapterDataReaderSqlConnSqlCommand" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="clientsGrid"></DataGrid>
+
+        <StackPanel Grid.Column="1" Margin="30">
+            <TextBox x:Name="nameBox"></TextBox>
+            <Button Click="AddName">ADD NAME</Button>
+
+            <TextBox x:Name="changedNameBox"></TextBox>
+            <Button Click="ChangeName">CHANGE NAME</Button>
+            <Button Click="DeleteUserClick">DELETE </Button>
+
+            <TextBox x:Name="CharAboveBox" Margin="20" TextChanged="CharAboveBox_TextChanged"></TextBox>
+            <Label Content="Show With Character" HorizontalContentAlignment="Center"></Label>
+        </StackPanel>
+        
+
+    </Grid>
+</Window>

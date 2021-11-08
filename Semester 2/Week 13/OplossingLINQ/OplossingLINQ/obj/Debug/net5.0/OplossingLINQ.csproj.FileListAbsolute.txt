@@ -1,0 +1,16 @@
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\bin\Debug\net5.0\OplossingLINQ.exe
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\bin\Debug\net5.0\OplossingLINQ.deps.json
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\bin\Debug\net5.0\OplossingLINQ.runtimeconfig.json
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\bin\Debug\net5.0\OplossingLINQ.runtimeconfig.dev.json
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\bin\Debug\net5.0\OplossingLINQ.dll
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\bin\Debug\net5.0\ref\OplossingLINQ.dll
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\bin\Debug\net5.0\OplossingLINQ.pdb
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\OplossingLINQ.csprojAssemblyReference.cache
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\OplossingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\OplossingLINQ.AssemblyInfoInputs.cache
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\OplossingLINQ.AssemblyInfo.cs
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\OplossingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\OplossingLINQ.dll
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\ref\OplossingLINQ.dll
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\OplossingLINQ.pdb
+C:\Users\20003926\OneDrive - PXL\2020-2021\C# Advanced\1PRO C-D-E-F-G-H\Oefeningen LINQ\OplossingLINQ\OplossingLINQ\obj\Debug\net5.0\OplossingLINQ.genruntimeconfig.cache

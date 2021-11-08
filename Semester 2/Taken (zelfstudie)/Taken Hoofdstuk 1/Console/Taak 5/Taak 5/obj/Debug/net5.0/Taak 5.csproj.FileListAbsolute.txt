@@ -1,0 +1,16 @@
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\bin\Debug\net5.0\Taak 5.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\bin\Debug\net5.0\Taak 5.deps.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\bin\Debug\net5.0\Taak 5.runtimeconfig.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\bin\Debug\net5.0\Taak 5.runtimeconfig.dev.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\bin\Debug\net5.0\Taak 5.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\bin\Debug\net5.0\ref\Taak 5.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\bin\Debug\net5.0\Taak 5.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\Taak 5.csprojAssemblyReference.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\Taak 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\Taak 5.AssemblyInfoInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\Taak 5.AssemblyInfo.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\Taak 5.csproj.CoreCompileInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\Taak 5.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\ref\Taak 5.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\Taak 5.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\Taak 5\Taak 5\obj\Debug\net5.0\Taak 5.genruntimeconfig.cache

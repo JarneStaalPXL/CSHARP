@@ -1,0 +1,31 @@
+﻿<Window x:Class="ExamenOefenen.Oefeningenbundel.Oefening_3_PuntenBestand.PuntenBestand"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen.Oefeningenbundel.Oefening_3_PuntenBestand"
+        mc:Ignorable="d"
+        Title="Inlezen bestand met vaste lengte" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="170*"></RowDefinition>
+            <RowDefinition Height="47*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:Name="TxtResultaat" Grid.ColumnSpan="4" ></TextBox>
+
+        <Button Grid.Row="1" Margin="30" Click="Inlezen_Click">Inlezen</Button>
+        <Button Grid.Row="1" Grid.Column="1" Margin="30" Click="Verwerken_Click">Verwerken</Button>
+        <Button Grid.Row="1" Grid.Column="2" Margin="30" Click="Nalezen_Click">Nalezen</Button>
+        <Button Grid.Row="1" Grid.Column="3" Margin="30" Click="Sluiten_Click">Sluiten</Button>
+
+
+    </Grid>
+</Window>

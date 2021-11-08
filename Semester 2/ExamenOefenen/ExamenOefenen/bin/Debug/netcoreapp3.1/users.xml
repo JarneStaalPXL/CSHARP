@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <MEDEWERKERS>
+    <ID>1</ID>
+    <FIRSTNAME>Peter</FIRSTNAME>
+    <LASTNAME>Noss</LASTNAME>
+    <JOB>Coder</JOB>
+    <GENDER>M</GENDER>
+  </MEDEWERKERS>
+  <MEDEWERKERS>
+    <ID>2</ID>
+    <FIRSTNAME>Ara</FIRSTNAME>
+    <LASTNAME>Consta</LASTNAME>
+    <JOB>Manager</JOB>
+    <GENDER>M</GENDER>
+  </MEDEWERKERS>
+  <MEDEWERKERS>
+    <ID>3</ID>
+    <FIRSTNAME>fname</FIRSTNAME>
+    <LASTNAME>lname</LASTNAME>
+    <JOB>Logistics</JOB>
+    <GENDER>M</GENDER>
+  </MEDEWERKERS>
+  <MEDEWERKERS>
+    <ID>4</ID>
+    <FIRSTNAME>Bob</FIRSTNAME>
+    <LASTNAME>Ross</LASTNAME>
+    <JOB>Coder</JOB>
+    <GENDER>M</GENDER>
+  </MEDEWERKERS>
+  <MEDEWERKERS>
+    <ID>5</ID>
+    <FIRSTNAME>Jarne</FIRSTNAME>
+    <LASTNAME>Staal</LASTNAME>
+    <JOB>Chef</JOB>
+    <GENDER>M</GENDER>
+  </MEDEWERKERS>
+</NewDataSet>

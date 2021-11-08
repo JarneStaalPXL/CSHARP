@@ -1,0 +1,4 @@
+- ProjectDeel1 
+- Pager toevoegen aan project
+- SeedData toevoegen aan project
+- TagHelper maken

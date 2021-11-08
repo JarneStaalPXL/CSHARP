@@ -1,0 +1,22 @@
+﻿<Window x:Class="VoorbeeldExamen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoorbeeldExamen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Bestand">
+                <MenuItem Header="Afsluiten" Click="MenuAfsluiten_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Student">
+                <MenuItem Header="Opslaan CSV" Click="Opslaan_CSV_Click"></MenuItem>
+                <MenuItem Header="Opslaan data (XML)" Click="Opslaan_XML_Click"></MenuItem>
+                <MenuItem Header="Overzicht gegevens" Click="OverzichtGeg_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <ListBox Name="lstStudent" Width="700" SelectionChanged="lstStudent_SelectionChanged"/>
+    </DockPanel>
+</Window>

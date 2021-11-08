@@ -1,0 +1,5 @@
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 11 ValidatieLib (Class Library)\Validatietester\ValidatieLib\bin\Debug\ValidatieLib.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 11 ValidatieLib (Class Library)\Validatietester\ValidatieLib\bin\Debug\ValidatieLib.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 11 ValidatieLib (Class Library)\Validatietester\ValidatieLib\obj\Debug\ValidatieLib.csproj.CoreCompileInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 11 ValidatieLib (Class Library)\Validatietester\ValidatieLib\obj\Debug\ValidatieLib.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\Oefening 11 ValidatieLib (Class Library)\Validatietester\ValidatieLib\obj\Debug\ValidatieLib.pdb

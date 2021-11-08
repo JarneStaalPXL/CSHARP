@@ -1,0 +1,18 @@
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\bin\Debug\netcoreapp3.1\ValidatieLib.deps.json
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\bin\Debug\netcoreapp3.1\ValidatieLib.dll
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\bin\Debug\netcoreapp3.1\ValidatieLib.pdb
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.csprojAssemblyReference.cache
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.AssemblyInfoInputs.cache
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.AssemblyInfo.cs
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.csproj.CoreCompileInputs.cache
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.dll
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\bin\Debug\netcoreapp3.1\ValidatieLib.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\bin\Debug\netcoreapp3.1\ValidatieLib.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\bin\Debug\netcoreapp3.1\ValidatieLib.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\ValidatieLib\obj\Debug\netcoreapp3.1\ValidatieLib.pdb

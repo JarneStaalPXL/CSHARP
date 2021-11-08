@@ -1,0 +1,15 @@
+﻿<Window x:Class="Oefening_23_DataSet_Medewerkers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_23_DataSet_Medewerkers"
+        mc:Ignorable="d"
+        Title="MainWindow" Loaded="Window_Loaded" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="DataGridMed" Margin="52,138,53,40"/>
+        <Button Content="Tabel Medewerkers" HorizontalAlignment="Left" Margin="52,55,0,0" VerticalAlignment="Top" Height="39" Width="202" Click="BtnToevoegen"/>
+        <Button Content="Tabel Medewerkers CSV" HorizontalAlignment="Left" Margin="281,55,0,0" VerticalAlignment="Top" Height="39" Width="202" Click="BtnMedTabel"/>
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="511,55,0,0" VerticalAlignment="Top" Height="39" Width="202" Click="Clear"/>
+    </Grid>
+</Window>

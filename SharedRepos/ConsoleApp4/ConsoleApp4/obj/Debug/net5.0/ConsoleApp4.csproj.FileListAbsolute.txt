@@ -1,0 +1,48 @@
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.exe
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.deps.json
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.json
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.dll
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\ConsoleApp4.dll
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.pdb
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.dll
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\ConsoleApp4.dll
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.pdb
+C:\Users\jarne\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\ConsoleApp4.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\ConsoleApp4.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.deps.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\ConsoleApp4.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\ConsoleApp4.dll
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\SharedRepos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.genruntimeconfig.cache

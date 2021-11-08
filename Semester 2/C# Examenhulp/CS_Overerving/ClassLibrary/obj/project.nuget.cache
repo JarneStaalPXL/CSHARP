@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "24ZYv5zJCdlUPJUhoKiZwhRfdkRv6CTMPBQUo5roIb9LQgWzCJKZ7CC6M+SBrVa4PYXzOh8jNsv9zxlU22fdhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12001144\\OneDrive - PXL\\PXL C#\\CSHARP\\Semester 2\\C# Examenhulp\\CS_Overerving\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12001144\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\12001144\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

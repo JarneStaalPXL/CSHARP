@@ -1,0 +1,15 @@
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\bin\Debug\CS_Oefening_13.exe.config
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\bin\Debug\CS_Oefening_13.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\bin\Debug\CS_Oefening_13.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13_MarkupCompile.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13_MarkupCompile.lref
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13.g.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13.Properties.Resources.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\CS_Oefening_13.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\SportkampLeden.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_13\obj\Debug\SportkampLeden.baml

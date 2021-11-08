@@ -1,0 +1,15 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\bin\Debug\CS_Classes.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\bin\Debug\CS_Classes.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\bin\Debug\CS_Classes.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Classes\CS_Classes\obj\Debug\CS_Classes.pdb

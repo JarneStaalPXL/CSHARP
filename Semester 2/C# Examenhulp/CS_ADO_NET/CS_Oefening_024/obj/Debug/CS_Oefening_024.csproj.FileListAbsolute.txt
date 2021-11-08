@@ -1,0 +1,15 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\bin\Debug\CS_Oefening_024.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\bin\Debug\CS_Oefening_024.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\bin\Debug\CS_Oefening_024.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\MainWindow.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\MainWindow.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024.Properties.Resources.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024.csproj.GenerateResource.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_ADO_NET\CS_Oefening_024\obj\Debug\CS_Oefening_024.pdb

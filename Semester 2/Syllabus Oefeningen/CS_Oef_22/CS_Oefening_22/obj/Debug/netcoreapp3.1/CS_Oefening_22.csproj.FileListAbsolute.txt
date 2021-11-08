@@ -1,0 +1,44 @@
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.exe
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.deps.json
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.runtimeconfig.json
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.runtimeconfig.dev.json
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.dll
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.pdb
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\ValidatieLib.dll
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\ValidatieLib.pdb
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.csprojAssemblyReference.cache
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\ValidatieTester.g.cs
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\App.g.cs
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22_MarkupCompile.cache
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22_MarkupCompile.lref
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\ValidatieTester.baml
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.g.resources
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.AssemblyInfoInputs.cache
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.AssemblyInfo.cs
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.csproj.CoreCompileInputs.cache
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.csproj.CopyComplete
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.dll
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.pdb
+C:\CloudStation\PXL\2020-2021\C# Advanced\1PRO K-L\Oplossingen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.genruntimeconfig.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.deps.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.runtimeconfig.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.runtimeconfig.dev.json
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\CS_Oefening_22.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\ValidatieLib.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\bin\Debug\netcoreapp3.1\ValidatieLib.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\ValidatieTester.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22_MarkupCompile.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22_MarkupCompile.lref
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\ValidatieTester.baml
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.g.resources
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.AssemblyInfoInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.AssemblyInfo.cs
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.csproj.CopyComplete
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Syllabus Oefeningen\CS_Oef_22\CS_Oefening_22\obj\Debug\netcoreapp3.1\CS_Oefening_22.genruntimeconfig.cache

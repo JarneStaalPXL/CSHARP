@@ -16,3 +16,4 @@ selfie|ikkie
 comment|commentaar
 label|etiket
 database|databank
+digital |digitaal

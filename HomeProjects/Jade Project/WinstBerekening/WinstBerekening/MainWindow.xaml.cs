@@ -61,7 +61,7 @@ namespace WinstBerekening
 
             #endregion
 
-            van7000winstLbl.Content = $"€ { laatsteMaandwinst} van € 7000 verdient";
+            van7000winstLbl.Content = $"€ {laatsteMaandwinst} van € 7000 verdient";
             bedragInkomen1box.Focus();
         }
 

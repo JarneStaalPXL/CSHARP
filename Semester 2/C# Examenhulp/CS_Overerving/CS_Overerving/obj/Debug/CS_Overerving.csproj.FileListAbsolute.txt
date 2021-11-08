@@ -1,0 +1,10 @@
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\bin\Debug\CS_Overerving.exe.config
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\bin\Debug\CS_Overerving.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\bin\Debug\CS_Overerving.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\bin\Debug\ClassLibrary.dll
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\bin\Debug\ClassLibrary.pdb
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\obj\Debug\CS_Overerving.csprojAssemblyReference.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\obj\Debug\CS_Overerving.csproj.CoreCompileInputs.cache
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\obj\Debug\CS_Overerving.csproj.CopyComplete
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\obj\Debug\CS_Overerving.exe
+C:\Users\12001144\OneDrive - PXL\PXL C#\CSHARP\Semester 2\C# Examenhulp\CS_Overerving\CS_Overerving\obj\Debug\CS_Overerving.pdb

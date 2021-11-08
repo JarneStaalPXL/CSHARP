@@ -1,0 +1,15 @@
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\bin\Debug\Taak 1.exe.config
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\bin\Debug\Taak 1.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\bin\Debug\Taak 1.pdb
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak 1.csprojAssemblyReference.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\MainWindow.g.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\App.g.cs
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak 1_MarkupCompile.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak 1_MarkupCompile.lref
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\MainWindow.baml
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak 1.g.resources
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak_1.Properties.Resources.resources
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak 1.csproj.GenerateResource.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak 1.csproj.CoreCompileInputs.cache
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak 1.exe
+C:\Users\jarne\Desktop\OneDrive - PXL\PXL C#\CSHARP\Semester 2\Taken (zelfstudie)\Taken Hoofdstuk 1\WPF\Taak 1\Taak 1\obj\Debug\Taak 1.pdb

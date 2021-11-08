@@ -1,0 +1,24 @@
+﻿<Window x:Class="ExamenOefenen.FileClass"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen"
+        mc:Ignorable="d"
+        Title="FileClass" Height="450" Width="800">
+    <Grid>
+        <Button Content="File.AppendText" HorizontalAlignment="Left" Margin="10,8,0,0" VerticalAlignment="Top" Height="31" Width="127" Click="FileAppendText"/>
+        <Button Content="File.Create" HorizontalAlignment="Left" Margin="142,8,0,0" VerticalAlignment="Top" Height="31" Width="127" Click="FileCreate"/>
+        <Button Content="File.CreateText" HorizontalAlignment="Left" Margin="274,8,0,0" VerticalAlignment="Top" Height="31" Width="127" Click="FileCreateText"/>
+        <Button Content="File.Delete" HorizontalAlignment="Left" Margin="406,8,0,0" VerticalAlignment="Top" Height="31" Width="127" Click="FileDelete"/>
+        <Button Content="File.Copy" HorizontalAlignment="Left" Margin="538,8,0,0" VerticalAlignment="Top" Height="31" Width="127" Click="FileCopy"/>
+        <Button Content="File.Exists" HorizontalAlignment="Left" Margin="670,8,0,0" VerticalAlignment="Top" Height="31" Width="127" Click="FileExists"/>
+        <Button Content="File.OpenText" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Height="31" Width="127" Click="FileOpenText"/>
+        <Button Content="File.ReadAllLines" HorizontalAlignment="Left" Margin="142,44,0,0" VerticalAlignment="Top" Height="31" Width="127" Click="FileReadAllLines"/>
+        <Button Content="File.ReadAllLines length" HorizontalAlignment="Left" Margin="274,44,0,0" VerticalAlignment="Top" Height="31" Width="135" Click="FileReadAllLinesLength"/>
+        <Button Content="File.ReadAllText" HorizontalAlignment="Left" Margin="414,44,0,0" VerticalAlignment="Top" Height="31" Width="119" Click="FileReadAllText"/>
+        <Button Content="File.WriteAllText" HorizontalAlignment="Left" Margin="538,44,0,0" VerticalAlignment="Top" Height="31" Width="120" Click="FileWriteAllText"/>
+        <Button Content="File.AppendAllText" HorizontalAlignment="Left" Margin="663,45,0,0" VerticalAlignment="Top" Height="30" Width="127" Click="FileAppendAllText"/>
+        <Label x:Name="contentLbl" Content="Label" HorizontalAlignment="Left" Height="253" Margin="10,130,0,0" VerticalAlignment="Top" Width="790"/>
+    </Grid>
+</Window>

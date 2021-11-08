@@ -1,0 +1,39 @@
+﻿<Window x:Class="ExamenOefenen.Oefeningenbundel.Oefening_10_KlassePersoneel.KlassePersoneel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen.Oefeningenbundel.Oefening_10_KlassePersoneel"
+        mc:Ignorable="d"
+        Title="Gebruik van de klasse Personeel" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Margin="40">
+            <Label>Voornaam</Label>
+            <TextBox x:Name="TxtVoornaam" TextChanged="TxtVoornaam_TextChanged"></TextBox>
+
+            <Label>Naam</Label>
+            <TextBox x:Name="TxtNaam" TextChanged="TxtNaam_TextChanged"></TextBox>
+
+            <Label>Startjaar</Label>
+            <TextBox x:Name="TxtStartjaar" TextChanged="TxtStartjaar_TextChanged"></TextBox>
+
+            <Label>Geslacht</Label>
+            <ComboBox x:Name="CboGeslacht" SelectionChanged="CboGeslacht_SelectionChanged">
+                <ComboBoxItem>M</ComboBoxItem>
+                <ComboBoxItem>V</ComboBoxItem>
+            </ComboBox>
+
+            <TextBox x:Name="TxtResultaat"></TextBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+            <Button Margin="0,20" Width="200" Height="40" Click="BtnVerhoogBeoordeling">Verhoog beoordeling</Button>
+            <Button Width="200" Height="40" Click="BtnVerlaagBeoordeling">Verlaag beoordeling</Button>
+        </StackPanel>
+    </Grid>
+</Window>

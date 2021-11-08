@@ -1,0 +1,16 @@
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\bin\Debug\CS_Oefening_029.exe.config
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\bin\Debug\CS_Oefening_029.exe
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\bin\Debug\CS_Oefening_029.pdb
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\MainWindow.g.cs
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\ToevoegenWindow.g.cs
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\App.g.cs
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\CS_Oefening_029_MarkupCompile.cache
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\CS_Oefening_029_MarkupCompile.lref
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\MainWindow.baml
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\ToevoegenWindow.baml
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\CS_Oefening_029.g.resources
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\CS_Oefening_029.Properties.Resources.resources
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\CS_Oefening_029.csproj.GenerateResource.cache
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\CS_Oefening_029.csproj.CoreCompileInputs.cache
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\CS_Oefening_029.exe
+C:\Users\olci6\OneDrive\Documenten\VAKKEN SEMESTER2\C# EXAMENHULP\CS_ADO_NET\CS_Oefening_029\obj\Debug\CS_Oefening_029.pdb

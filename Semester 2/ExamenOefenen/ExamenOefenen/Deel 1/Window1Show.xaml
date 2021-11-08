@@ -1,0 +1,28 @@
+﻿<Window x:Class="ExamenOefenen.Window1Show"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenOefenen"
+        mc:Ignorable="d"
+        Title="Window1Show" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="6*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label FontSize="35" HorizontalContentAlignment="Center" Content="All Windows Part 1" HorizontalAlignment="Center" VerticalAlignment="Top" Height="70" Width="800" Grid.RowSpan="2"/>
+        <StackPanel Grid.Row="1" Margin="50">
+            <Button Click="SWR" Margin="5">StreamWriterReader</Button>
+            <Button Click="FSRW" Margin="5">FileStreamReadWrite</Button>
+            <Button Click="FC" Margin="5">FileClass</Button>
+            <Button Click="FIW" Margin="5">FileInfoWriting</Button>
+            <Button Click="TCEH" Margin="5">TryCatchErrorHandling</Button>
+            <Button Click="DC" Margin="5">DirectoryClass</Button>
+            <Button Click="OSFD" Margin="5">OpenSaveFileDialog</Button>
+            <Button Click="W2Show" Margin="5">Window2Show</Button>
+           
+        </StackPanel>
+
+    </Grid>
+</Window>

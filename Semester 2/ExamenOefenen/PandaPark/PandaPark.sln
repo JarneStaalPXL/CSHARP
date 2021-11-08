@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaPark", "PandaPark\PandaPark.csproj", "{8172FD55-9C25-4199-8D22-479761A033D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8172FD55-9C25-4199-8D22-479761A033D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8172FD55-9C25-4199-8D22-479761A033D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8172FD55-9C25-4199-8D22-479761A033D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8172FD55-9C25-4199-8D22-479761A033D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA95EA08-C17B-41C1-9660-BEAD6E5F00CC}
+	EndGlobalSection
+EndGlobal

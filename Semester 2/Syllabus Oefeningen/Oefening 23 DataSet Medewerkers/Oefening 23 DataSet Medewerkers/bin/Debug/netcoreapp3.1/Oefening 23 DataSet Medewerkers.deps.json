@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Oefening 23 DataSet Medewerkers/1.0.0": {
+        "runtime": {
+          "Oefening 23 DataSet Medewerkers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefening 23 DataSet Medewerkers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

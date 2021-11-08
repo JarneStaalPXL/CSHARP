@@ -1,0 +1,18 @@
+﻿<Window x:Class="Validatietester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Validatietester"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Geheel getal" HorizontalAlignment="Left" Margin="115,84,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.639,0.96" Height="42" Width="140"/>
+        <Label Content="Decimaal getal" HorizontalAlignment="Left" Margin="115,167,0,0" VerticalAlignment="Top" Height="42" Width="161"/>
+        <TextBox x:Name="TxtIntGetal" Tag="Geheel getal" HorizontalAlignment="Left" Height="37" Margin="447,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
+        <TextBox x:Name="TxtDecGetal" Tag="Decimaal getal" HorizontalAlignment="Left" Height="37" Margin="447,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
+        <Button Content="Test" HorizontalAlignment="Left" VerticalAlignment="Top" Width="219" RenderTransformOrigin="3.764,8.624" Margin="447,331,0,0" Height="33" Click="TestBtn_Click"/>
+        <Label x:Name="ouputLbl" Content="label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,244,0,0" Width="551" Height="42"/>
+
+    </Grid>
+</Window>
